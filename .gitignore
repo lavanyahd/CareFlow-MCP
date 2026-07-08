@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual environments
+venv/
+backend/venv/
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Local database
+*.db
+backend/*.db
+careflow.db
+
+# Generated reports
+backend/generated_reports/
+*.pdf
+
+# Node / React
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.cache

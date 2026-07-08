@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Emergency       0.76      0.90      0.83        21
+     Routine       0.76      0.67      0.71        52
+   Self-care       0.62      0.67      0.64        12
+        Soon       0.74      0.81      0.77        88
+      Urgent       0.80      0.72      0.76        67
+
+    accuracy                           0.75       240
+   macro avg       0.74      0.75      0.74       240
+weighted avg       0.76      0.75      0.75       240

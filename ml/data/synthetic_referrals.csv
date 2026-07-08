@@ -1,0 +1,1201 @@
+patient_id,age,gender,symptoms,duration_days,pain_score,diabetes,heart_disease,asthma,bp_high,pregnancy,previous_admissions,waiting_days,previous_missed_appointments,department,red_flag,urgency_label,dna_label,appointment_day,appointment_time,distance_band,previous_cancellations,reminder_sent
+P0001,60,Other,"shortness of breath, fatigue",2,1,1,1,0,0,0,0,30,0,Cardiology,0,Soon,Low,Friday,Morning,0-5 km,0,1
+P0002,49,Male,"shortness of breath, cough",3,7,0,0,0,0,0,0,45,0,Respiratory,0,Soon,Low,Thursday,Evening,0-5 km,0,1
+P0003,63,Female,"painful skin lesion, swelling, redness",7,2,1,1,0,0,0,0,59,0,Dermatology,0,Soon,Low,Tuesday,Afternoon,10-20 km,0,1
+P0004,79,Other,"vomiting, fatigue",45,4,0,0,0,1,0,1,8,0,General Medicine,0,Soon,Low,Wednesday,Afternoon,0-5 km,0,0
+P0005,47,Other,weight loss,45,9,0,0,0,1,0,0,75,0,General Medicine,0,Urgent,High,Wednesday,Morning,20+ km,2,0
+P0006,47,Male,chest pain,60,8,1,0,0,0,0,0,71,1,Cardiology,1,Emergency,High,Monday,Evening,0-5 km,1,1
+P0007,80,Other,cough,5,9,0,0,0,1,0,2,81,0,Respiratory,0,Urgent,Medium,Tuesday,Afternoon,5-10 km,1,1
+P0008,65,Other,"weight loss, fever",7,10,1,0,0,0,0,2,11,1,General Medicine,0,Urgent,Medium,Friday,Morning,0-5 km,0,1
+P0009,43,Other,"fatigue, dizziness",21,6,0,0,0,0,0,0,67,0,Cardiology,0,Soon,Low,Tuesday,Morning,5-10 km,0,1
+P0010,61,Female,skin rash,30,4,1,0,0,1,0,0,74,0,Dermatology,0,Urgent,Medium,Thursday,Afternoon,5-10 km,0,0
+P0011,43,Male,"shortness of breath, fatigue",45,8,1,0,0,1,0,0,24,0,Respiratory,0,Urgent,Low,Monday,Afternoon,5-10 km,1,1
+P0012,43,Female,"chest pain, fatigue, dizziness",21,1,0,0,0,0,0,3,34,2,Cardiology,0,Routine,High,Wednesday,Afternoon,20+ km,0,1
+P0013,56,Other,"itching, swelling",2,10,1,1,0,1,0,0,68,0,Dermatology,0,Urgent,Low,Tuesday,Morning,0-5 km,0,1
+P0014,17,Female,"fatigue, blood in stool, weight loss",10,4,0,0,0,0,0,1,41,0,Gastroenterology,0,Routine,Medium,Tuesday,Evening,20+ km,0,1
+P0015,20,Female,"fatigue, chest pain",7,6,1,0,0,0,0,0,57,1,Cardiology,1,Emergency,High,Friday,Evening,10-20 km,0,1
+P0016,41,Other,"cough, fever",14,4,0,0,0,0,0,1,34,0,Respiratory,0,Routine,Low,Monday,Morning,10-20 km,0,1
+P0017,33,Female,"palpitations, shortness of breath",5,9,0,0,0,1,0,0,48,0,Cardiology,0,Urgent,Low,Thursday,Morning,5-10 km,0,1
+P0018,57,Female,fatigue,5,4,0,0,0,0,0,2,23,2,General Medicine,0,Soon,High,Tuesday,Evening,0-5 km,1,1
+P0019,35,Male,"weakness, speech difficulty, severe headache",30,6,0,0,0,0,0,0,30,0,Neurology,1,Emergency,Low,Thursday,Afternoon,5-10 km,0,0
+P0020,26,Male,"fatigue, fever",10,1,0,0,0,0,0,0,56,0,Respiratory,0,Routine,High,Thursday,Evening,10-20 km,2,0
+P0021,78,Other,dizziness,7,6,1,0,0,0,0,0,86,2,Cardiology,0,Urgent,High,Monday,Evening,10-20 km,1,1
+P0022,47,Other,"weight loss, blood in stool",60,5,1,0,0,0,0,0,1,0,Gastroenterology,0,Routine,Low,Thursday,Evening,5-10 km,0,1
+P0023,53,Male,vomiting,60,6,0,0,0,0,0,0,31,1,Gastroenterology,0,Soon,High,Tuesday,Morning,5-10 km,0,0
+P0024,26,Male,"redness, painful skin lesion",5,1,0,0,0,0,0,2,14,1,Dermatology,0,Self-care,Medium,Tuesday,Evening,5-10 km,0,0
+P0025,42,Female,fatigue,30,10,0,0,0,0,0,2,65,0,General Medicine,0,Urgent,Medium,Tuesday,Evening,20+ km,1,1
+P0026,53,Female,vomiting,14,6,0,0,0,0,0,2,11,0,General Medicine,0,Soon,Low,Thursday,Evening,5-10 km,0,0
+P0027,31,Male,"vomiting, abdominal pain",60,7,0,0,0,0,0,0,46,0,Gastroenterology,0,Soon,Medium,Thursday,Evening,20+ km,0,1
+P0028,58,Other,"cough, weight loss",30,3,0,0,0,0,0,3,69,0,General Medicine,0,Soon,Medium,Friday,Evening,20+ km,0,0
+P0029,41,Male,"chest pain, palpitations",21,5,0,0,0,0,0,2,61,0,Cardiology,0,Soon,Low,Wednesday,Morning,0-5 km,0,1
+P0030,46,Other,shortness of breath,60,4,1,1,0,1,0,0,33,1,Cardiology,0,Urgent,High,Friday,Evening,5-10 km,2,1
+P0031,41,Female,fever,7,2,0,0,0,0,0,1,81,0,General Medicine,0,Routine,Medium,Friday,Morning,10-20 km,1,1
+P0032,85,Female,"fever, shortness of breath",14,8,0,0,0,0,0,1,56,0,Respiratory,0,Urgent,Medium,Friday,Evening,10-20 km,1,1
+P0033,51,Other,itching,60,7,0,1,0,1,0,0,64,1,Dermatology,0,Urgent,Medium,Thursday,Morning,5-10 km,0,1
+P0034,32,Male,"cough, fever",7,8,0,0,0,0,0,1,63,0,General Medicine,0,Soon,Low,Monday,Afternoon,0-5 km,0,1
+P0035,66,Male,"painful skin lesion, swelling",10,4,0,0,0,0,0,0,25,0,Dermatology,0,Routine,Low,Tuesday,Morning,5-10 km,0,1
+P0036,30,Other,"cough, fever",5,5,0,0,0,0,0,0,7,0,General Medicine,0,Self-care,Low,Thursday,Morning,5-10 km,1,1
+P0037,55,Male,abdominal pain,60,1,1,0,1,1,0,0,73,2,Gastroenterology,0,Soon,High,Tuesday,Morning,0-5 km,0,1
+P0038,16,Other,confusion,60,10,0,0,0,0,0,0,13,2,Neurology,0,Soon,High,Tuesday,Afternoon,5-10 km,0,0
+P0039,28,Female,redness,30,2,0,0,0,0,0,1,34,1,Dermatology,0,Routine,Medium,Thursday,Morning,5-10 km,0,1
+P0040,55,Male,fatigue,30,5,0,0,0,0,0,1,35,0,General Medicine,0,Soon,Medium,Thursday,Morning,20+ km,0,1
+P0041,65,Other,shortness of breath,10,10,1,0,0,0,0,0,23,0,Respiratory,0,Urgent,High,Wednesday,Morning,20+ km,2,1
+P0042,55,Male,"weight loss, cough",21,9,0,1,0,0,0,0,12,0,General Medicine,0,Soon,Low,Monday,Afternoon,10-20 km,1,1
+P0043,49,Female,"redness, skin rash",7,5,1,0,0,0,0,0,37,0,Dermatology,0,Routine,High,Monday,Morning,20+ km,2,1
+P0044,46,Female,severe headache,3,3,0,0,0,0,0,0,38,0,Neurology,0,Self-care,High,Thursday,Afternoon,10-20 km,2,0
+P0045,25,Other,fatigue,21,6,0,0,0,0,0,2,65,0,Cardiology,0,Soon,Low,Wednesday,Evening,0-5 km,0,1
+P0046,39,Other,fatigue,7,4,0,0,0,0,0,1,30,1,Gastroenterology,0,Routine,Medium,Monday,Afternoon,20+ km,0,1
+P0047,43,Male,"blood in stool, vomiting",30,2,0,0,0,0,0,0,59,0,Gastroenterology,0,Routine,High,Thursday,Evening,5-10 km,2,0
+P0048,71,Male,"shortness of breath, fever",30,9,0,0,0,1,0,0,9,0,Respiratory,0,Urgent,Low,Tuesday,Evening,10-20 km,0,1
+P0049,58,Other,weakness,14,7,0,0,1,0,0,0,68,0,Neurology,0,Soon,Low,Tuesday,Morning,5-10 km,0,1
+P0050,20,Other,"confusion, weakness",30,5,0,0,0,0,0,1,21,0,Neurology,0,Routine,Low,Friday,Afternoon,10-20 km,0,1
+P0051,57,Male,vomiting,10,1,0,1,0,0,0,3,85,0,Gastroenterology,0,Soon,Medium,Friday,Evening,0-5 km,1,1
+P0052,45,Other,"speech difficulty, weakness, confusion",5,2,0,0,0,1,0,2,83,0,Neurology,0,Soon,Medium,Monday,Evening,20+ km,0,0
+P0053,39,Male,"cough, fatigue",5,5,0,0,0,0,0,2,62,2,Respiratory,0,Soon,High,Wednesday,Morning,10-20 km,0,0
+P0054,63,Female,"weight loss, cough",10,10,1,0,0,1,0,0,82,2,General Medicine,0,Urgent,High,Tuesday,Afternoon,0-5 km,0,1
+P0055,70,Other,"shortness of breath, chest tightness",10,8,0,0,0,1,0,0,31,2,Respiratory,0,Urgent,High,Thursday,Afternoon,5-10 km,0,1
+P0056,68,Other,"fatigue, weight loss",14,4,0,0,0,0,0,0,31,1,General Medicine,0,Routine,Medium,Wednesday,Evening,0-5 km,1,1
+P0057,36,Female,abdominal pain,2,1,0,0,1,0,0,1,32,3,Gastroenterology,0,Self-care,High,Monday,Evening,5-10 km,0,0
+P0058,46,Female,fatigue,5,2,1,0,0,1,0,1,4,0,Respiratory,0,Self-care,Low,Tuesday,Evening,10-20 km,0,0
+P0059,57,Female,"chest pain, fatigue",60,1,0,0,0,1,0,1,85,0,Cardiology,0,Soon,High,Monday,Morning,20+ km,2,1
+P0060,69,Male,"dizziness, severe headache",60,9,0,0,0,1,0,1,49,3,Neurology,0,Urgent,High,Thursday,Evening,10-20 km,0,0
+P0061,43,Other,"fatigue, shortness of breath",3,6,0,0,0,0,0,0,86,0,Cardiology,0,Soon,Medium,Thursday,Morning,5-10 km,0,0
+P0062,48,Male,"shortness of breath, chest pain",21,1,0,0,0,1,0,3,77,0,Cardiology,1,Emergency,Low,Friday,Evening,0-5 km,0,1
+P0063,32,Female,"vomiting, cough",60,10,0,0,0,0,0,1,72,0,General Medicine,0,Urgent,Medium,Monday,Morning,10-20 km,0,1
+P0064,30,Male,cough,45,4,0,0,0,0,1,0,59,0,Respiratory,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0065,66,Other,shortness of breath,60,8,0,1,1,0,0,0,28,1,Cardiology,0,Urgent,Medium,Wednesday,Afternoon,0-5 km,0,1
+P0066,76,Other,"abdominal pain, blood in stool",5,5,0,0,1,1,0,0,16,0,Gastroenterology,0,Routine,Low,Tuesday,Morning,20+ km,0,1
+P0067,50,Other,"swelling, skin rash",14,10,0,0,0,0,0,0,52,1,Dermatology,0,Urgent,High,Wednesday,Morning,20+ km,0,1
+P0068,70,Female,"speech difficulty, severe headache",10,6,0,1,0,0,0,0,22,0,Neurology,1,Emergency,Low,Friday,Evening,0-5 km,0,1
+P0069,58,Male,"weakness, confusion, severe headache",5,8,1,1,0,0,0,0,73,1,Neurology,1,Emergency,High,Friday,Evening,20+ km,0,1
+P0070,40,Other,"chest tightness, fatigue",30,8,0,0,0,0,0,0,48,1,Respiratory,0,Urgent,Medium,Monday,Evening,0-5 km,0,1
+P0071,58,Other,"skin rash, redness",2,8,0,0,0,0,0,0,44,3,Dermatology,0,Soon,High,Friday,Evening,0-5 km,0,0
+P0072,79,Male,"vomiting, fatigue",2,6,0,0,0,0,0,0,13,0,General Medicine,0,Soon,Low,Wednesday,Afternoon,20+ km,0,1
+P0073,51,Other,vomiting,5,10,0,0,0,0,0,1,11,0,General Medicine,0,Soon,Low,Wednesday,Morning,20+ km,0,1
+P0074,80,Other,"fever, weight loss, cough",30,4,0,0,0,1,0,0,18,0,General Medicine,0,Soon,Low,Monday,Evening,10-20 km,1,1
+P0075,4,Other,fatigue,5,8,0,0,0,0,0,0,47,1,Cardiology,0,Soon,Medium,Thursday,Evening,5-10 km,0,1
+P0076,66,Male,chest tightness,10,7,0,1,0,0,0,0,54,2,Respiratory,0,Urgent,High,Friday,Morning,5-10 km,1,0
+P0077,53,Male,"fever, vomiting",21,2,0,0,0,0,0,2,29,1,General Medicine,0,Routine,Medium,Monday,Afternoon,10-20 km,0,1
+P0078,46,Female,blood in stool,5,1,1,0,0,0,0,0,61,1,Gastroenterology,0,Routine,Medium,Thursday,Afternoon,5-10 km,0,1
+P0079,53,Female,"fatigue, chest tightness, shortness of breath",60,8,0,0,0,1,0,0,64,0,Respiratory,0,Urgent,Medium,Friday,Evening,0-5 km,0,0
+P0080,16,Male,"fatigue, dizziness",45,9,0,0,0,0,0,1,65,0,Cardiology,0,Urgent,Medium,Thursday,Morning,20+ km,0,1
+P0081,48,Male,"severe headache, speech difficulty",5,1,1,0,1,0,0,0,44,1,Neurology,1,Emergency,Medium,Thursday,Evening,5-10 km,0,0
+P0082,58,Female,"dizziness, chest pain",45,7,0,1,0,1,0,3,70,0,Cardiology,1,Emergency,Low,Tuesday,Afternoon,0-5 km,0,1
+P0083,78,Other,fever,5,8,0,0,0,0,0,1,48,2,Respiratory,0,Urgent,High,Monday,Evening,10-20 km,0,1
+P0084,42,Female,skin rash,30,6,0,0,0,0,0,0,46,0,Dermatology,0,Soon,High,Wednesday,Evening,20+ km,2,1
+P0085,37,Female,"painful skin lesion, itching",3,4,0,0,0,0,1,1,47,0,Dermatology,0,Routine,Low,Friday,Morning,0-5 km,0,1
+P0086,42,Male,blood in stool,5,8,0,0,0,0,0,0,72,0,Gastroenterology,0,Soon,High,Thursday,Morning,10-20 km,2,1
+P0087,68,Male,shortness of breath,14,6,0,0,0,1,0,1,71,0,Respiratory,0,Urgent,Low,Tuesday,Evening,10-20 km,0,1
+P0088,57,Female,"severe headache, weakness",30,9,0,0,0,0,0,0,12,0,Neurology,1,Emergency,Low,Thursday,Evening,20+ km,0,1
+P0089,42,Other,"chest pain, dizziness, shortness of breath",5,3,0,0,0,0,0,0,8,1,Cardiology,1,Urgent,Medium,Wednesday,Morning,5-10 km,0,1
+P0090,61,Female,"fever, shortness of breath, cough",3,9,1,0,0,0,0,1,76,2,Respiratory,0,Urgent,High,Tuesday,Evening,5-10 km,0,1
+P0091,53,Male,"fever, vomiting",21,10,1,0,0,0,0,1,64,2,General Medicine,0,Urgent,High,Wednesday,Afternoon,10-20 km,0,1
+P0092,69,Male,shortness of breath,14,6,1,0,0,1,0,3,17,1,Respiratory,0,Urgent,Medium,Wednesday,Morning,0-5 km,0,1
+P0093,39,Female,dizziness,60,6,0,0,0,0,0,0,21,0,Cardiology,0,Soon,Medium,Thursday,Afternoon,20+ km,0,0
+P0094,46,Male,"blood in stool, weight loss, abdominal pain",45,1,1,0,0,0,0,2,56,0,Gastroenterology,0,Soon,Low,Wednesday,Afternoon,10-20 km,0,1
+P0095,44,Other,"swelling, skin rash",60,2,0,0,0,0,0,0,13,0,Dermatology,0,Self-care,Medium,Friday,Afternoon,10-20 km,1,0
+P0096,25,Other,abdominal pain,45,3,0,0,0,0,0,0,79,0,Gastroenterology,0,Routine,Medium,Friday,Evening,20+ km,1,1
+P0097,57,Other,"vomiting, cough",10,1,0,1,0,1,0,1,34,2,General Medicine,0,Routine,High,Monday,Evening,5-10 km,0,1
+P0098,56,Other,"itching, painful skin lesion, skin rash",21,4,0,0,0,0,0,0,79,2,Dermatology,0,Soon,High,Tuesday,Evening,0-5 km,0,1
+P0099,52,Other,"blood in stool, vomiting",10,10,0,0,0,0,0,0,32,0,Gastroenterology,0,Soon,Medium,Tuesday,Afternoon,10-20 km,1,1
+P0100,47,Other,speech difficulty,45,7,0,0,0,1,0,2,51,1,Neurology,0,Urgent,Medium,Wednesday,Morning,5-10 km,0,1
+P0101,26,Male,"weight loss, fatigue",60,10,0,0,0,0,0,0,7,1,General Medicine,0,Soon,Medium,Tuesday,Morning,5-10 km,0,1
+P0102,44,Male,"chest pain, shortness of breath",10,6,0,0,0,0,0,0,8,2,Cardiology,1,Urgent,High,Friday,Morning,0-5 km,0,1
+P0103,45,Female,fatigue,10,1,0,1,0,0,0,0,73,0,General Medicine,0,Routine,High,Wednesday,Afternoon,10-20 km,2,1
+P0104,37,Male,vomiting,10,3,0,0,1,0,0,0,44,1,General Medicine,0,Self-care,Medium,Tuesday,Evening,5-10 km,1,1
+P0105,49,Male,abdominal pain,7,8,1,0,0,1,0,1,43,0,Gastroenterology,0,Soon,Low,Wednesday,Evening,0-5 km,0,0
+P0106,59,Other,dizziness,10,6,0,0,0,0,0,1,29,2,Cardiology,0,Soon,High,Tuesday,Afternoon,20+ km,0,1
+P0107,85,Male,"confusion, weakness, severe headache",14,2,0,0,0,0,0,2,15,0,Neurology,1,Urgent,Low,Friday,Evening,5-10 km,0,1
+P0108,55,Other,"fatigue, vomiting",30,10,1,0,0,0,0,0,60,1,Gastroenterology,0,Urgent,High,Monday,Afternoon,10-20 km,0,0
+P0109,56,Female,swelling,30,1,0,0,1,0,0,0,24,1,Dermatology,0,Routine,Medium,Wednesday,Afternoon,20+ km,0,1
+P0110,50,Male,"fatigue, cough",7,1,0,0,0,0,0,1,39,0,Respiratory,0,Routine,High,Friday,Afternoon,20+ km,1,0
+P0111,17,Male,chest pain,7,4,1,0,0,0,0,0,77,0,Cardiology,1,Emergency,Low,Tuesday,Evening,0-5 km,0,1
+P0112,51,Other,"shortness of breath, cough, fever",14,4,0,0,0,0,0,0,19,3,Respiratory,0,Routine,High,Thursday,Afternoon,5-10 km,0,1
+P0113,53,Other,"weight loss, vomiting, fever",21,7,0,0,0,0,0,0,49,0,General Medicine,0,Soon,Medium,Tuesday,Morning,20+ km,0,1
+P0114,95,Male,"weight loss, fatigue",14,2,0,0,0,1,0,0,25,0,General Medicine,0,Routine,Medium,Friday,Evening,20+ km,0,0
+P0115,48,Other,"dizziness, weakness",3,8,0,0,0,1,0,2,90,0,Neurology,0,Urgent,Low,Thursday,Morning,5-10 km,0,1
+P0116,57,Male,"weight loss, fatigue",14,4,0,0,0,0,0,0,53,0,Gastroenterology,0,Soon,Low,Tuesday,Morning,5-10 km,0,1
+P0117,51,Other,weakness,14,5,0,0,0,0,0,1,63,2,Neurology,0,Soon,High,Thursday,Morning,20+ km,0,1
+P0118,30,Female,"confusion, severe headache",2,7,0,0,1,0,0,0,81,0,Neurology,0,Soon,Low,Monday,Morning,5-10 km,0,1
+P0119,72,Other,"redness, painful skin lesion, skin rash",10,1,1,0,1,0,0,0,90,1,Dermatology,0,Soon,High,Monday,Morning,5-10 km,0,0
+P0120,65,Other,"weight loss, vomiting, abdominal pain",3,1,0,0,0,0,0,0,49,0,Gastroenterology,0,Routine,Medium,Monday,Evening,20+ km,0,0
+P0121,66,Male,"cough, fever",60,8,0,0,0,0,0,0,10,1,General Medicine,0,Soon,Medium,Friday,Evening,10-20 km,0,0
+P0122,35,Male,shortness of breath,7,10,0,0,0,1,0,2,50,1,Cardiology,0,Urgent,Medium,Thursday,Evening,10-20 km,0,1
+P0123,77,Other,"palpitations, chest pain",60,7,1,0,1,0,0,3,42,0,Cardiology,1,Emergency,Low,Thursday,Afternoon,10-20 km,0,1
+P0124,26,Male,"vomiting, abdominal pain",21,3,0,0,0,1,0,1,41,0,Gastroenterology,0,Self-care,Low,Monday,Afternoon,0-5 km,0,1
+P0125,62,Female,dizziness,60,10,0,0,1,1,0,1,50,0,Cardiology,0,Urgent,Medium,Thursday,Morning,20+ km,0,1
+P0126,91,Female,redness,10,7,1,0,0,1,0,0,10,0,Dermatology,0,Soon,Low,Thursday,Evening,5-10 km,0,1
+P0127,34,Female,"fever, chest tightness, cough",10,6,0,0,0,0,0,1,89,0,Respiratory,0,Soon,High,Tuesday,Afternoon,10-20 km,2,1
+P0128,41,Other,"itching, swelling, painful skin lesion",45,3,0,0,0,0,0,1,71,0,Dermatology,0,Routine,Medium,Tuesday,Afternoon,20+ km,1,1
+P0129,53,Female,"dizziness, confusion",21,2,1,0,0,1,0,0,77,0,Neurology,0,Soon,Medium,Friday,Evening,20+ km,1,1
+P0130,42,Male,"swelling, skin rash",60,7,0,0,0,0,0,3,43,2,Dermatology,0,Soon,High,Monday,Morning,20+ km,0,0
+P0131,24,Other,"fatigue, blood in stool",14,1,0,0,0,0,0,0,38,0,Gastroenterology,0,Self-care,Low,Monday,Evening,0-5 km,0,1
+P0132,53,Male,"speech difficulty, dizziness",3,1,1,0,0,1,0,2,83,0,Neurology,0,Urgent,Medium,Tuesday,Evening,5-10 km,0,0
+P0133,32,Other,"vomiting, blood in stool",30,10,0,0,0,0,0,0,1,1,Gastroenterology,0,Soon,High,Wednesday,Evening,5-10 km,1,0
+P0134,60,Female,"speech difficulty, confusion",14,10,1,1,0,0,0,0,51,0,Neurology,0,Emergency,Low,Wednesday,Afternoon,10-20 km,0,1
+P0135,35,Other,"confusion, severe headache, speech difficulty",45,7,0,0,0,0,0,0,18,0,Neurology,1,Emergency,Low,Tuesday,Afternoon,20+ km,0,1
+P0136,79,Other,fatigue,14,1,0,1,0,0,0,0,25,1,General Medicine,0,Soon,Medium,Thursday,Evening,20+ km,0,1
+P0137,37,Male,abdominal pain,30,10,0,0,1,0,0,1,64,0,Gastroenterology,0,Urgent,Low,Friday,Morning,0-5 km,0,1
+P0138,46,Male,"redness, itching",2,8,0,0,0,0,0,0,12,0,Dermatology,0,Routine,Low,Tuesday,Morning,0-5 km,1,1
+P0139,66,Male,"weight loss, fatigue",45,5,0,0,0,0,0,1,22,0,General Medicine,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0140,29,Other,dizziness,7,3,0,0,0,0,0,1,32,1,Neurology,0,Self-care,High,Thursday,Morning,20+ km,0,1
+P0141,56,Male,shortness of breath,30,6,0,0,0,0,0,1,12,1,Respiratory,0,Soon,High,Wednesday,Morning,20+ km,1,1
+P0142,75,Male,"cough, vomiting",2,1,0,0,0,0,0,0,59,0,General Medicine,0,Soon,Low,Thursday,Afternoon,5-10 km,0,1
+P0143,23,Female,"cough, fatigue, weight loss",2,7,1,0,1,0,0,1,90,1,General Medicine,0,Soon,High,Monday,Evening,20+ km,0,0
+P0144,55,Female,dizziness,5,8,1,0,0,0,0,0,50,0,Cardiology,0,Urgent,Low,Monday,Afternoon,0-5 km,0,1
+P0145,56,Male,"weakness, confusion",7,3,1,0,0,1,0,2,79,1,Neurology,0,Soon,High,Monday,Morning,5-10 km,0,0
+P0146,66,Other,"weight loss, blood in stool, abdominal pain",2,5,1,1,0,0,0,0,78,0,Gastroenterology,1,Emergency,Medium,Wednesday,Evening,20+ km,0,1
+P0147,29,Female,vomiting,14,3,0,0,0,1,0,0,73,0,Gastroenterology,0,Routine,Medium,Thursday,Morning,5-10 km,0,0
+P0148,28,Male,"chest tightness, fever, fatigue",45,10,0,0,0,0,0,0,11,0,Respiratory,0,Soon,Low,Tuesday,Evening,5-10 km,0,1
+P0149,61,Other,dizziness,30,10,0,0,1,1,0,1,40,1,Neurology,0,Urgent,Medium,Monday,Morning,5-10 km,0,1
+P0150,57,Female,fatigue,10,2,0,0,0,1,0,1,4,0,Gastroenterology,0,Self-care,Low,Wednesday,Evening,20+ km,0,1
+P0151,56,Other,"painful skin lesion, swelling",60,2,1,0,0,1,0,0,66,0,Dermatology,0,Soon,Low,Tuesday,Morning,0-5 km,0,1
+P0152,58,Female,"chest pain, dizziness, fatigue",14,2,0,0,0,1,0,0,7,0,Cardiology,0,Self-care,Low,Thursday,Morning,0-5 km,1,1
+P0153,39,Male,"shortness of breath, fever",60,8,0,0,0,0,0,3,26,1,Respiratory,0,Urgent,High,Tuesday,Morning,5-10 km,1,0
+P0154,56,Other,"shortness of breath, fever, fatigue",7,7,0,0,0,1,0,0,8,3,Respiratory,0,Soon,High,Wednesday,Morning,5-10 km,0,0
+P0155,57,Other,"vomiting, abdominal pain, weight loss",21,3,1,1,0,1,0,0,34,1,Gastroenterology,0,Soon,High,Wednesday,Afternoon,20+ km,0,0
+P0156,39,Female,"chest pain, shortness of breath",7,8,0,0,0,0,0,0,34,1,Cardiology,1,Emergency,Medium,Tuesday,Evening,0-5 km,0,1
+P0157,85,Other,"palpitations, shortness of breath, chest pain",5,1,0,0,0,1,0,3,58,0,Cardiology,1,Emergency,Low,Monday,Afternoon,5-10 km,0,1
+P0158,60,Female,"shortness of breath, fatigue, chest pain",10,2,0,0,0,0,0,0,9,0,Cardiology,1,Urgent,Medium,Tuesday,Morning,20+ km,1,1
+P0159,30,Male,"chest pain, shortness of breath, palpitations",14,4,0,0,0,0,0,2,36,0,Cardiology,1,Emergency,Low,Monday,Evening,5-10 km,0,0
+P0160,63,Male,"vomiting, abdominal pain, fatigue",45,1,1,1,0,0,0,3,46,0,Gastroenterology,0,Urgent,Medium,Wednesday,Evening,20+ km,0,1
+P0161,34,Female,"chest pain, palpitations",5,2,1,0,0,0,0,0,31,0,Cardiology,1,Urgent,Low,Tuesday,Evening,0-5 km,1,1
+P0162,66,Male,"fatigue, vomiting, fever",14,10,0,0,0,0,0,1,73,2,General Medicine,0,Urgent,High,Friday,Afternoon,20+ km,0,0
+P0163,72,Female,fatigue,5,6,0,0,0,0,0,0,19,0,Respiratory,0,Soon,Low,Monday,Evening,5-10 km,1,1
+P0164,37,Male,"confusion, severe headache",30,6,0,0,0,0,0,0,72,1,Neurology,0,Soon,High,Tuesday,Evening,10-20 km,0,0
+P0165,69,Male,weakness,60,1,0,0,0,0,0,0,41,2,Neurology,0,Routine,High,Friday,Morning,5-10 km,1,0
+P0166,59,Other,palpitations,14,8,1,0,1,0,0,0,27,0,Cardiology,0,Urgent,Low,Wednesday,Afternoon,0-5 km,1,1
+P0167,66,Female,"blood in stool, vomiting",60,4,0,0,0,1,0,0,10,1,Gastroenterology,0,Routine,Medium,Wednesday,Morning,0-5 km,0,1
+P0168,86,Female,"cough, shortness of breath, fever",2,7,0,0,0,0,0,2,22,0,Respiratory,0,Urgent,Medium,Tuesday,Morning,20+ km,0,0
+P0169,47,Female,"fatigue, weight loss",30,3,0,0,1,0,0,0,1,0,Gastroenterology,0,Self-care,Low,Friday,Afternoon,10-20 km,0,0
+P0170,38,Female,"redness, skin rash, itching",21,3,0,0,0,0,0,0,49,0,Dermatology,0,Routine,Medium,Monday,Afternoon,20+ km,0,1
+P0171,35,Male,skin rash,45,1,1,0,0,0,0,2,67,0,Dermatology,0,Soon,High,Friday,Morning,20+ km,0,0
+P0172,37,Other,"fatigue, shortness of breath",7,3,0,0,0,0,0,0,11,3,Cardiology,0,Self-care,High,Tuesday,Evening,20+ km,0,1
+P0173,50,Male,"fever, vomiting, fatigue",2,10,0,0,0,0,0,1,54,0,General Medicine,0,Urgent,Low,Tuesday,Evening,5-10 km,0,1
+P0174,58,Female,"fever, cough",60,10,0,0,0,1,0,0,23,0,General Medicine,0,Urgent,Low,Friday,Evening,5-10 km,0,1
+P0175,56,Male,fatigue,10,5,1,0,0,0,0,0,63,1,General Medicine,0,Soon,Medium,Tuesday,Morning,0-5 km,0,1
+P0176,66,Male,"shortness of breath, cough",14,1,0,0,0,0,0,0,21,0,Respiratory,0,Routine,High,Tuesday,Evening,20+ km,1,0
+P0177,52,Female,fever,30,9,1,0,0,0,0,0,16,1,General Medicine,0,Urgent,Medium,Wednesday,Afternoon,5-10 km,0,0
+P0178,78,Male,itching,2,3,0,0,0,1,0,2,28,1,Dermatology,0,Soon,Medium,Tuesday,Afternoon,5-10 km,0,1
+P0179,47,Other,"shortness of breath, chest pain, dizziness",21,7,1,0,0,0,0,2,59,0,Cardiology,1,Emergency,Medium,Wednesday,Evening,20+ km,0,1
+P0180,95,Other,"palpitations, fatigue",10,5,0,1,1,0,0,1,84,0,Cardiology,0,Urgent,Medium,Friday,Morning,5-10 km,1,1
+P0181,63,Other,blood in stool,21,1,0,0,0,1,0,1,74,1,Gastroenterology,0,Routine,Medium,Tuesday,Evening,10-20 km,0,1
+P0182,36,Other,cough,10,9,0,0,0,1,0,1,24,2,Respiratory,0,Soon,High,Monday,Morning,10-20 km,0,1
+P0183,32,Male,"weight loss, fatigue, vomiting",60,2,0,0,0,0,0,0,25,0,Gastroenterology,0,Routine,Low,Friday,Afternoon,20+ km,0,1
+P0184,60,Female,dizziness,5,2,0,0,0,1,0,0,81,3,Cardiology,0,Routine,High,Monday,Morning,10-20 km,0,0
+P0185,47,Female,skin rash,2,1,1,0,0,0,0,0,48,2,Dermatology,0,Routine,High,Friday,Morning,10-20 km,0,0
+P0186,64,Other,"fever, fatigue",10,5,1,0,0,1,0,0,67,0,Respiratory,0,Soon,High,Thursday,Evening,10-20 km,2,1
+P0187,60,Male,chest tightness,45,3,1,0,0,1,0,0,84,1,Respiratory,0,Soon,High,Wednesday,Evening,20+ km,0,1
+P0188,50,Female,"skin rash, painful skin lesion",5,4,0,0,0,0,0,1,81,0,Dermatology,0,Soon,Medium,Monday,Evening,20+ km,0,1
+P0189,36,Other,"chest pain, fatigue, shortness of breath",45,4,0,0,0,0,0,0,53,0,Cardiology,1,Emergency,Medium,Friday,Afternoon,0-5 km,1,1
+P0190,24,Male,shortness of breath,45,2,0,0,0,0,0,1,13,2,Respiratory,0,Routine,High,Thursday,Afternoon,5-10 km,0,0
+P0191,43,Female,"cough, vomiting, fatigue",5,6,0,0,0,1,0,0,57,2,General Medicine,0,Soon,High,Monday,Afternoon,10-20 km,1,0
+P0192,67,Male,"vomiting, fatigue",2,3,0,0,0,1,0,0,76,0,Gastroenterology,0,Routine,Medium,Tuesday,Evening,20+ km,0,1
+P0193,55,Female,"fatigue, weight loss, vomiting",45,10,1,0,1,1,0,1,29,3,General Medicine,0,Urgent,High,Friday,Evening,10-20 km,0,1
+P0194,29,Male,swelling,60,1,0,0,0,0,0,0,21,0,Dermatology,0,Routine,Medium,Thursday,Morning,20+ km,0,1
+P0195,55,Female,fatigue,60,8,1,0,0,1,0,0,64,0,Respiratory,0,Urgent,Medium,Thursday,Evening,0-5 km,0,0
+P0196,58,Male,"chest pain, palpitations",2,4,0,0,0,0,0,2,43,0,Cardiology,0,Soon,Medium,Wednesday,Evening,20+ km,0,0
+P0197,36,Other,fever,21,2,0,0,1,0,0,0,26,0,Respiratory,0,Self-care,High,Tuesday,Afternoon,20+ km,1,0
+P0198,54,Male,"fatigue, chest pain",30,1,0,0,0,0,0,0,7,0,Cardiology,0,Routine,Medium,Friday,Afternoon,20+ km,1,1
+P0199,53,Female,weakness,21,10,1,0,0,1,0,2,32,0,Neurology,0,Urgent,Medium,Wednesday,Afternoon,10-20 km,1,0
+P0200,31,Other,"speech difficulty, confusion",10,6,0,0,0,0,0,2,17,3,Neurology,0,Soon,High,Friday,Evening,5-10 km,0,1
+P0201,58,Female,"confusion, dizziness",2,9,0,0,0,0,0,0,49,0,Neurology,0,Urgent,Medium,Tuesday,Afternoon,0-5 km,1,0
+P0202,62,Male,severe headache,3,10,0,0,0,1,0,2,72,1,Neurology,0,Urgent,High,Tuesday,Evening,20+ km,1,1
+P0203,71,Male,dizziness,2,5,0,0,0,1,0,0,57,1,Neurology,0,Soon,High,Friday,Evening,10-20 km,0,0
+P0204,70,Other,fatigue,2,7,0,1,0,0,0,0,34,0,General Medicine,0,Urgent,Low,Monday,Afternoon,10-20 km,0,1
+P0205,27,Female,chest pain,45,6,0,0,0,0,0,0,41,0,Cardiology,0,Soon,Medium,Friday,Morning,5-10 km,1,0
+P0206,35,Other,blood in stool,60,9,0,0,0,0,0,0,72,1,Gastroenterology,0,Urgent,High,Monday,Evening,0-5 km,0,0
+P0207,61,Other,"skin rash, swelling",2,9,0,0,1,1,0,2,48,0,Dermatology,0,Urgent,Medium,Thursday,Morning,20+ km,0,1
+P0208,61,Male,"blood in stool, abdominal pain, weight loss",3,4,1,0,0,0,0,0,90,2,Gastroenterology,1,Emergency,High,Monday,Evening,20+ km,0,0
+P0209,61,Other,shortness of breath,21,7,1,0,1,0,0,0,52,0,Respiratory,0,Urgent,Medium,Thursday,Evening,0-5 km,0,0
+P0210,95,Other,"painful skin lesion, skin rash",10,10,0,1,0,1,0,0,57,0,Dermatology,0,Urgent,Medium,Thursday,Morning,0-5 km,0,0
+P0211,62,Male,"speech difficulty, weakness, dizziness",2,9,0,0,0,0,0,2,19,0,Neurology,0,Urgent,Low,Friday,Evening,0-5 km,0,1
+P0212,72,Female,"fever, cough",10,4,0,0,0,1,0,0,86,1,Respiratory,0,Soon,High,Friday,Afternoon,0-5 km,0,0
+P0213,69,Other,fatigue,60,2,0,0,0,0,0,2,41,0,Cardiology,0,Soon,Low,Friday,Evening,10-20 km,0,1
+P0214,63,Other,"redness, itching, skin rash",14,3,0,0,0,0,0,1,43,2,Dermatology,0,Routine,High,Thursday,Afternoon,20+ km,1,1
+P0215,46,Female,"palpitations, shortness of breath",2,9,0,0,0,0,0,1,75,0,Cardiology,0,Urgent,Low,Monday,Evening,5-10 km,0,1
+P0216,65,Other,"weight loss, vomiting",45,2,1,0,0,1,0,0,65,0,Gastroenterology,0,Soon,Low,Friday,Evening,5-10 km,0,1
+P0217,38,Male,"fatigue, shortness of breath",3,5,0,0,0,0,0,0,6,1,Cardiology,0,Routine,Medium,Thursday,Afternoon,10-20 km,1,1
+P0218,47,Female,vomiting,21,7,0,0,0,0,0,0,84,2,General Medicine,0,Soon,High,Friday,Afternoon,0-5 km,0,1
+P0219,43,Other,"weight loss, vomiting, blood in stool",45,5,0,1,0,0,0,0,24,0,Gastroenterology,0,Soon,Low,Tuesday,Afternoon,0-5 km,1,1
+P0220,53,Male,"painful skin lesion, itching",5,9,0,0,0,1,0,0,74,0,Dermatology,0,Urgent,Low,Wednesday,Morning,5-10 km,0,1
+P0221,93,Other,"swelling, skin rash, redness",60,3,0,0,0,1,0,1,24,0,Dermatology,0,Soon,Low,Tuesday,Evening,10-20 km,0,1
+P0222,18,Other,redness,5,10,0,1,0,0,0,0,61,2,Dermatology,0,Urgent,High,Friday,Evening,0-5 km,1,0
+P0223,64,Other,"chest pain, dizziness",30,7,0,0,1,0,0,0,90,0,Cardiology,0,Urgent,Medium,Tuesday,Afternoon,20+ km,0,0
+P0224,22,Female,"chest tightness, fever, shortness of breath",21,4,1,0,1,0,0,1,41,0,Respiratory,0,Soon,Low,Tuesday,Afternoon,0-5 km,0,1
+P0225,43,Other,"weight loss, vomiting",45,8,0,0,0,0,0,0,40,0,Gastroenterology,0,Soon,Medium,Tuesday,Evening,20+ km,0,0
+P0226,71,Other,vomiting,5,7,0,0,0,0,0,3,1,1,General Medicine,0,Soon,Medium,Thursday,Evening,5-10 km,0,0
+P0227,53,Female,"chest tightness, fatigue",5,8,0,0,0,0,0,0,26,1,Respiratory,0,Soon,High,Tuesday,Morning,10-20 km,1,1
+P0228,32,Other,shortness of breath,21,6,0,0,0,1,0,1,52,0,Respiratory,0,Soon,Low,Monday,Morning,0-5 km,0,1
+P0229,39,Other,cough,5,7,0,0,0,0,1,0,72,0,General Medicine,0,Soon,Medium,Wednesday,Morning,10-20 km,1,1
+P0230,64,Other,"dizziness, confusion",30,10,0,0,0,0,0,2,62,0,Neurology,0,Urgent,Medium,Thursday,Evening,0-5 km,1,0
+P0231,38,Other,fever,14,2,0,1,0,0,0,1,23,0,Respiratory,0,Routine,Low,Tuesday,Evening,10-20 km,0,1
+P0232,55,Other,fatigue,60,6,1,0,0,1,0,0,14,0,General Medicine,0,Soon,Low,Thursday,Evening,0-5 km,0,1
+P0233,52,Female,"cough, weight loss",45,5,0,0,0,1,0,0,74,0,General Medicine,0,Soon,Medium,Thursday,Evening,20+ km,0,1
+P0234,40,Other,"severe headache, dizziness",14,10,0,1,0,0,0,2,24,0,Neurology,0,Urgent,Medium,Wednesday,Afternoon,5-10 km,2,1
+P0235,90,Female,weight loss,7,2,0,0,0,0,0,1,31,0,Gastroenterology,0,Routine,Medium,Tuesday,Morning,20+ km,1,1
+P0236,63,Male,dizziness,30,5,1,0,0,0,0,0,73,0,Neurology,0,Urgent,Low,Tuesday,Morning,0-5 km,0,1
+P0237,15,Other,"palpitations, fatigue",14,10,0,0,0,0,0,0,74,0,Cardiology,0,Soon,Low,Wednesday,Afternoon,5-10 km,0,1
+P0238,55,Other,fatigue,14,7,0,0,0,1,0,1,74,0,Gastroenterology,0,Soon,Low,Monday,Morning,0-5 km,0,1
+P0239,40,Other,chest tightness,30,7,0,0,0,0,0,0,3,0,Respiratory,0,Routine,Low,Wednesday,Evening,5-10 km,0,0
+P0240,67,Female,vomiting,10,10,0,1,0,0,0,0,84,2,Gastroenterology,0,Urgent,High,Wednesday,Morning,20+ km,0,1
+P0241,37,Other,"shortness of breath, chest pain",45,5,1,0,0,0,0,0,18,2,Cardiology,1,Emergency,Medium,Friday,Evening,5-10 km,0,1
+P0242,49,Other,"fatigue, weight loss",21,5,0,0,0,1,0,0,2,0,Gastroenterology,0,Self-care,Low,Wednesday,Afternoon,5-10 km,0,0
+P0243,61,Male,"fever, weight loss",45,7,0,0,0,0,0,0,21,1,General Medicine,0,Soon,High,Thursday,Morning,20+ km,0,1
+P0244,67,Female,"fatigue, weight loss",5,3,0,0,0,0,0,0,82,0,Gastroenterology,0,Routine,Medium,Wednesday,Evening,20+ km,0,0
+P0245,30,Female,"chest pain, shortness of breath, fatigue",2,8,0,0,0,1,0,0,54,0,Cardiology,1,Emergency,Medium,Wednesday,Afternoon,20+ km,0,0
+P0246,45,Female,"fever, cough, fatigue",2,2,1,0,0,0,0,3,32,0,General Medicine,0,Routine,High,Tuesday,Evening,20+ km,2,0
+P0247,43,Other,"weakness, dizziness",45,9,0,0,0,0,0,0,62,0,Neurology,0,Urgent,High,Wednesday,Morning,5-10 km,1,0
+P0248,40,Female,"shortness of breath, cough",60,8,0,0,0,0,0,1,20,0,Respiratory,0,Soon,Low,Tuesday,Morning,0-5 km,0,1
+P0249,83,Male,"fever, vomiting, fatigue",45,6,0,0,0,1,0,2,57,1,General Medicine,0,Urgent,Medium,Thursday,Afternoon,0-5 km,0,1
+P0250,59,Female,"weight loss, vomiting",60,9,1,1,0,0,0,0,68,0,Gastroenterology,0,Emergency,Medium,Wednesday,Evening,10-20 km,0,0
+P0251,29,Other,"abdominal pain, weight loss",21,4,0,0,0,0,0,0,64,1,Gastroenterology,0,Routine,Medium,Friday,Afternoon,5-10 km,0,1
+P0252,68,Female,"chest pain, shortness of breath",21,8,1,1,1,1,0,0,90,0,Cardiology,1,Emergency,Medium,Wednesday,Morning,0-5 km,0,0
+P0253,90,Female,"skin rash, redness, swelling",2,10,1,0,0,0,0,0,6,1,Dermatology,0,Urgent,High,Monday,Morning,10-20 km,2,0
+P0254,70,Other,"cough, fatigue",60,6,0,0,0,0,0,1,90,1,Respiratory,0,Urgent,Medium,Tuesday,Morning,0-5 km,0,1
+P0255,24,Other,"dizziness, palpitations, shortness of breath",14,10,0,0,0,0,0,0,70,0,Cardiology,0,Urgent,Medium,Wednesday,Afternoon,10-20 km,0,1
+P0256,43,Other,chest pain,14,1,0,0,0,0,0,1,89,1,Cardiology,0,Routine,High,Monday,Morning,5-10 km,0,0
+P0257,74,Male,"cough, fever",14,8,0,1,0,0,0,0,89,1,Respiratory,0,Urgent,Medium,Friday,Evening,0-5 km,0,1
+P0258,39,Other,"weight loss, fatigue",60,1,0,0,0,0,0,1,81,0,Gastroenterology,0,Routine,Medium,Friday,Morning,10-20 km,0,1
+P0259,59,Male,abdominal pain,3,4,0,0,0,0,0,0,51,0,Gastroenterology,0,Soon,Medium,Monday,Afternoon,10-20 km,0,0
+P0260,65,Male,"chest tightness, cough",45,10,0,0,0,0,0,3,68,0,Respiratory,0,Urgent,Low,Wednesday,Afternoon,0-5 km,0,1
+P0261,35,Female,"palpitations, fatigue",14,10,0,0,0,0,0,2,57,0,Cardiology,0,Urgent,Medium,Monday,Morning,20+ km,0,1
+P0262,50,Other,fever,14,2,1,0,0,0,0,0,61,0,General Medicine,0,Soon,Low,Friday,Morning,5-10 km,0,1
+P0263,1,Male,"itching, skin rash",7,10,0,0,0,0,0,0,60,1,Dermatology,0,Soon,Medium,Monday,Afternoon,0-5 km,0,1
+P0264,33,Other,fever,3,6,0,0,0,0,0,0,77,0,Respiratory,0,Soon,Medium,Tuesday,Evening,5-10 km,2,1
+P0265,47,Other,fatigue,14,5,0,0,0,1,0,0,65,0,Cardiology,0,Routine,Medium,Wednesday,Afternoon,0-5 km,1,1
+P0266,29,Female,"fatigue, vomiting, weight loss",60,4,0,0,1,0,0,0,74,0,General Medicine,0,Soon,Medium,Friday,Afternoon,10-20 km,0,0
+P0267,81,Other,"shortness of breath, fatigue",5,10,0,0,0,1,0,2,41,0,Cardiology,0,Urgent,Medium,Tuesday,Afternoon,0-5 km,1,0
+P0268,26,Female,"dizziness, confusion, weakness",7,2,0,0,0,0,0,0,4,1,Neurology,0,Self-care,Medium,Friday,Evening,10-20 km,0,1
+P0269,44,Female,"dizziness, weakness",30,8,0,0,0,0,0,0,25,0,Neurology,0,Soon,High,Monday,Afternoon,20+ km,2,0
+P0270,54,Other,"fever, fatigue",30,4,0,0,0,0,0,0,6,0,General Medicine,0,Routine,Low,Wednesday,Afternoon,20+ km,0,1
+P0271,77,Other,"abdominal pain, fatigue",21,1,0,0,1,0,0,1,67,1,Gastroenterology,0,Soon,Medium,Tuesday,Afternoon,0-5 km,0,1
+P0272,26,Male,"fatigue, abdominal pain",45,2,0,0,0,0,0,0,75,2,Gastroenterology,0,Routine,High,Thursday,Afternoon,5-10 km,0,0
+P0273,72,Male,"itching, redness",3,2,1,0,0,0,0,0,58,0,Dermatology,0,Soon,Low,Friday,Evening,0-5 km,0,1
+P0274,52,Other,painful skin lesion,5,3,0,0,0,0,0,2,23,1,Dermatology,0,Routine,Medium,Thursday,Afternoon,0-5 km,0,1
+P0275,34,Male,cough,30,9,0,1,0,1,0,2,78,2,Respiratory,0,Urgent,High,Tuesday,Evening,5-10 km,0,1
+P0276,60,Male,"shortness of breath, palpitations",14,1,0,0,0,1,0,0,5,1,Cardiology,0,Routine,Medium,Wednesday,Morning,10-20 km,0,1
+P0277,55,Female,fatigue,2,2,0,0,0,0,0,1,42,0,Cardiology,0,Routine,High,Monday,Afternoon,20+ km,1,0
+P0278,41,Male,"palpitations, fatigue",45,2,0,0,0,0,0,0,89,0,Cardiology,0,Routine,Medium,Thursday,Evening,10-20 km,1,1
+P0279,53,Other,"fatigue, weight loss",10,4,0,0,0,1,0,0,4,0,General Medicine,0,Routine,Medium,Tuesday,Evening,0-5 km,2,1
+P0280,45,Male,"cough, shortness of breath, fever",14,1,1,0,0,1,0,0,43,0,Respiratory,0,Routine,Low,Tuesday,Morning,0-5 km,0,1
+P0281,54,Other,"abdominal pain, blood in stool",21,1,0,0,0,0,0,2,39,0,Gastroenterology,0,Routine,Low,Friday,Evening,10-20 km,0,1
+P0282,63,Male,"speech difficulty, severe headache, dizziness",60,10,0,1,0,0,0,0,77,0,Neurology,1,Emergency,Low,Wednesday,Evening,10-20 km,0,1
+P0283,80,Male,"cough, fatigue",3,8,0,1,0,1,0,0,62,2,General Medicine,0,Urgent,High,Tuesday,Afternoon,5-10 km,1,1
+P0284,29,Other,shortness of breath,30,7,0,0,0,0,0,1,67,0,Respiratory,0,Urgent,Medium,Monday,Evening,10-20 km,1,1
+P0285,90,Male,fatigue,7,6,0,0,1,0,0,0,37,0,Gastroenterology,0,Soon,Medium,Thursday,Evening,10-20 km,0,0
+P0286,16,Male,"fatigue, chest pain, dizziness",60,4,0,0,0,0,0,0,40,0,Cardiology,0,Routine,Medium,Friday,Afternoon,10-20 km,0,0
+P0287,49,Other,"chest pain, dizziness",30,10,0,0,0,0,0,0,43,1,Cardiology,0,Soon,Medium,Thursday,Evening,0-5 km,0,1
+P0288,62,Other,"vomiting, fatigue",21,3,1,0,0,0,0,1,86,0,Gastroenterology,0,Soon,Low,Thursday,Afternoon,10-20 km,0,1
+P0289,57,Male,"weight loss, fatigue, vomiting",45,2,0,0,0,0,0,1,69,0,Gastroenterology,0,Soon,Medium,Tuesday,Evening,20+ km,0,0
+P0290,40,Male,fatigue,5,2,0,0,0,0,0,1,74,1,Gastroenterology,0,Routine,Medium,Friday,Evening,0-5 km,0,1
+P0291,48,Male,"chest pain, fatigue, palpitations",3,4,0,0,0,0,0,2,75,2,Cardiology,0,Soon,High,Tuesday,Evening,0-5 km,0,1
+P0292,43,Male,"itching, swelling",14,2,0,0,0,0,0,1,79,3,Dermatology,0,Routine,High,Tuesday,Afternoon,20+ km,0,1
+P0293,41,Female,"palpitations, chest pain",14,7,0,0,0,0,0,0,56,0,Cardiology,0,Soon,Low,Thursday,Morning,5-10 km,0,1
+P0294,67,Male,fatigue,21,3,1,1,1,0,0,0,83,1,General Medicine,0,Soon,High,Friday,Afternoon,20+ km,0,1
+P0295,58,Male,"swelling, itching",45,5,1,0,0,0,0,0,70,0,Dermatology,0,Urgent,Low,Monday,Evening,0-5 km,0,1
+P0296,39,Other,"blood in stool, weight loss",3,9,0,0,0,1,0,1,40,0,Gastroenterology,0,Soon,Low,Friday,Morning,10-20 km,0,1
+P0297,68,Male,swelling,10,10,0,0,0,1,0,0,81,0,Dermatology,0,Urgent,Low,Friday,Morning,5-10 km,0,1
+P0298,57,Other,skin rash,10,5,1,1,0,1,0,0,15,0,Dermatology,0,Soon,Low,Thursday,Afternoon,5-10 km,1,1
+P0299,66,Other,fatigue,5,8,0,0,1,1,0,1,53,1,Respiratory,0,Urgent,High,Thursday,Evening,5-10 km,0,0
+P0300,63,Other,cough,45,4,0,1,0,0,0,0,50,0,General Medicine,0,Urgent,Low,Friday,Afternoon,5-10 km,0,1
+P0301,37,Male,fatigue,21,10,0,1,0,0,0,2,35,0,Gastroenterology,0,Urgent,Low,Monday,Afternoon,10-20 km,0,1
+P0302,41,Other,"confusion, weakness",2,2,0,0,0,0,1,0,13,0,Neurology,0,Self-care,Low,Wednesday,Morning,20+ km,0,1
+P0303,65,Female,fatigue,3,2,0,0,0,0,0,2,17,0,Cardiology,0,Routine,Low,Monday,Evening,5-10 km,0,1
+P0304,62,Other,"cough, weight loss",10,1,0,0,0,1,0,0,43,3,General Medicine,0,Routine,High,Wednesday,Morning,10-20 km,0,1
+P0305,51,Female,redness,30,5,1,0,0,0,0,0,10,0,Dermatology,0,Soon,Medium,Thursday,Morning,10-20 km,1,0
+P0306,54,Other,dizziness,30,8,1,0,0,0,0,0,9,0,Cardiology,0,Urgent,Low,Thursday,Evening,0-5 km,1,1
+P0307,74,Other,"weight loss, fatigue, blood in stool",14,2,1,0,0,0,0,2,38,0,Gastroenterology,1,Emergency,Medium,Friday,Morning,5-10 km,2,1
+P0308,41,Male,"speech difficulty, dizziness, severe headache",60,4,0,0,0,1,1,0,9,1,Neurology,1,Emergency,High,Thursday,Evening,10-20 km,2,1
+P0309,61,Female,chest pain,45,3,0,1,0,0,0,1,30,2,Cardiology,1,Emergency,High,Tuesday,Afternoon,0-5 km,0,1
+P0310,48,Other,"shortness of breath, chest pain",5,10,1,1,0,0,0,0,14,0,Cardiology,1,Emergency,Low,Monday,Morning,5-10 km,0,1
+P0311,48,Other,painful skin lesion,5,6,0,0,0,1,0,0,36,0,Dermatology,0,Routine,Medium,Tuesday,Evening,20+ km,0,0
+P0312,71,Female,fever,3,1,0,0,0,1,0,0,12,1,General Medicine,0,Routine,Medium,Thursday,Evening,10-20 km,1,1
+P0313,66,Other,palpitations,5,8,0,0,0,0,0,1,12,0,Cardiology,0,Soon,Low,Wednesday,Afternoon,10-20 km,0,0
+P0314,66,Female,"vomiting, cough, weight loss",3,3,0,0,0,1,0,1,61,0,General Medicine,0,Routine,Low,Monday,Morning,5-10 km,0,1
+P0315,75,Male,"chest tightness, shortness of breath",45,2,1,1,0,1,0,0,31,1,Respiratory,0,Urgent,Medium,Thursday,Morning,10-20 km,0,1
+P0316,52,Female,severe headache,60,8,1,0,0,0,0,0,56,0,Neurology,0,Urgent,Medium,Tuesday,Afternoon,20+ km,0,1
+P0317,64,Female,"itching, swelling, skin rash",21,3,1,0,0,1,0,1,29,2,Dermatology,0,Routine,High,Friday,Morning,5-10 km,0,1
+P0318,46,Female,"dizziness, shortness of breath, palpitations",7,6,0,0,1,0,0,0,29,2,Cardiology,0,Soon,High,Friday,Morning,5-10 km,0,0
+P0319,57,Male,"dizziness, confusion",45,1,0,0,0,0,0,1,53,2,Neurology,0,Soon,High,Wednesday,Afternoon,5-10 km,0,1
+P0320,49,Female,vomiting,21,3,0,0,1,0,0,1,48,0,Gastroenterology,0,Routine,Medium,Monday,Afternoon,0-5 km,1,1
+P0321,53,Female,"fatigue, cough",14,1,0,1,0,0,0,0,47,0,Respiratory,0,Soon,Low,Wednesday,Afternoon,0-5 km,0,1
+P0322,62,Female,"itching, swelling",7,4,1,1,0,0,0,0,35,0,Dermatology,0,Soon,Medium,Wednesday,Morning,20+ km,0,1
+P0323,37,Male,"vomiting, weight loss, blood in stool",3,4,0,0,0,0,0,2,59,0,Gastroenterology,0,Soon,High,Tuesday,Afternoon,20+ km,2,0
+P0324,89,Female,"chest tightness, cough",45,3,0,0,0,1,0,0,54,0,Respiratory,0,Soon,Low,Wednesday,Morning,0-5 km,0,1
+P0325,33,Female,"cough, weight loss",45,9,0,0,0,0,0,0,39,0,General Medicine,0,Soon,Low,Tuesday,Afternoon,10-20 km,0,1
+P0326,30,Male,speech difficulty,5,3,0,0,0,0,0,2,89,2,Neurology,0,Soon,High,Tuesday,Morning,5-10 km,0,1
+P0327,72,Other,shortness of breath,30,9,1,0,0,0,0,3,69,0,Cardiology,0,Emergency,Medium,Thursday,Afternoon,0-5 km,1,1
+P0328,66,Male,"fatigue, palpitations, dizziness",60,3,0,0,0,0,0,1,57,0,Cardiology,0,Soon,Low,Thursday,Morning,0-5 km,0,1
+P0329,63,Male,"shortness of breath, dizziness",10,4,0,0,0,1,0,0,69,1,Cardiology,0,Soon,Medium,Friday,Afternoon,0-5 km,0,1
+P0330,63,Other,weight loss,14,6,0,0,0,0,0,0,58,2,Gastroenterology,0,Soon,High,Tuesday,Evening,0-5 km,1,1
+P0331,51,Male,dizziness,10,8,0,0,0,0,0,3,68,3,Neurology,0,Urgent,High,Friday,Afternoon,0-5 km,0,1
+P0332,35,Male,"fatigue, blood in stool",10,10,0,0,0,0,0,0,72,1,Gastroenterology,0,Soon,Medium,Monday,Morning,5-10 km,0,1
+P0333,53,Other,"cough, weight loss",30,2,1,0,0,1,0,1,47,0,General Medicine,0,Soon,Medium,Wednesday,Evening,20+ km,0,1
+P0334,39,Female,"shortness of breath, fever",5,1,0,0,0,0,0,0,54,0,Respiratory,0,Routine,Low,Monday,Afternoon,10-20 km,0,1
+P0335,69,Female,"blood in stool, abdominal pain",10,5,0,1,0,1,0,1,89,0,Gastroenterology,0,Soon,Medium,Tuesday,Morning,10-20 km,0,1
+P0336,49,Male,"blood in stool, abdominal pain, vomiting",45,9,1,0,0,0,0,1,90,1,Gastroenterology,0,Urgent,High,Thursday,Afternoon,0-5 km,1,0
+P0337,37,Female,"cough, vomiting",5,5,0,0,0,0,0,0,16,0,General Medicine,0,Self-care,Low,Tuesday,Afternoon,5-10 km,0,0
+P0338,46,Female,"abdominal pain, fatigue",45,10,1,0,0,1,0,0,16,2,Gastroenterology,0,Soon,Medium,Monday,Afternoon,0-5 km,0,1
+P0339,59,Female,fatigue,60,6,1,0,1,0,0,0,65,1,General Medicine,0,Urgent,Medium,Friday,Evening,5-10 km,0,1
+P0340,41,Female,"weight loss, blood in stool",45,8,0,0,0,1,0,0,76,0,Gastroenterology,0,Urgent,Medium,Tuesday,Afternoon,0-5 km,2,1
+P0341,37,Other,fever,45,1,0,0,0,0,0,0,64,0,Respiratory,0,Routine,Low,Thursday,Evening,10-20 km,0,1
+P0342,56,Male,"chest tightness, cough",2,8,0,0,0,0,0,1,51,0,Respiratory,0,Urgent,Low,Monday,Morning,0-5 km,0,1
+P0343,56,Female,"weakness, severe headache, confusion",21,8,0,0,0,0,0,0,75,0,Neurology,1,Emergency,Medium,Wednesday,Afternoon,20+ km,0,1
+P0344,42,Male,vomiting,3,1,0,0,0,0,0,2,64,1,Gastroenterology,0,Routine,High,Thursday,Evening,5-10 km,0,0
+P0345,43,Other,"painful skin lesion, redness",14,9,0,0,0,0,0,0,5,3,Dermatology,0,Routine,High,Thursday,Afternoon,0-5 km,0,1
+P0346,56,Male,palpitations,3,10,0,1,0,1,0,1,85,0,Cardiology,0,Urgent,Medium,Thursday,Evening,20+ km,1,1
+P0347,25,Male,"chest tightness, fever",14,6,0,0,1,0,0,2,75,0,Respiratory,0,Soon,Medium,Thursday,Morning,10-20 km,0,1
+P0348,26,Male,"cough, fatigue",14,3,0,0,0,1,0,0,42,0,Respiratory,0,Self-care,Medium,Friday,Evening,20+ km,1,1
+P0349,39,Other,weight loss,7,6,0,0,0,0,0,0,86,0,Gastroenterology,0,Soon,Low,Wednesday,Afternoon,10-20 km,0,1
+P0350,48,Female,"cough, vomiting",3,10,1,0,0,1,0,0,44,0,General Medicine,0,Soon,Medium,Thursday,Morning,20+ km,0,0
+P0351,57,Male,fatigue,45,3,0,0,0,0,0,2,81,1,Gastroenterology,0,Soon,Medium,Friday,Afternoon,5-10 km,0,1
+P0352,78,Other,vomiting,2,9,0,0,0,0,0,0,60,0,General Medicine,0,Urgent,Low,Wednesday,Afternoon,5-10 km,0,1
+P0353,67,Female,"swelling, painful skin lesion, redness",2,4,1,0,0,1,0,1,40,0,Dermatology,0,Soon,High,Thursday,Evening,20+ km,1,0
+P0354,49,Male,palpitations,2,1,0,0,0,0,0,2,11,0,Cardiology,0,Self-care,Low,Monday,Afternoon,10-20 km,1,1
+P0355,51,Female,"blood in stool, fatigue, abdominal pain",45,5,0,0,0,0,0,0,12,0,Gastroenterology,0,Routine,Low,Wednesday,Afternoon,0-5 km,1,1
+P0356,33,Other,"weakness, confusion, severe headache",30,9,0,0,0,0,0,0,15,0,Neurology,1,Emergency,Low,Thursday,Evening,20+ km,0,1
+P0357,51,Female,"fever, shortness of breath",2,4,0,0,1,0,0,0,50,0,Respiratory,0,Soon,Medium,Monday,Evening,10-20 km,1,1
+P0358,46,Male,"palpitations, fatigue, chest pain",30,6,0,0,0,0,0,2,83,0,Cardiology,0,Urgent,Medium,Wednesday,Morning,0-5 km,1,1
+P0359,57,Male,"speech difficulty, dizziness, severe headache",45,6,0,0,0,0,0,0,4,1,Neurology,1,Emergency,Low,Thursday,Evening,5-10 km,0,1
+P0360,37,Other,"shortness of breath, cough",60,7,0,0,0,0,0,1,41,0,Respiratory,0,Soon,Low,Wednesday,Morning,5-10 km,0,1
+P0361,61,Male,"shortness of breath, dizziness",45,10,0,0,0,1,0,1,12,3,Cardiology,0,Urgent,High,Wednesday,Evening,5-10 km,1,0
+P0362,79,Other,abdominal pain,30,8,0,1,0,1,0,0,27,0,Gastroenterology,0,Urgent,Medium,Wednesday,Evening,10-20 km,0,0
+P0363,50,Female,"swelling, itching, redness",30,4,1,0,1,0,0,0,88,0,Dermatology,0,Urgent,Low,Monday,Afternoon,0-5 km,0,1
+P0364,59,Other,vomiting,14,4,0,0,0,1,0,0,46,3,Gastroenterology,0,Soon,High,Monday,Afternoon,0-5 km,0,1
+P0365,64,Male,painful skin lesion,30,3,1,1,0,0,0,0,68,0,Dermatology,0,Urgent,Medium,Monday,Afternoon,10-20 km,0,0
+P0366,44,Male,"speech difficulty, confusion, dizziness",30,3,0,0,0,0,0,1,85,0,Neurology,0,Soon,High,Monday,Morning,20+ km,0,0
+P0367,56,Female,vomiting,45,8,0,0,0,1,0,0,15,1,Gastroenterology,0,Soon,Low,Monday,Afternoon,5-10 km,0,1
+P0368,52,Female,"cough, fatigue",3,4,0,0,0,0,0,1,87,0,General Medicine,0,Soon,Low,Monday,Afternoon,10-20 km,0,1
+P0369,53,Male,"shortness of breath, fever, fatigue",10,10,1,0,0,0,0,1,43,2,Respiratory,0,Urgent,High,Wednesday,Evening,20+ km,2,1
+P0370,38,Other,"palpitations, fatigue, chest pain",7,7,0,0,0,1,0,0,27,0,Cardiology,0,Routine,Medium,Wednesday,Evening,20+ km,1,1
+P0371,52,Female,"fever, cough, chest tightness",30,5,0,0,0,0,0,1,55,0,Respiratory,0,Soon,Medium,Wednesday,Evening,20+ km,0,1
+P0372,60,Female,dizziness,45,2,0,0,0,0,0,0,56,0,Cardiology,0,Soon,High,Wednesday,Morning,20+ km,2,1
+P0373,78,Male,"cough, fever",30,10,0,0,0,0,0,2,46,0,General Medicine,0,Emergency,Low,Friday,Morning,0-5 km,0,1
+P0374,69,Female,"severe headache, confusion, weakness",60,5,0,0,0,0,0,0,24,0,Neurology,1,Emergency,Medium,Friday,Afternoon,0-5 km,1,0
+P0375,90,Other,"chest pain, shortness of breath",30,5,0,0,0,0,0,1,79,0,Cardiology,1,Emergency,High,Wednesday,Morning,20+ km,0,0
+P0376,38,Female,"weakness, severe headache",45,4,0,0,0,0,0,0,60,0,Neurology,1,Emergency,High,Monday,Morning,20+ km,0,0
+P0377,67,Other,"abdominal pain, vomiting",2,2,0,1,0,0,0,1,56,3,Gastroenterology,0,Soon,High,Friday,Evening,20+ km,0,1
+P0378,55,Female,"fatigue, vomiting",10,7,1,1,1,0,0,2,15,0,Gastroenterology,0,Urgent,Low,Thursday,Evening,10-20 km,0,0
+P0379,91,Other,shortness of breath,30,3,0,0,0,0,0,2,50,2,Cardiology,0,Urgent,High,Thursday,Morning,10-20 km,0,1
+P0380,37,Other,"shortness of breath, fatigue",7,4,0,0,0,0,0,1,3,0,Cardiology,0,Routine,Low,Wednesday,Evening,10-20 km,0,1
+P0381,36,Other,dizziness,14,1,0,0,0,0,0,1,72,0,Cardiology,0,Routine,Low,Friday,Evening,5-10 km,0,1
+P0382,41,Male,"severe headache, confusion, speech difficulty",5,2,0,0,1,0,0,2,47,0,Neurology,1,Emergency,Low,Thursday,Evening,10-20 km,0,1
+P0383,13,Female,itching,30,6,0,0,0,0,0,0,22,0,Dermatology,0,Soon,Medium,Thursday,Afternoon,10-20 km,0,0
+P0384,42,Other,vomiting,14,1,0,0,0,0,0,0,2,1,Gastroenterology,0,Self-care,Low,Monday,Afternoon,0-5 km,0,1
+P0385,38,Female,"abdominal pain, blood in stool",45,5,0,0,0,0,0,0,88,1,Gastroenterology,0,Soon,Medium,Wednesday,Afternoon,10-20 km,0,1
+P0386,54,Other,redness,14,7,0,1,0,0,0,1,39,0,Dermatology,0,Soon,Low,Thursday,Evening,10-20 km,0,1
+P0387,58,Other,fever,45,10,0,0,0,0,0,0,39,1,General Medicine,0,Urgent,Medium,Monday,Afternoon,0-5 km,0,1
+P0388,85,Female,"chest pain, dizziness",60,10,0,0,0,0,0,1,81,1,Cardiology,0,Urgent,Medium,Wednesday,Afternoon,5-10 km,0,1
+P0389,69,Other,redness,14,8,0,0,0,0,0,0,55,1,Dermatology,0,Urgent,High,Monday,Morning,0-5 km,0,0
+P0390,41,Female,"fatigue, vomiting",21,8,0,0,0,0,0,1,63,1,Gastroenterology,0,Soon,High,Tuesday,Morning,20+ km,0,1
+P0391,35,Male,"fatigue, chest pain",3,10,0,0,1,0,0,2,15,0,Cardiology,0,Soon,Low,Monday,Evening,10-20 km,0,1
+P0392,60,Male,"cough, fatigue",5,8,0,0,0,1,0,0,71,0,Respiratory,0,Urgent,Low,Thursday,Afternoon,0-5 km,0,1
+P0393,28,Male,"confusion, weakness",14,2,0,0,0,0,0,1,86,0,Neurology,0,Routine,Medium,Tuesday,Afternoon,20+ km,0,0
+P0394,84,Other,"fever, fatigue",3,9,0,0,0,0,0,0,80,0,General Medicine,0,Urgent,Low,Friday,Evening,0-5 km,0,1
+P0395,73,Female,"shortness of breath, chest pain, fatigue",45,10,0,0,0,0,0,0,76,0,Cardiology,1,Emergency,Medium,Wednesday,Afternoon,0-5 km,0,0
+P0396,43,Other,shortness of breath,5,5,0,0,0,0,0,3,87,0,Respiratory,0,Soon,Medium,Tuesday,Morning,10-20 km,0,1
+P0397,21,Female,"fever, fatigue",60,4,0,0,0,0,0,0,65,0,Respiratory,0,Soon,Medium,Wednesday,Morning,0-5 km,0,1
+P0398,76,Female,"blood in stool, abdominal pain",5,5,1,0,0,1,0,1,58,0,Gastroenterology,0,Urgent,Medium,Tuesday,Afternoon,5-10 km,0,0
+P0399,49,Female,"fatigue, vomiting",5,1,1,0,0,0,0,0,62,0,Gastroenterology,0,Routine,High,Thursday,Afternoon,10-20 km,1,0
+P0400,74,Other,fatigue,45,5,0,0,0,1,0,2,27,0,Respiratory,0,Urgent,Low,Wednesday,Evening,10-20 km,0,1
+P0401,23,Male,"fever, fatigue",2,10,0,0,0,0,0,0,2,1,Respiratory,0,Routine,Medium,Friday,Evening,20+ km,0,1
+P0402,41,Other,"chest pain, fatigue, palpitations",21,3,0,0,0,0,0,2,90,3,Cardiology,0,Routine,High,Thursday,Afternoon,0-5 km,1,1
+P0403,52,Female,"speech difficulty, weakness",30,6,1,0,0,0,0,0,64,2,Neurology,0,Emergency,High,Monday,Morning,5-10 km,2,1
+P0404,52,Female,"weight loss, fatigue",3,10,0,0,0,0,0,0,9,0,General Medicine,0,Soon,Medium,Friday,Evening,5-10 km,1,0
+P0405,43,Other,"fatigue, palpitations, dizziness",2,6,0,0,0,0,0,0,53,0,Cardiology,0,Soon,Medium,Thursday,Afternoon,20+ km,0,0
+P0406,63,Other,chest tightness,2,4,0,0,0,1,0,3,55,2,Respiratory,0,Soon,High,Tuesday,Morning,5-10 km,0,0
+P0407,32,Other,"chest pain, palpitations",14,9,0,0,0,0,0,1,10,1,Cardiology,0,Routine,High,Monday,Evening,20+ km,0,0
+P0408,49,Female,"fever, fatigue",3,1,1,0,1,0,0,1,38,1,General Medicine,0,Routine,High,Monday,Evening,20+ km,1,0
+P0409,54,Other,"dizziness, confusion",2,8,0,0,0,1,0,0,76,0,Neurology,0,Urgent,Low,Monday,Evening,0-5 km,0,1
+P0410,61,Female,vomiting,2,1,1,0,0,0,0,0,75,0,General Medicine,0,Soon,Medium,Wednesday,Evening,10-20 km,1,1
+P0411,64,Female,"weight loss, fatigue",45,1,0,0,0,1,0,0,26,3,Gastroenterology,0,Routine,High,Monday,Afternoon,5-10 km,0,1
+P0412,31,Other,"cough, vomiting",2,8,0,0,0,0,0,0,1,0,General Medicine,0,Routine,Low,Thursday,Evening,5-10 km,0,1
+P0413,24,Male,"dizziness, weakness",5,5,0,1,1,0,0,0,81,0,Neurology,0,Soon,Medium,Monday,Morning,10-20 km,0,1
+P0414,74,Female,"cough, fatigue",5,7,1,1,0,0,0,1,15,0,General Medicine,0,Urgent,Low,Wednesday,Afternoon,5-10 km,0,1
+P0415,57,Other,"fatigue, dizziness",7,9,0,1,0,0,0,0,48,0,Cardiology,0,Urgent,High,Tuesday,Morning,20+ km,1,1
+P0416,38,Other,cough,30,4,1,0,0,0,0,1,61,1,Respiratory,0,Soon,Medium,Tuesday,Evening,0-5 km,0,1
+P0417,79,Other,"cough, fever",60,7,0,0,0,0,0,1,75,0,Respiratory,0,Urgent,Medium,Tuesday,Morning,5-10 km,0,0
+P0418,54,Female,"fatigue, cough, chest tightness",7,10,1,1,0,1,0,0,66,0,Respiratory,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,1
+P0419,73,Male,"cough, chest tightness",45,9,1,0,0,1,0,1,36,2,Respiratory,0,Urgent,High,Monday,Morning,0-5 km,0,1
+P0420,53,Male,palpitations,5,9,0,0,0,1,0,2,2,1,Cardiology,0,Soon,Medium,Wednesday,Afternoon,10-20 km,1,1
+P0421,89,Other,"shortness of breath, dizziness",45,8,1,0,0,1,0,1,60,0,Cardiology,0,Emergency,Low,Wednesday,Morning,0-5 km,0,1
+P0422,83,Male,"fatigue, shortness of breath",14,6,0,0,0,0,0,0,55,1,Respiratory,0,Urgent,High,Friday,Afternoon,20+ km,0,0
+P0423,47,Female,cough,21,4,0,0,0,0,0,2,9,0,General Medicine,0,Routine,Low,Thursday,Morning,5-10 km,0,1
+P0424,69,Other,fever,7,2,0,1,0,0,0,2,50,0,General Medicine,0,Soon,Low,Wednesday,Evening,5-10 km,0,1
+P0425,63,Male,vomiting,21,4,0,0,0,0,0,0,27,0,Gastroenterology,0,Routine,Low,Tuesday,Evening,20+ km,0,1
+P0426,76,Female,"weight loss, blood in stool",45,6,1,1,1,0,0,2,63,0,Gastroenterology,1,Emergency,Low,Monday,Afternoon,0-5 km,0,1
+P0427,34,Male,"speech difficulty, dizziness",21,8,0,0,0,0,0,0,85,0,Neurology,0,Urgent,Medium,Thursday,Evening,0-5 km,1,0
+P0428,64,Female,"fever, shortness of breath",45,2,0,0,0,0,0,3,10,1,Respiratory,0,Soon,Medium,Thursday,Afternoon,10-20 km,0,0
+P0429,71,Female,vomiting,3,3,0,0,0,0,0,0,60,0,Gastroenterology,0,Soon,Low,Monday,Evening,0-5 km,0,1
+P0430,20,Male,"shortness of breath, fatigue, chest pain",2,5,0,0,0,0,0,0,46,0,Cardiology,1,Emergency,Medium,Friday,Morning,0-5 km,0,0
+P0431,30,Other,"severe headache, dizziness",7,4,0,0,0,1,0,0,31,0,Neurology,0,Routine,Medium,Thursday,Morning,0-5 km,2,1
+P0432,15,Female,skin rash,3,6,0,0,0,0,0,0,81,0,Dermatology,0,Soon,High,Friday,Afternoon,5-10 km,1,0
+P0433,47,Female,chest pain,10,10,0,0,0,0,0,0,9,2,Cardiology,0,Routine,High,Wednesday,Evening,20+ km,0,1
+P0434,64,Other,"fatigue, blood in stool, vomiting",5,6,0,0,0,0,0,0,89,0,Gastroenterology,0,Soon,Medium,Monday,Afternoon,20+ km,0,1
+P0435,79,Male,"blood in stool, abdominal pain",7,10,1,0,0,1,0,0,18,0,Gastroenterology,0,Urgent,Low,Tuesday,Morning,10-20 km,0,1
+P0436,53,Female,"weight loss, cough",21,5,1,0,0,1,0,1,30,1,General Medicine,0,Soon,High,Wednesday,Morning,10-20 km,0,0
+P0437,81,Other,"fatigue, weight loss, cough",7,1,0,0,1,0,0,1,19,2,General Medicine,0,Routine,High,Monday,Morning,5-10 km,0,1
+P0438,27,Female,chest tightness,10,10,0,0,0,0,0,0,82,0,Respiratory,0,Soon,Medium,Monday,Afternoon,20+ km,0,0
+P0439,21,Male,"vomiting, blood in stool",10,10,0,0,1,0,0,0,71,1,Gastroenterology,0,Soon,High,Thursday,Afternoon,10-20 km,0,1
+P0440,51,Other,itching,14,8,0,1,0,1,0,0,54,2,Dermatology,0,Urgent,High,Thursday,Afternoon,10-20 km,0,1
+P0441,58,Female,abdominal pain,14,9,0,0,0,0,0,1,82,1,Gastroenterology,0,Urgent,High,Thursday,Afternoon,0-5 km,0,0
+P0442,51,Female,"fever, fatigue",5,1,1,0,0,1,0,0,12,0,General Medicine,0,Routine,Low,Thursday,Evening,20+ km,0,1
+P0443,14,Other,"fatigue, weight loss, vomiting",21,2,0,0,0,0,0,0,74,1,General Medicine,0,Routine,High,Tuesday,Afternoon,10-20 km,0,1
+P0444,50,Male,weakness,10,7,0,1,1,0,0,0,48,0,Neurology,0,Urgent,Low,Tuesday,Afternoon,5-10 km,0,1
+P0445,28,Male,itching,21,8,1,0,0,0,0,1,80,0,Dermatology,0,Urgent,Medium,Monday,Afternoon,5-10 km,0,0
+P0446,64,Female,"chest tightness, fatigue",60,1,0,1,1,0,0,0,67,1,Respiratory,0,Soon,High,Friday,Evening,20+ km,2,1
+P0447,58,Male,vomiting,14,7,0,0,0,1,0,0,8,3,Gastroenterology,0,Routine,High,Monday,Morning,10-20 km,0,1
+P0448,35,Other,"fever, vomiting, cough",30,9,0,0,0,0,0,0,25,0,General Medicine,0,Soon,Medium,Monday,Evening,10-20 km,0,0
+P0449,42,Other,"fatigue, chest tightness",30,2,0,0,1,0,0,1,38,0,Respiratory,0,Routine,Low,Friday,Evening,5-10 km,1,1
+P0450,32,Female,"palpitations, dizziness",7,3,0,0,1,0,0,1,85,1,Cardiology,0,Routine,Medium,Thursday,Evening,0-5 km,0,1
+P0451,50,Male,"fatigue, cough",30,2,0,0,0,0,0,1,43,2,General Medicine,0,Routine,High,Wednesday,Afternoon,0-5 km,1,1
+P0452,69,Other,"fatigue, vomiting",60,4,0,0,1,1,0,1,15,0,Gastroenterology,0,Routine,Low,Wednesday,Afternoon,5-10 km,0,0
+P0453,34,Female,redness,45,10,0,0,0,0,0,1,14,0,Dermatology,0,Soon,Medium,Wednesday,Morning,20+ km,1,1
+P0454,61,Female,"fatigue, weight loss",10,9,1,0,0,0,0,3,16,0,Gastroenterology,0,Urgent,Low,Tuesday,Afternoon,20+ km,0,1
+P0455,42,Female,fatigue,5,8,0,0,0,0,0,1,39,3,General Medicine,0,Soon,High,Monday,Evening,5-10 km,0,1
+P0456,37,Male,"weight loss, fever",21,2,0,0,0,0,0,0,75,1,General Medicine,0,Routine,Medium,Wednesday,Afternoon,0-5 km,0,1
+P0457,50,Male,weakness,60,2,1,0,0,0,0,1,19,0,Neurology,0,Routine,Low,Tuesday,Morning,20+ km,0,1
+P0458,33,Female,vomiting,2,2,0,0,0,0,0,0,63,0,General Medicine,0,Routine,Medium,Thursday,Evening,5-10 km,2,1
+P0459,42,Female,"dizziness, speech difficulty, confusion",45,4,0,0,0,1,0,0,74,3,Neurology,0,Urgent,High,Wednesday,Evening,20+ km,0,1
+P0460,30,Female,"vomiting, weight loss, fatigue",21,1,0,0,0,0,0,0,69,1,Gastroenterology,0,Routine,High,Monday,Evening,20+ km,1,1
+P0461,87,Other,"chest pain, shortness of breath",2,3,0,0,1,0,0,1,84,0,Cardiology,1,Emergency,High,Monday,Morning,10-20 km,2,1
+P0462,52,Male,fever,45,8,1,1,0,0,0,0,63,1,General Medicine,0,Emergency,Medium,Friday,Evening,10-20 km,0,1
+P0463,39,Other,weakness,60,6,0,0,0,0,0,0,80,0,Neurology,0,Soon,Medium,Wednesday,Afternoon,10-20 km,0,0
+P0464,55,Male,dizziness,7,6,0,1,0,0,0,1,83,1,Cardiology,0,Urgent,Medium,Thursday,Morning,5-10 km,0,1
+P0465,49,Male,"chest pain, palpitations",14,6,1,0,0,1,0,1,19,1,Cardiology,1,Urgent,Medium,Wednesday,Morning,5-10 km,0,1
+P0466,48,Female,shortness of breath,45,6,1,0,0,0,0,1,37,0,Respiratory,0,Urgent,Low,Monday,Morning,0-5 km,0,1
+P0467,63,Female,"fatigue, chest tightness",5,3,0,1,1,0,0,0,35,0,Respiratory,0,Routine,Low,Tuesday,Evening,10-20 km,0,1
+P0468,65,Female,"vomiting, weight loss",10,2,1,0,0,0,0,2,53,1,Gastroenterology,0,Soon,Medium,Monday,Morning,0-5 km,0,1
+P0469,42,Female,swelling,45,3,0,0,0,0,0,0,66,1,Dermatology,0,Routine,Medium,Thursday,Morning,0-5 km,0,1
+P0470,41,Other,"fatigue, palpitations",45,10,0,0,0,0,0,0,58,2,Cardiology,0,Urgent,High,Tuesday,Morning,5-10 km,0,0
+P0471,47,Male,"weight loss, fatigue",3,5,0,0,0,1,0,0,38,0,General Medicine,0,Routine,Low,Friday,Afternoon,0-5 km,0,1
+P0472,10,Other,"vomiting, fatigue, abdominal pain",5,7,0,0,0,0,0,0,13,0,Gastroenterology,0,Routine,Low,Monday,Evening,5-10 km,0,0
+P0473,24,Female,cough,10,2,0,0,0,0,0,3,85,1,General Medicine,0,Routine,High,Tuesday,Afternoon,5-10 km,0,0
+P0474,76,Other,chest pain,30,5,1,0,0,1,0,0,63,0,Cardiology,1,Emergency,Low,Wednesday,Afternoon,5-10 km,0,1
+P0475,81,Male,"chest pain, shortness of breath, fatigue",21,10,0,1,0,1,0,1,56,0,Cardiology,1,Emergency,High,Thursday,Morning,10-20 km,1,0
+P0476,47,Female,speech difficulty,7,8,0,0,0,1,0,1,14,1,Neurology,0,Soon,Medium,Tuesday,Evening,5-10 km,0,0
+P0477,62,Female,shortness of breath,21,9,0,0,0,1,0,0,82,3,Cardiology,0,Urgent,High,Wednesday,Afternoon,5-10 km,0,1
+P0478,57,Other,palpitations,2,1,0,0,0,1,0,0,42,0,Cardiology,0,Routine,Medium,Wednesday,Evening,20+ km,0,0
+P0479,95,Male,shortness of breath,14,10,0,0,0,1,0,0,48,0,Respiratory,0,Urgent,Low,Tuesday,Evening,10-20 km,0,1
+P0480,72,Female,"skin rash, itching",10,8,1,0,1,0,0,3,26,0,Dermatology,0,Urgent,Low,Monday,Morning,5-10 km,0,1
+P0481,49,Male,"vomiting, cough",21,9,0,0,0,0,0,2,65,1,General Medicine,0,Urgent,High,Friday,Afternoon,5-10 km,0,0
+P0482,34,Female,fatigue,5,8,0,0,0,0,0,1,50,0,General Medicine,0,Soon,Medium,Thursday,Evening,20+ km,0,0
+P0483,23,Female,"skin rash, redness",10,9,0,0,0,0,0,0,29,0,Dermatology,0,Soon,Low,Wednesday,Morning,5-10 km,0,1
+P0484,55,Male,fever,14,10,0,0,0,0,0,3,42,0,General Medicine,0,Urgent,Medium,Tuesday,Afternoon,10-20 km,1,1
+P0485,38,Female,swelling,60,2,0,0,0,0,0,1,89,0,Dermatology,0,Routine,Low,Friday,Evening,10-20 km,0,1
+P0486,26,Male,"chest tightness, cough",30,3,0,0,0,0,0,0,23,0,Respiratory,0,Routine,Low,Tuesday,Evening,20+ km,0,1
+P0487,40,Female,"weakness, severe headache",45,3,0,0,0,0,0,1,2,0,Neurology,1,Urgent,Medium,Thursday,Morning,20+ km,0,0
+P0488,32,Other,fever,3,9,0,0,0,0,1,1,44,1,General Medicine,0,Soon,Medium,Tuesday,Morning,0-5 km,0,1
+P0489,82,Male,dizziness,2,2,1,1,0,0,0,0,14,0,Neurology,0,Soon,High,Tuesday,Morning,20+ km,1,0
+P0490,67,Male,"weight loss, blood in stool",30,3,0,0,0,0,0,3,29,0,Gastroenterology,1,Emergency,Medium,Wednesday,Morning,10-20 km,0,0
+P0491,51,Female,"fatigue, weight loss",10,10,0,0,0,1,0,2,45,2,General Medicine,0,Urgent,High,Thursday,Evening,10-20 km,0,1
+P0492,78,Other,"weakness, confusion",3,2,0,0,0,0,0,1,36,0,Neurology,0,Routine,Medium,Tuesday,Morning,10-20 km,1,1
+P0493,53,Male,"vomiting, weight loss",45,9,1,0,0,0,0,0,69,1,Gastroenterology,0,Urgent,High,Monday,Evening,20+ km,0,1
+P0494,36,Other,severe headache,5,2,0,1,0,1,0,0,45,0,Neurology,0,Routine,Low,Wednesday,Afternoon,5-10 km,0,1
+P0495,79,Male,"shortness of breath, cough, fatigue",14,1,0,0,0,1,0,1,85,0,Respiratory,0,Soon,Medium,Friday,Morning,20+ km,0,1
+P0496,61,Female,chest tightness,10,8,1,1,0,0,0,0,44,0,Respiratory,0,Urgent,Low,Wednesday,Morning,0-5 km,0,1
+P0497,33,Female,itching,10,10,1,0,0,0,0,0,30,0,Dermatology,0,Soon,Low,Wednesday,Morning,5-10 km,0,1
+P0498,48,Female,"severe headache, weakness",30,8,0,0,0,0,0,0,83,0,Neurology,1,Emergency,High,Tuesday,Morning,20+ km,1,1
+P0499,36,Female,fever,3,4,0,0,1,0,0,1,40,0,Respiratory,0,Routine,Low,Monday,Morning,5-10 km,0,1
+P0500,27,Other,"dizziness, chest pain, fatigue",21,9,0,0,1,0,0,0,51,1,Cardiology,0,Soon,Medium,Monday,Afternoon,5-10 km,0,1
+P0501,68,Female,"abdominal pain, vomiting",3,2,0,0,1,1,0,3,30,2,Gastroenterology,0,Routine,High,Tuesday,Evening,5-10 km,0,1
+P0502,86,Other,"vomiting, blood in stool",21,4,0,0,0,0,0,0,79,0,Gastroenterology,0,Soon,High,Friday,Evening,5-10 km,2,0
+P0503,26,Female,"fatigue, chest pain, shortness of breath",14,6,1,0,0,0,0,0,23,1,Cardiology,1,Emergency,High,Wednesday,Afternoon,20+ km,2,1
+P0504,62,Male,skin rash,60,3,0,0,0,1,0,0,66,1,Dermatology,0,Soon,High,Wednesday,Morning,10-20 km,0,1
+P0505,40,Male,"fever, vomiting, cough",21,3,0,0,0,0,0,1,10,0,General Medicine,0,Self-care,Low,Monday,Afternoon,20+ km,0,1
+P0506,43,Male,chest pain,14,6,0,0,0,0,0,3,63,0,Cardiology,0,Soon,Medium,Monday,Afternoon,20+ km,0,1
+P0507,41,Male,fatigue,21,8,1,0,0,0,0,0,28,1,Cardiology,0,Soon,High,Wednesday,Afternoon,20+ km,0,0
+P0508,36,Female,chest tightness,3,7,0,0,0,0,0,0,39,0,Respiratory,0,Routine,Low,Thursday,Afternoon,10-20 km,0,1
+P0509,52,Female,"vomiting, weight loss",60,10,0,0,0,1,0,0,86,3,General Medicine,0,Urgent,High,Monday,Morning,10-20 km,1,1
+P0510,37,Male,weight loss,30,10,0,0,0,0,0,0,28,1,General Medicine,0,Soon,Medium,Thursday,Evening,5-10 km,0,0
+P0511,56,Male,cough,10,9,0,0,1,0,0,2,16,1,Respiratory,0,Soon,Medium,Thursday,Afternoon,20+ km,0,1
+P0512,51,Male,"abdominal pain, blood in stool",10,7,0,0,0,1,0,1,90,0,Gastroenterology,0,Soon,Medium,Monday,Morning,0-5 km,0,0
+P0513,47,Male,"fatigue, chest pain",7,4,0,0,0,0,0,1,71,0,Cardiology,0,Routine,Low,Thursday,Morning,5-10 km,0,1
+P0514,35,Male,"vomiting, abdominal pain, blood in stool",21,4,0,0,0,0,0,0,54,0,Gastroenterology,0,Routine,Medium,Tuesday,Afternoon,0-5 km,1,1
+P0515,41,Other,painful skin lesion,2,10,0,0,0,0,0,0,82,0,Dermatology,0,Soon,Low,Thursday,Afternoon,5-10 km,0,1
+P0516,65,Female,severe headache,45,3,0,0,0,0,0,2,27,0,Neurology,0,Soon,Low,Thursday,Morning,0-5 km,0,1
+P0517,61,Female,"skin rash, redness",5,4,1,0,0,0,0,1,29,0,Dermatology,0,Soon,Low,Thursday,Afternoon,5-10 km,0,1
+P0518,34,Female,"painful skin lesion, skin rash",5,2,0,0,0,0,0,0,47,2,Dermatology,0,Routine,High,Thursday,Morning,5-10 km,0,0
+P0519,53,Female,"blood in stool, vomiting",2,3,0,0,0,0,0,1,81,0,Gastroenterology,0,Routine,Medium,Monday,Afternoon,0-5 km,2,1
+P0520,65,Other,painful skin lesion,45,3,0,0,0,1,0,0,47,0,Dermatology,0,Soon,Medium,Monday,Afternoon,5-10 km,0,0
+P0521,21,Other,weight loss,30,7,0,0,0,0,0,0,52,2,General Medicine,0,Soon,High,Tuesday,Morning,10-20 km,0,1
+P0522,61,Male,vomiting,21,10,0,0,0,0,0,1,41,0,General Medicine,0,Soon,Medium,Thursday,Morning,20+ km,0,1
+P0523,40,Other,"severe headache, speech difficulty",14,7,0,0,0,0,0,0,24,1,Neurology,1,Emergency,High,Tuesday,Afternoon,20+ km,0,0
+P0524,62,Male,"shortness of breath, fatigue",7,9,0,1,0,0,0,0,37,0,Respiratory,0,Urgent,Low,Monday,Evening,5-10 km,0,1
+P0525,38,Other,"dizziness, fatigue, shortness of breath",10,7,0,0,1,0,0,0,58,0,Cardiology,0,Soon,Medium,Friday,Afternoon,10-20 km,0,0
+P0526,19,Female,"skin rash, redness, itching",14,1,0,0,1,0,0,0,13,1,Dermatology,0,Self-care,Medium,Wednesday,Afternoon,20+ km,0,1
+P0527,22,Female,painful skin lesion,3,6,1,0,0,0,0,2,14,0,Dermatology,0,Soon,Low,Monday,Morning,0-5 km,0,1
+P0528,52,Other,severe headache,2,5,1,0,0,0,0,2,6,0,Neurology,0,Soon,Low,Monday,Afternoon,10-20 km,0,1
+P0529,56,Male,cough,21,8,0,1,0,1,0,1,67,0,Respiratory,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,1
+P0530,35,Female,"chest pain, palpitations",3,2,0,0,0,0,0,3,8,0,Cardiology,0,Self-care,Low,Thursday,Afternoon,5-10 km,0,0
+P0531,63,Female,"confusion, speech difficulty",5,4,0,0,0,1,0,2,50,3,Neurology,0,Urgent,High,Thursday,Morning,5-10 km,0,1
+P0532,22,Other,"shortness of breath, cough, chest tightness",2,8,0,0,0,0,0,1,58,0,Respiratory,0,Urgent,Medium,Friday,Morning,0-5 km,0,0
+P0533,50,Male,"abdominal pain, vomiting",10,4,1,1,0,0,0,0,77,0,Gastroenterology,0,Urgent,Medium,Friday,Afternoon,20+ km,0,0
+P0534,30,Female,fever,60,7,0,0,0,0,0,0,13,0,General Medicine,0,Routine,Medium,Thursday,Morning,10-20 km,0,0
+P0535,40,Other,"shortness of breath, fatigue",7,3,0,0,0,0,0,0,9,0,Respiratory,0,Self-care,Medium,Thursday,Morning,10-20 km,2,1
+P0536,52,Male,fever,30,10,0,1,0,1,0,0,32,0,Respiratory,0,Urgent,Low,Monday,Evening,0-5 km,0,1
+P0537,36,Female,blood in stool,14,9,0,0,0,0,0,0,63,0,Gastroenterology,0,Soon,Medium,Monday,Afternoon,20+ km,0,1
+P0538,45,Other,"confusion, dizziness, severe headache",7,3,1,0,0,1,0,0,4,0,Neurology,0,Self-care,Medium,Wednesday,Morning,20+ km,0,0
+P0539,70,Male,"painful skin lesion, redness, swelling",10,5,1,0,0,1,0,0,75,0,Dermatology,0,Urgent,Medium,Friday,Morning,10-20 km,0,1
+P0540,41,Male,"chest tightness, cough, fatigue",30,5,0,0,0,0,0,0,38,0,Respiratory,0,Routine,Medium,Tuesday,Afternoon,0-5 km,1,0
+P0541,67,Male,"shortness of breath, fatigue",45,3,1,0,0,0,0,3,35,0,Respiratory,0,Urgent,Low,Thursday,Evening,5-10 km,1,1
+P0542,31,Female,"vomiting, fatigue",5,10,0,0,0,0,0,0,42,1,Gastroenterology,0,Soon,Medium,Tuesday,Afternoon,5-10 km,0,1
+P0543,61,Male,chest tightness,30,6,0,0,0,0,0,0,88,1,Respiratory,0,Urgent,High,Wednesday,Afternoon,20+ km,0,1
+P0544,77,Male,"dizziness, chest pain",5,10,0,0,0,1,0,0,73,2,Cardiology,0,Urgent,High,Thursday,Morning,0-5 km,0,0
+P0545,7,Other,abdominal pain,60,8,0,0,1,0,0,1,8,0,Gastroenterology,0,Soon,Low,Tuesday,Evening,0-5 km,0,1
+P0546,37,Male,"shortness of breath, palpitations, dizziness",3,2,0,0,1,0,0,0,78,2,Cardiology,0,Routine,High,Tuesday,Morning,0-5 km,0,0
+P0547,62,Other,abdominal pain,10,10,0,0,0,1,0,1,85,0,Gastroenterology,0,Urgent,Medium,Tuesday,Evening,20+ km,0,0
+P0548,48,Other,painful skin lesion,14,5,1,0,0,1,0,0,90,1,Dermatology,0,Soon,High,Thursday,Afternoon,20+ km,0,1
+P0549,58,Female,swelling,14,3,1,0,0,0,0,0,59,0,Dermatology,0,Soon,Medium,Wednesday,Evening,5-10 km,1,1
+P0550,41,Male,"vomiting, fever",5,5,0,0,0,0,0,1,85,0,General Medicine,0,Routine,Medium,Monday,Evening,20+ km,0,1
+P0551,53,Other,"painful skin lesion, swelling",21,2,1,0,0,1,0,0,21,0,Dermatology,0,Routine,Low,Thursday,Evening,0-5 km,0,1
+P0552,49,Other,weakness,10,2,0,0,0,0,0,0,10,0,Neurology,0,Self-care,Low,Friday,Evening,10-20 km,1,1
+P0553,73,Male,"shortness of breath, fatigue",21,9,1,0,0,1,0,2,25,0,Cardiology,0,Emergency,Medium,Monday,Morning,0-5 km,0,0
+P0554,56,Female,"fatigue, shortness of breath",7,4,0,0,0,0,0,1,61,0,Respiratory,0,Soon,Medium,Friday,Evening,10-20 km,1,1
+P0555,58,Male,"abdominal pain, fatigue",45,6,1,0,1,0,0,0,38,2,Gastroenterology,0,Urgent,High,Thursday,Evening,10-20 km,0,1
+P0556,44,Female,vomiting,45,2,0,0,0,0,0,1,34,1,General Medicine,0,Routine,Medium,Wednesday,Afternoon,0-5 km,0,1
+P0557,43,Female,"palpitations, chest pain",2,6,0,0,0,0,0,3,54,0,Cardiology,0,Soon,Medium,Friday,Afternoon,0-5 km,1,1
+P0558,44,Female,"shortness of breath, palpitations",2,1,0,0,0,0,1,1,26,0,Cardiology,0,Routine,Low,Monday,Evening,20+ km,0,1
+P0559,59,Male,"dizziness, weakness",14,7,1,1,0,0,0,2,31,0,Neurology,0,Urgent,Low,Tuesday,Afternoon,0-5 km,0,1
+P0560,44,Other,"skin rash, itching, painful skin lesion",7,5,1,0,0,1,0,0,51,0,Dermatology,0,Soon,Low,Monday,Morning,0-5 km,0,1
+P0561,57,Male,"weakness, dizziness, speech difficulty",10,6,0,0,0,0,0,1,65,0,Neurology,0,Urgent,High,Thursday,Evening,10-20 km,2,1
+P0562,89,Female,fatigue,5,1,1,0,0,0,0,3,90,0,Respiratory,0,Urgent,High,Monday,Morning,20+ km,0,0
+P0563,67,Male,skin rash,30,1,1,0,0,1,0,0,49,0,Dermatology,0,Soon,High,Friday,Morning,20+ km,0,0
+P0564,46,Male,"cough, vomiting, weight loss",2,2,1,1,0,0,0,1,87,0,General Medicine,0,Soon,Medium,Thursday,Evening,20+ km,0,1
+P0565,73,Male,"shortness of breath, fatigue",45,5,0,0,0,1,0,0,51,0,Cardiology,0,Urgent,Low,Wednesday,Afternoon,10-20 km,0,1
+P0566,44,Other,palpitations,2,6,0,0,0,1,1,0,72,0,Cardiology,0,Soon,Low,Friday,Morning,0-5 km,0,1
+P0567,15,Male,"cough, vomiting",2,4,0,0,0,0,0,0,5,0,General Medicine,0,Self-care,Low,Friday,Afternoon,20+ km,0,1
+P0568,33,Female,"cough, fever, vomiting",3,2,0,0,0,1,0,0,15,0,General Medicine,0,Self-care,Low,Tuesday,Afternoon,5-10 km,0,1
+P0569,18,Other,"weight loss, blood in stool",14,8,1,0,0,0,0,2,38,0,Gastroenterology,0,Urgent,Medium,Wednesday,Morning,5-10 km,0,0
+P0570,45,Other,"palpitations, fatigue",3,2,0,0,0,0,0,3,29,0,Cardiology,0,Routine,Low,Friday,Evening,20+ km,0,1
+P0571,52,Female,"painful skin lesion, redness",14,4,0,1,0,0,0,0,15,1,Dermatology,0,Routine,Medium,Thursday,Afternoon,20+ km,0,1
+P0572,82,Female,"vomiting, fatigue",45,4,0,0,0,0,0,1,53,1,General Medicine,0,Urgent,High,Friday,Afternoon,5-10 km,1,1
+P0573,57,Female,"shortness of breath, dizziness",3,7,0,0,0,0,0,0,71,1,Cardiology,0,Urgent,High,Monday,Morning,20+ km,1,1
+P0574,48,Female,"weakness, dizziness, confusion",14,10,0,0,0,0,0,1,14,3,Neurology,0,Routine,High,Monday,Evening,0-5 km,1,1
+P0575,66,Male,"redness, swelling",45,2,0,0,0,0,0,0,1,0,Dermatology,0,Routine,Low,Thursday,Afternoon,10-20 km,0,0
+P0576,12,Other,"skin rash, itching, redness",21,5,0,1,0,0,0,0,41,1,Dermatology,0,Routine,High,Monday,Evening,5-10 km,1,1
+P0577,56,Male,"fatigue, weight loss",5,5,1,0,1,1,0,2,34,3,Gastroenterology,0,Soon,High,Tuesday,Evening,0-5 km,0,0
+P0578,65,Other,"fever, vomiting",2,6,0,0,0,1,0,0,74,0,General Medicine,0,Soon,High,Friday,Morning,20+ km,1,1
+P0579,25,Female,"severe headache, dizziness, weakness",14,2,0,0,0,0,0,1,29,1,Neurology,1,Urgent,Medium,Tuesday,Evening,10-20 km,0,1
+P0580,72,Other,"weight loss, abdominal pain",2,1,0,0,0,1,0,0,76,0,Gastroenterology,0,Soon,Low,Tuesday,Afternoon,5-10 km,0,1
+P0581,58,Female,weakness,21,2,0,1,0,0,0,0,79,0,Neurology,0,Soon,Low,Monday,Afternoon,5-10 km,0,1
+P0582,44,Other,"redness, itching",21,10,0,0,0,0,0,0,62,0,Dermatology,0,Soon,Low,Monday,Afternoon,5-10 km,0,1
+P0583,63,Female,redness,30,8,0,0,0,0,0,1,88,0,Dermatology,0,Urgent,Low,Wednesday,Evening,10-20 km,0,1
+P0584,92,Male,"palpitations, fatigue",30,4,0,0,0,1,0,0,6,0,Cardiology,0,Soon,Medium,Tuesday,Evening,20+ km,1,1
+P0585,55,Other,"fatigue, palpitations, chest pain",14,6,0,1,0,0,0,1,71,0,Cardiology,1,Emergency,Medium,Friday,Morning,0-5 km,0,0
+P0586,56,Female,"fatigue, cough",2,1,0,0,0,1,0,2,68,0,General Medicine,0,Soon,Medium,Thursday,Morning,20+ km,0,1
+P0587,43,Female,"skin rash, swelling",10,2,0,0,0,0,0,0,65,1,Dermatology,0,Routine,High,Monday,Morning,20+ km,0,1
+P0588,36,Female,"dizziness, shortness of breath",10,5,0,0,0,0,0,0,13,0,Cardiology,0,Routine,Medium,Thursday,Afternoon,20+ km,0,0
+P0589,66,Male,"painful skin lesion, itching",3,8,0,0,0,0,0,0,4,0,Dermatology,0,Soon,Low,Thursday,Afternoon,5-10 km,0,0
+P0590,36,Male,"shortness of breath, fatigue, fever",60,8,0,0,0,0,0,0,73,1,Respiratory,0,Urgent,Medium,Thursday,Afternoon,0-5 km,0,1
+P0591,53,Female,"fatigue, dizziness",30,6,0,0,0,0,0,3,31,0,Cardiology,0,Urgent,Medium,Friday,Evening,20+ km,1,1
+P0592,43,Female,"fever, weight loss",3,1,0,1,0,0,0,2,64,0,General Medicine,0,Soon,Medium,Tuesday,Evening,20+ km,1,1
+P0593,60,Female,"fever, fatigue",45,4,0,0,0,0,0,2,48,0,Respiratory,0,Urgent,Low,Thursday,Afternoon,10-20 km,0,1
+P0594,58,Other,"weakness, confusion, speech difficulty",2,5,0,0,0,1,0,1,26,1,Neurology,0,Soon,High,Wednesday,Morning,20+ km,0,1
+P0595,70,Female,"shortness of breath, palpitations",60,5,0,0,0,0,0,0,52,2,Cardiology,0,Urgent,High,Monday,Evening,5-10 km,0,1
+P0596,42,Male,"shortness of breath, dizziness",60,8,0,0,0,0,0,0,1,1,Cardiology,0,Soon,Medium,Monday,Evening,5-10 km,0,0
+P0597,47,Female,"shortness of breath, cough, fever",7,9,0,0,0,1,0,0,50,1,Respiratory,0,Urgent,High,Wednesday,Evening,10-20 km,0,0
+P0598,34,Other,"cough, fatigue, weight loss",21,6,0,0,0,0,0,0,47,1,General Medicine,0,Soon,High,Thursday,Morning,10-20 km,0,1
+P0599,44,Female,abdominal pain,14,5,0,0,0,0,0,0,2,0,Gastroenterology,0,Self-care,Low,Wednesday,Evening,0-5 km,0,0
+P0600,58,Other,severe headache,30,8,0,0,0,0,0,0,83,1,Neurology,0,Urgent,Medium,Monday,Afternoon,0-5 km,0,1
+P0601,65,Female,weakness,14,2,1,0,1,0,0,2,36,3,Neurology,0,Soon,High,Friday,Evening,5-10 km,0,1
+P0602,35,Male,vomiting,2,2,0,0,1,0,0,0,65,0,General Medicine,0,Routine,Medium,Monday,Morning,10-20 km,0,1
+P0603,67,Female,"severe headache, speech difficulty",60,8,1,0,0,0,0,0,12,0,Neurology,1,Emergency,Low,Tuesday,Afternoon,0-5 km,0,1
+P0604,76,Female,speech difficulty,7,3,0,0,0,1,0,0,49,1,Neurology,0,Urgent,Medium,Wednesday,Morning,5-10 km,0,1
+P0605,59,Female,fever,45,8,1,0,1,0,0,2,88,1,Respiratory,0,Emergency,Medium,Friday,Afternoon,0-5 km,0,1
+P0606,85,Other,"weight loss, blood in stool",45,4,0,0,0,0,0,0,60,0,Gastroenterology,1,Emergency,Low,Friday,Evening,0-5 km,0,1
+P0607,38,Male,"redness, skin rash",30,6,0,0,0,0,0,0,13,0,Dermatology,0,Routine,Medium,Wednesday,Morning,10-20 km,0,0
+P0608,29,Female,"fatigue, vomiting",30,7,0,0,0,0,0,0,30,1,Gastroenterology,0,Soon,Medium,Thursday,Afternoon,0-5 km,1,1
+P0609,19,Male,itching,60,3,0,0,0,0,0,0,43,1,Dermatology,0,Routine,High,Monday,Afternoon,0-5 km,1,0
+P0610,78,Male,abdominal pain,7,7,0,1,0,1,0,0,32,0,Gastroenterology,0,Urgent,Medium,Monday,Afternoon,10-20 km,0,0
+P0611,63,Other,"dizziness, confusion",5,7,0,0,0,1,0,1,37,1,Neurology,0,Soon,Medium,Friday,Afternoon,20+ km,0,1
+P0612,50,Other,"weakness, confusion",21,2,0,0,0,0,0,1,18,0,Neurology,0,Self-care,Low,Tuesday,Afternoon,0-5 km,0,1
+P0613,57,Other,palpitations,5,7,0,0,1,0,0,1,14,0,Cardiology,0,Routine,Low,Wednesday,Evening,0-5 km,0,1
+P0614,31,Male,speech difficulty,21,7,0,0,0,1,0,1,39,0,Neurology,0,Soon,Low,Friday,Afternoon,0-5 km,0,1
+P0615,95,Other,"fever, shortness of breath",5,1,0,0,0,0,0,0,76,0,Respiratory,0,Soon,High,Thursday,Morning,20+ km,0,0
+P0616,54,Male,fatigue,45,5,0,0,0,1,0,0,46,0,Gastroenterology,0,Soon,Medium,Wednesday,Afternoon,20+ km,0,1
+P0617,53,Male,"dizziness, weakness",10,6,1,0,0,1,0,3,89,0,Neurology,0,Urgent,High,Monday,Morning,20+ km,0,0
+P0618,65,Other,"fever, weight loss",21,1,0,0,0,0,0,0,33,1,General Medicine,0,Routine,High,Thursday,Morning,0-5 km,1,1
+P0619,60,Male,"itching, skin rash",5,5,0,0,0,0,0,0,6,0,Dermatology,0,Routine,Low,Wednesday,Afternoon,5-10 km,0,0
+P0620,56,Male,redness,14,4,0,0,0,1,0,0,37,1,Dermatology,0,Routine,Medium,Friday,Afternoon,20+ km,0,1
+P0621,37,Male,"weight loss, fatigue",45,3,0,0,0,0,0,1,33,0,Gastroenterology,0,Routine,High,Thursday,Evening,0-5 km,2,0
+P0622,60,Other,"cough, vomiting",60,7,0,0,0,0,0,0,3,1,General Medicine,0,Soon,Medium,Friday,Evening,10-20 km,0,0
+P0623,85,Other,"chest pain, fatigue",21,9,0,1,1,1,0,0,28,0,Cardiology,1,Emergency,Low,Wednesday,Afternoon,10-20 km,0,1
+P0624,76,Other,"cough, weight loss",5,3,1,0,0,1,0,0,1,0,General Medicine,0,Routine,Low,Thursday,Evening,10-20 km,0,1
+P0625,80,Male,"redness, painful skin lesion",3,10,1,1,0,0,0,1,53,2,Dermatology,0,Emergency,High,Friday,Morning,10-20 km,0,1
+P0626,42,Other,"fatigue, dizziness",7,3,0,0,0,0,0,0,26,0,Cardiology,0,Self-care,Low,Monday,Morning,10-20 km,0,1
+P0627,34,Female,"weakness, confusion",5,4,0,0,1,0,0,0,9,0,Neurology,0,Self-care,Medium,Thursday,Evening,0-5 km,2,1
+P0628,49,Female,"confusion, severe headache, speech difficulty",2,5,0,0,0,1,0,2,6,0,Neurology,1,Emergency,Low,Thursday,Morning,20+ km,0,1
+P0629,53,Other,weakness,10,2,0,0,0,1,0,0,89,0,Neurology,0,Routine,Medium,Tuesday,Afternoon,20+ km,0,1
+P0630,71,Male,"confusion, speech difficulty",14,10,0,0,0,1,0,0,38,0,Neurology,0,Urgent,Low,Friday,Evening,5-10 km,0,1
+P0631,21,Other,"cough, fatigue",60,5,0,0,0,0,0,0,2,0,Respiratory,0,Routine,Medium,Thursday,Evening,20+ km,1,1
+P0632,79,Other,"palpitations, fatigue, shortness of breath",21,1,0,0,0,0,0,1,9,0,Cardiology,0,Routine,Low,Tuesday,Morning,10-20 km,0,1
+P0633,49,Other,"speech difficulty, dizziness",45,4,0,0,0,0,0,1,47,1,Neurology,0,Urgent,High,Monday,Afternoon,20+ km,0,1
+P0634,44,Other,"fever, vomiting",7,4,0,0,0,0,0,1,59,0,General Medicine,0,Routine,Medium,Friday,Afternoon,10-20 km,0,0
+P0635,33,Female,cough,45,1,1,0,0,0,0,0,82,0,General Medicine,0,Soon,Medium,Monday,Afternoon,20+ km,0,0
+P0636,22,Other,"swelling, skin rash",7,10,0,0,1,0,0,2,79,1,Dermatology,0,Urgent,Medium,Wednesday,Afternoon,0-5 km,0,1
+P0637,66,Female,"fever, fatigue",30,2,1,0,0,0,0,3,24,0,Respiratory,0,Soon,Medium,Friday,Afternoon,10-20 km,0,0
+P0638,53,Male,redness,7,4,0,0,0,1,0,0,40,0,Dermatology,0,Routine,Low,Monday,Evening,20+ km,0,1
+P0639,28,Other,itching,45,8,0,0,0,0,0,1,54,1,Dermatology,0,Urgent,Medium,Tuesday,Afternoon,10-20 km,0,1
+P0640,28,Male,fever,2,7,0,0,0,0,0,0,53,0,Respiratory,0,Soon,Low,Thursday,Afternoon,5-10 km,0,1
+P0641,45,Female,swelling,7,10,1,0,0,0,0,0,36,0,Dermatology,0,Soon,Low,Tuesday,Afternoon,5-10 km,0,1
+P0642,82,Other,"abdominal pain, vomiting, weight loss",2,2,0,0,0,0,0,0,44,0,Gastroenterology,0,Routine,Medium,Thursday,Afternoon,10-20 km,0,0
+P0643,47,Other,"dizziness, shortness of breath, chest pain",45,5,0,0,0,0,0,1,38,1,Cardiology,1,Emergency,Medium,Monday,Evening,5-10 km,0,1
+P0644,24,Male,"fatigue, vomiting",10,5,0,0,0,0,0,1,3,0,General Medicine,0,Self-care,Medium,Thursday,Afternoon,20+ km,1,1
+P0645,47,Other,"palpitations, chest pain, fatigue",30,5,0,1,0,0,0,1,82,0,Cardiology,1,Emergency,High,Friday,Morning,0-5 km,2,1
+P0646,47,Other,"chest pain, dizziness",10,8,0,0,0,0,0,0,20,1,Cardiology,0,Routine,Low,Tuesday,Evening,0-5 km,0,1
+P0647,3,Other,"severe headache, dizziness, speech difficulty",5,5,0,0,0,1,0,2,75,1,Neurology,1,Emergency,High,Friday,Afternoon,10-20 km,0,0
+P0648,51,Other,"vomiting, fatigue, fever",2,3,0,1,0,1,0,0,9,0,General Medicine,0,Routine,Low,Tuesday,Evening,10-20 km,0,1
+P0649,47,Male,fatigue,21,1,0,1,0,0,0,0,27,0,General Medicine,0,Routine,Low,Thursday,Afternoon,20+ km,0,1
+P0650,64,Other,weakness,30,10,0,0,0,1,0,0,41,0,Neurology,0,Urgent,Low,Monday,Evening,5-10 km,0,1
+P0651,85,Female,weight loss,3,7,0,0,0,0,0,2,84,0,General Medicine,0,Urgent,Low,Thursday,Afternoon,0-5 km,0,1
+P0652,72,Other,itching,30,1,0,1,1,0,0,0,27,1,Dermatology,0,Soon,High,Wednesday,Evening,10-20 km,0,0
+P0653,47,Female,"shortness of breath, fatigue",21,6,0,0,0,1,0,2,34,0,Cardiology,0,Soon,Low,Monday,Afternoon,0-5 km,0,1
+P0654,32,Other,"fever, weight loss, cough",21,2,0,0,1,0,0,0,61,0,General Medicine,0,Routine,Medium,Friday,Afternoon,20+ km,0,1
+P0655,95,Other,"palpitations, shortness of breath",30,10,0,0,0,0,0,0,29,0,Cardiology,0,Urgent,Low,Tuesday,Evening,5-10 km,0,0
+P0656,53,Male,"cough, fatigue",60,9,1,0,0,0,0,0,35,1,Respiratory,0,Urgent,Medium,Wednesday,Afternoon,5-10 km,0,0
+P0657,52,Other,weight loss,7,3,0,0,0,1,0,0,2,0,General Medicine,0,Self-care,Low,Wednesday,Morning,20+ km,0,1
+P0658,51,Other,"vomiting, weight loss, fatigue",5,5,0,0,0,0,0,0,63,1,Gastroenterology,0,Soon,High,Monday,Evening,20+ km,1,1
+P0659,55,Male,"chest pain, shortness of breath",5,6,1,0,0,1,0,0,56,0,Cardiology,1,Emergency,Low,Friday,Morning,0-5 km,0,1
+P0660,49,Other,"shortness of breath, chest pain, dizziness",45,1,0,0,0,1,0,2,47,0,Cardiology,1,Emergency,Medium,Wednesday,Morning,5-10 km,0,0
+P0661,41,Other,fatigue,21,5,0,0,0,0,0,0,67,3,General Medicine,0,Routine,High,Thursday,Afternoon,20+ km,0,1
+P0662,42,Female,"palpitations, shortness of breath",5,8,0,0,0,1,0,2,32,0,Cardiology,0,Urgent,Low,Thursday,Afternoon,5-10 km,0,0
+P0663,51,Male,"palpitations, shortness of breath, dizziness",10,6,1,0,0,1,0,0,16,0,Cardiology,0,Soon,Low,Friday,Afternoon,0-5 km,0,1
+P0664,42,Female,"itching, skin rash",2,7,0,0,0,0,0,2,33,0,Dermatology,0,Soon,Low,Thursday,Evening,20+ km,0,1
+P0665,39,Male,severe headache,30,7,1,0,0,0,0,0,82,0,Neurology,0,Urgent,Low,Wednesday,Afternoon,10-20 km,0,1
+P0666,53,Other,"fever, vomiting, weight loss",10,2,0,0,0,1,0,3,63,0,General Medicine,0,Soon,Medium,Friday,Evening,20+ km,1,1
+P0667,47,Female,"skin rash, painful skin lesion",21,7,1,0,0,0,0,1,6,0,Dermatology,0,Routine,Medium,Thursday,Evening,20+ km,1,0
+P0668,79,Male,"dizziness, severe headache",21,1,1,1,0,1,0,1,33,0,Neurology,0,Soon,Low,Wednesday,Morning,10-20 km,0,1
+P0669,4,Male,"weight loss, blood in stool, abdominal pain",5,8,0,0,0,0,0,2,43,0,Gastroenterology,0,Soon,Low,Wednesday,Afternoon,5-10 km,0,1
+P0670,71,Other,"blood in stool, vomiting",14,3,1,0,0,1,0,3,42,0,Gastroenterology,0,Soon,Low,Friday,Afternoon,5-10 km,1,1
+P0671,74,Other,"cough, chest tightness",21,5,0,1,1,0,0,0,44,0,Respiratory,0,Soon,Low,Tuesday,Afternoon,20+ km,0,1
+P0672,14,Male,"swelling, itching, redness",7,4,0,0,0,0,0,0,29,0,Dermatology,0,Routine,Low,Tuesday,Morning,5-10 km,0,1
+P0673,45,Other,"fatigue, blood in stool",21,5,0,0,0,0,0,1,47,1,Gastroenterology,0,Routine,Medium,Thursday,Afternoon,10-20 km,0,1
+P0674,45,Female,"cough, fever",45,8,0,0,0,0,0,0,14,1,Respiratory,0,Soon,Low,Wednesday,Evening,5-10 km,0,1
+P0675,26,Female,"abdominal pain, vomiting",45,8,0,0,0,0,0,1,8,2,Gastroenterology,0,Soon,High,Tuesday,Morning,20+ km,0,0
+P0676,37,Other,shortness of breath,7,8,0,0,0,0,0,0,90,1,Respiratory,0,Urgent,High,Tuesday,Evening,10-20 km,1,1
+P0677,32,Male,"fatigue, palpitations",3,10,0,0,1,0,0,0,53,1,Cardiology,0,Soon,High,Tuesday,Evening,5-10 km,1,1
+P0678,83,Female,"chest pain, palpitations, fatigue",21,8,1,0,0,0,0,0,44,0,Cardiology,1,Emergency,Low,Wednesday,Morning,10-20 km,0,1
+P0679,68,Male,shortness of breath,45,5,1,0,0,1,0,0,78,0,Cardiology,0,Urgent,Low,Wednesday,Morning,0-5 km,0,1
+P0680,74,Other,palpitations,7,10,1,0,0,0,0,0,69,0,Cardiology,0,Urgent,Medium,Monday,Evening,10-20 km,1,1
+P0681,64,Other,"shortness of breath, fatigue",3,5,0,0,0,0,0,2,14,0,Cardiology,0,Soon,Low,Friday,Evening,5-10 km,0,0
+P0682,31,Female,"swelling, redness, painful skin lesion",14,4,0,0,0,1,0,0,31,2,Dermatology,0,Routine,High,Tuesday,Afternoon,20+ km,0,0
+P0683,42,Male,"confusion, severe headache, speech difficulty",45,7,1,0,0,0,0,1,83,0,Neurology,1,Emergency,Medium,Tuesday,Afternoon,10-20 km,1,1
+P0684,60,Other,"abdominal pain, vomiting",10,1,1,1,0,0,0,0,6,0,Gastroenterology,0,Routine,Low,Wednesday,Evening,0-5 km,0,1
+P0685,30,Female,"painful skin lesion, skin rash",21,9,1,0,0,0,0,0,23,0,Dermatology,0,Soon,Medium,Tuesday,Morning,0-5 km,0,0
+P0686,64,Female,weakness,3,5,0,0,0,1,0,0,31,1,Neurology,0,Routine,High,Tuesday,Afternoon,10-20 km,1,1
+P0687,47,Male,shortness of breath,10,4,0,0,0,0,0,2,84,1,Cardiology,0,Soon,Medium,Thursday,Evening,10-20 km,0,1
+P0688,45,Male,"chest tightness, fever, fatigue",7,2,1,0,1,0,0,1,15,0,Respiratory,0,Self-care,Medium,Monday,Morning,20+ km,0,0
+P0689,64,Other,"chest tightness, fever",7,2,0,0,0,1,0,1,64,0,Respiratory,0,Routine,Medium,Thursday,Afternoon,0-5 km,0,0
+P0690,59,Male,"chest pain, shortness of breath",45,4,0,0,0,0,0,1,41,0,Cardiology,1,Emergency,Low,Tuesday,Afternoon,0-5 km,1,1
+P0691,45,Female,shortness of breath,7,6,0,0,0,1,0,1,57,0,Respiratory,0,Soon,Medium,Monday,Morning,20+ km,0,1
+P0692,72,Female,"chest pain, fatigue, palpitations",14,6,1,0,1,0,0,0,14,1,Cardiology,1,Emergency,Medium,Thursday,Morning,0-5 km,0,1
+P0693,32,Other,chest pain,21,5,0,0,0,0,0,1,50,0,Cardiology,0,Routine,Low,Thursday,Evening,5-10 km,0,1
+P0694,63,Other,"blood in stool, vomiting, weight loss",21,5,0,0,0,0,0,2,48,1,Gastroenterology,1,Emergency,High,Wednesday,Morning,20+ km,0,1
+P0695,62,Other,"fatigue, cough, fever",21,8,0,0,0,0,0,0,42,1,General Medicine,0,Soon,Medium,Friday,Morning,5-10 km,0,1
+P0696,46,Other,"fatigue, palpitations, shortness of breath",5,8,0,0,0,0,0,0,84,0,Cardiology,0,Urgent,Medium,Monday,Morning,20+ km,0,1
+P0697,57,Female,"redness, itching, painful skin lesion",60,3,1,1,0,1,0,1,74,1,Dermatology,0,Urgent,High,Tuesday,Afternoon,5-10 km,0,0
+P0698,29,Other,"palpitations, chest pain, fatigue",14,2,1,0,1,0,0,0,46,0,Cardiology,1,Urgent,Medium,Tuesday,Afternoon,5-10 km,1,1
+P0699,68,Male,"redness, swelling, painful skin lesion",5,7,1,0,0,1,0,0,80,0,Dermatology,0,Urgent,High,Wednesday,Evening,20+ km,1,0
+P0700,48,Female,redness,2,10,1,1,0,0,0,1,47,2,Dermatology,0,Urgent,High,Thursday,Morning,5-10 km,2,1
+P0701,42,Other,shortness of breath,5,2,0,0,0,0,0,3,86,0,Respiratory,0,Soon,Medium,Wednesday,Evening,10-20 km,1,1
+P0702,70,Male,"skin rash, redness",2,8,0,0,0,0,0,0,22,0,Dermatology,0,Urgent,Low,Wednesday,Afternoon,5-10 km,0,1
+P0703,39,Female,"chest tightness, shortness of breath, cough",2,5,0,0,0,0,0,0,61,0,Respiratory,0,Soon,Low,Wednesday,Evening,0-5 km,0,1
+P0704,26,Other,"weight loss, cough",3,8,0,0,0,0,0,2,11,1,General Medicine,0,Soon,High,Friday,Morning,10-20 km,0,0
+P0705,23,Female,shortness of breath,2,6,0,0,0,0,1,2,80,0,Respiratory,0,Urgent,High,Wednesday,Evening,20+ km,0,0
+P0706,62,Other,"chest pain, shortness of breath, fatigue",3,7,0,1,0,0,0,0,68,0,Cardiology,1,Emergency,Low,Thursday,Evening,5-10 km,0,1
+P0707,28,Other,"skin rash, redness, painful skin lesion",60,4,0,0,0,0,0,1,90,1,Dermatology,0,Soon,High,Tuesday,Afternoon,5-10 km,1,0
+P0708,83,Male,"painful skin lesion, redness",45,1,0,0,0,0,0,1,88,0,Dermatology,0,Soon,Low,Monday,Morning,5-10 km,0,1
+P0709,14,Other,"dizziness, chest pain",14,10,0,0,0,0,0,1,47,1,Cardiology,0,Soon,Medium,Friday,Afternoon,0-5 km,0,1
+P0710,82,Male,"dizziness, speech difficulty",2,6,0,0,0,1,0,0,60,0,Neurology,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,0
+P0711,55,Male,blood in stool,21,3,0,0,0,1,0,0,24,0,Gastroenterology,0,Routine,Low,Thursday,Afternoon,0-5 km,0,1
+P0712,50,Female,fatigue,5,8,1,1,0,0,0,3,8,0,Gastroenterology,0,Urgent,Low,Monday,Afternoon,0-5 km,0,1
+P0713,42,Female,"cough, chest tightness, fatigue",21,10,1,0,0,0,0,0,17,0,Respiratory,0,Soon,Low,Wednesday,Evening,10-20 km,1,1
+P0714,59,Male,"dizziness, shortness of breath",30,5,1,0,0,0,0,1,74,1,Cardiology,0,Urgent,High,Tuesday,Afternoon,5-10 km,1,1
+P0715,51,Female,"weakness, dizziness",5,10,0,0,0,0,0,0,68,0,Neurology,0,Urgent,Medium,Monday,Afternoon,10-20 km,0,0
+P0716,71,Male,"severe headache, dizziness",5,5,1,0,0,0,0,3,63,3,Neurology,0,Urgent,High,Tuesday,Evening,5-10 km,0,1
+P0717,54,Female,confusion,10,4,0,0,0,0,0,0,4,0,Neurology,0,Routine,Low,Monday,Afternoon,20+ km,0,1
+P0718,54,Female,"blood in stool, vomiting",30,5,0,1,0,1,0,0,17,0,Gastroenterology,0,Soon,Low,Monday,Morning,0-5 km,1,1
+P0719,45,Male,"dizziness, chest pain, palpitations",10,6,0,0,0,0,0,1,73,0,Cardiology,0,Soon,Medium,Tuesday,Afternoon,0-5 km,0,0
+P0720,50,Female,shortness of breath,3,8,1,0,0,1,0,0,8,0,Cardiology,0,Urgent,Medium,Tuesday,Evening,20+ km,1,1
+P0721,57,Male,"palpitations, shortness of breath",7,8,1,0,0,1,0,0,29,1,Cardiology,0,Urgent,Medium,Tuesday,Evening,5-10 km,0,1
+P0722,21,Other,swelling,60,1,0,0,0,0,0,0,75,0,Dermatology,0,Routine,Medium,Monday,Evening,10-20 km,1,1
+P0723,27,Female,abdominal pain,5,4,0,0,0,0,0,1,33,0,Gastroenterology,0,Routine,Low,Wednesday,Afternoon,10-20 km,0,1
+P0724,65,Female,"fatigue, vomiting, abdominal pain",7,10,1,1,0,0,0,1,39,1,Gastroenterology,0,Urgent,Medium,Friday,Afternoon,5-10 km,0,0
+P0725,55,Other,"fever, cough, fatigue",21,6,1,1,0,0,0,0,51,0,Respiratory,0,Urgent,Low,Thursday,Afternoon,5-10 km,0,1
+P0726,48,Other,vomiting,10,1,1,1,1,1,0,0,49,1,General Medicine,0,Soon,Medium,Monday,Morning,5-10 km,0,1
+P0727,52,Male,"speech difficulty, dizziness",30,4,0,0,1,1,0,0,82,1,Neurology,0,Urgent,High,Thursday,Morning,0-5 km,0,0
+P0728,58,Female,"fatigue, weight loss, blood in stool",21,7,1,0,1,0,0,0,64,0,Gastroenterology,1,Emergency,High,Thursday,Morning,20+ km,2,1
+P0729,42,Female,"swelling, painful skin lesion, redness",7,8,0,0,1,0,0,2,84,0,Dermatology,0,Urgent,Medium,Friday,Evening,20+ km,0,0
+P0730,37,Other,"fatigue, palpitations",45,9,0,0,0,0,0,0,82,0,Cardiology,0,Urgent,Low,Friday,Afternoon,5-10 km,0,1
+P0731,55,Male,"dizziness, fatigue",14,8,0,0,0,0,0,0,70,1,Cardiology,0,Urgent,Medium,Monday,Afternoon,5-10 km,0,1
+P0732,34,Other,shortness of breath,21,2,0,0,0,0,0,2,15,3,Cardiology,0,Routine,High,Friday,Morning,0-5 km,0,1
+P0733,59,Other,itching,14,9,0,0,0,1,0,2,67,1,Dermatology,0,Urgent,High,Tuesday,Evening,20+ km,0,1
+P0734,21,Female,"cough, fatigue",3,5,0,0,0,0,0,0,52,0,Respiratory,0,Routine,Low,Friday,Evening,5-10 km,0,1
+P0735,70,Female,shortness of breath,21,6,1,0,1,1,0,1,2,1,Cardiology,0,Urgent,Medium,Wednesday,Afternoon,10-20 km,0,1
+P0736,60,Other,"painful skin lesion, skin rash",30,7,0,0,0,0,0,1,13,0,Dermatology,0,Soon,Low,Thursday,Morning,10-20 km,0,1
+P0737,56,Female,"abdominal pain, blood in stool",7,10,0,0,0,0,0,3,5,0,Gastroenterology,0,Soon,Medium,Tuesday,Evening,20+ km,0,0
+P0738,69,Female,"skin rash, redness",45,1,1,1,0,0,0,0,16,1,Dermatology,0,Soon,High,Tuesday,Afternoon,20+ km,0,0
+P0739,81,Male,"itching, skin rash",5,7,1,0,1,0,0,0,24,0,Dermatology,0,Urgent,Low,Tuesday,Evening,20+ km,0,1
+P0740,70,Female,fatigue,45,6,0,0,0,0,0,1,14,0,Cardiology,0,Soon,Low,Wednesday,Afternoon,0-5 km,0,1
+P0741,18,Female,"palpitations, dizziness, shortness of breath",3,10,0,0,0,0,1,0,26,0,Cardiology,0,Soon,Low,Friday,Afternoon,10-20 km,0,1
+P0742,28,Other,"fatigue, chest pain",2,9,0,0,0,0,1,1,15,0,Cardiology,0,Routine,Low,Friday,Evening,10-20 km,0,1
+P0743,40,Female,chest tightness,21,9,0,0,0,0,0,1,70,1,Respiratory,0,Soon,Medium,Tuesday,Evening,0-5 km,0,1
+P0744,52,Female,"abdominal pain, blood in stool, fatigue",21,1,0,0,0,0,0,1,6,2,Gastroenterology,0,Self-care,High,Monday,Morning,20+ km,0,1
+P0745,61,Male,"blood in stool, fatigue, vomiting",5,4,0,0,0,0,0,1,37,0,Gastroenterology,0,Routine,Low,Thursday,Evening,0-5 km,0,0
+P0746,38,Female,"severe headache, speech difficulty",45,10,0,0,0,0,0,0,40,1,Neurology,1,Emergency,Medium,Friday,Afternoon,20+ km,0,1
+P0747,55,Other,"painful skin lesion, itching",3,5,0,1,0,1,0,1,35,2,Dermatology,0,Soon,High,Wednesday,Afternoon,5-10 km,1,1
+P0748,38,Male,cough,60,3,0,0,0,0,0,2,89,0,General Medicine,0,Soon,Low,Friday,Evening,10-20 km,0,1
+P0749,40,Other,weight loss,30,6,0,0,0,0,0,0,62,1,Gastroenterology,0,Soon,High,Friday,Afternoon,20+ km,0,1
+P0750,26,Male,"fatigue, dizziness",45,10,1,0,0,0,0,2,66,0,Cardiology,0,Urgent,High,Wednesday,Morning,5-10 km,2,1
+P0751,35,Male,"redness, swelling",3,5,0,0,0,0,0,0,69,0,Dermatology,0,Routine,Low,Thursday,Morning,0-5 km,0,1
+P0752,27,Female,fatigue,10,9,0,0,0,0,0,0,31,0,Cardiology,0,Soon,Medium,Tuesday,Morning,10-20 km,1,1
+P0753,34,Female,itching,3,4,1,0,0,0,0,2,29,0,Dermatology,0,Soon,Medium,Tuesday,Morning,5-10 km,0,0
+P0754,70,Other,"fatigue, chest tightness",5,7,0,0,0,0,0,2,49,0,Respiratory,0,Urgent,Low,Tuesday,Evening,10-20 km,0,1
+P0755,34,Other,fatigue,60,7,0,0,0,0,0,0,52,0,Respiratory,0,Soon,Low,Wednesday,Afternoon,10-20 km,0,1
+P0756,95,Female,"shortness of breath, cough, fever",21,1,0,0,0,0,0,0,58,2,Respiratory,0,Soon,High,Thursday,Afternoon,0-5 km,0,1
+P0757,60,Male,fatigue,14,1,0,0,0,0,0,1,12,1,Gastroenterology,0,Self-care,Medium,Monday,Evening,5-10 km,0,0
+P0758,55,Female,blood in stool,10,3,0,0,0,0,0,0,30,2,Gastroenterology,0,Routine,High,Friday,Evening,0-5 km,1,1
+P0759,36,Other,"dizziness, shortness of breath",3,5,0,0,0,0,0,2,23,0,Cardiology,0,Soon,Medium,Friday,Afternoon,20+ km,0,0
+P0760,64,Female,cough,5,3,0,0,1,0,0,0,20,1,Respiratory,0,Self-care,Low,Friday,Afternoon,5-10 km,0,1
+P0761,41,Female,"blood in stool, fatigue",30,9,0,0,1,0,1,1,87,1,Gastroenterology,0,Urgent,High,Friday,Afternoon,20+ km,2,1
+P0762,54,Male,"dizziness, speech difficulty",7,2,0,0,0,0,0,1,48,1,Neurology,0,Soon,Medium,Friday,Afternoon,0-5 km,0,1
+P0763,95,Female,shortness of breath,5,5,1,0,0,0,0,0,19,0,Respiratory,0,Soon,Low,Thursday,Afternoon,5-10 km,0,1
+P0764,50,Male,cough,10,6,0,1,0,0,0,0,60,2,Respiratory,0,Urgent,High,Monday,Evening,20+ km,0,1
+P0765,72,Other,"vomiting, abdominal pain, blood in stool",45,5,0,0,0,1,0,0,66,0,Gastroenterology,0,Urgent,Low,Monday,Afternoon,10-20 km,0,1
+P0766,39,Male,fever,45,1,1,0,0,0,0,1,71,1,Respiratory,0,Soon,Medium,Tuesday,Afternoon,0-5 km,0,1
+P0767,51,Other,weakness,2,5,0,1,0,1,0,0,18,0,Neurology,0,Routine,Low,Thursday,Morning,5-10 km,0,1
+P0768,83,Female,chest pain,30,2,1,0,1,0,0,0,59,1,Cardiology,1,Emergency,High,Friday,Evening,10-20 km,2,1
+P0769,40,Male,"swelling, painful skin lesion",60,4,0,0,0,0,0,0,3,0,Dermatology,0,Routine,Low,Wednesday,Evening,10-20 km,0,1
+P0770,84,Male,"palpitations, chest pain",30,3,0,0,0,1,0,2,90,0,Cardiology,0,Urgent,Low,Thursday,Evening,10-20 km,0,1
+P0771,64,Male,dizziness,21,7,0,0,0,0,0,0,61,3,Cardiology,0,Soon,High,Wednesday,Morning,10-20 km,0,1
+P0772,41,Male,"fatigue, weight loss",60,6,0,0,0,0,0,1,11,0,General Medicine,0,Routine,Low,Monday,Morning,0-5 km,0,1
+P0773,63,Female,"fatigue, fever",14,10,1,1,0,0,0,0,22,2,General Medicine,0,Urgent,High,Monday,Morning,10-20 km,2,0
+P0774,69,Female,"itching, painful skin lesion, redness",3,10,0,0,0,1,0,0,9,0,Dermatology,0,Soon,Low,Tuesday,Evening,10-20 km,1,1
+P0775,63,Male,"skin rash, redness",45,5,0,0,0,0,0,0,52,0,Dermatology,0,Soon,Medium,Wednesday,Evening,5-10 km,0,0
+P0776,23,Female,severe headache,3,5,0,0,1,0,0,1,89,0,Neurology,0,Routine,Low,Thursday,Afternoon,5-10 km,0,1
+P0777,38,Other,"vomiting, cough",7,6,0,0,0,1,0,0,5,1,General Medicine,0,Routine,High,Thursday,Morning,10-20 km,1,1
+P0778,47,Male,"dizziness, weakness, confusion",5,1,0,0,0,0,0,2,22,2,Neurology,0,Routine,High,Monday,Afternoon,20+ km,1,1
+P0779,50,Female,vomiting,2,6,0,0,0,1,0,1,79,0,General Medicine,0,Soon,Medium,Monday,Afternoon,0-5 km,1,1
+P0780,63,Female,fatigue,7,7,1,0,0,0,0,1,6,0,Respiratory,0,Soon,Low,Friday,Afternoon,10-20 km,0,1
+P0781,55,Male,"skin rash, redness, itching",60,4,0,0,0,1,0,0,39,2,Dermatology,0,Soon,High,Tuesday,Evening,0-5 km,1,1
+P0782,27,Male,shortness of breath,10,9,0,0,0,0,0,2,70,2,Cardiology,0,Urgent,High,Friday,Evening,0-5 km,1,1
+P0783,58,Male,"dizziness, weakness",21,9,0,0,0,0,0,1,23,0,Neurology,0,Soon,Low,Monday,Evening,5-10 km,0,1
+P0784,62,Female,fatigue,5,7,0,0,0,1,0,0,21,0,General Medicine,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0785,62,Female,"fever, fatigue, vomiting",30,6,0,0,0,0,0,0,69,0,General Medicine,0,Urgent,Low,Thursday,Evening,0-5 km,0,1
+P0786,71,Male,"dizziness, weakness",3,2,0,0,1,0,0,0,44,0,Neurology,0,Routine,Low,Thursday,Evening,5-10 km,0,1
+P0787,67,Male,"confusion, dizziness",3,4,1,1,0,0,0,2,64,0,Neurology,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,0
+P0788,60,Female,fatigue,2,6,0,0,0,0,0,2,11,0,Cardiology,0,Soon,Low,Friday,Evening,0-5 km,0,0
+P0789,50,Female,"fatigue, weight loss",45,7,1,0,0,0,0,0,14,0,Gastroenterology,0,Soon,Low,Tuesday,Evening,10-20 km,0,1
+P0790,22,Female,"shortness of breath, fever, fatigue",5,2,0,0,0,1,0,2,68,0,Respiratory,0,Soon,Medium,Wednesday,Morning,0-5 km,0,1
+P0791,59,Male,fatigue,45,9,1,0,0,1,0,2,11,1,Respiratory,0,Urgent,Medium,Friday,Evening,10-20 km,0,1
+P0792,55,Female,"shortness of breath, fever, cough",30,1,0,1,1,0,0,0,47,0,Respiratory,0,Urgent,Low,Wednesday,Morning,0-5 km,0,1
+P0793,56,Female,fatigue,5,3,0,1,0,0,0,1,88,0,Cardiology,0,Soon,Medium,Monday,Evening,20+ km,0,1
+P0794,29,Other,confusion,10,6,0,0,0,0,0,0,76,0,Neurology,0,Soon,Medium,Wednesday,Morning,10-20 km,0,1
+P0795,32,Other,"vomiting, abdominal pain",5,10,0,0,0,0,0,0,86,0,Gastroenterology,0,Soon,Low,Tuesday,Morning,0-5 km,0,1
+P0796,70,Other,"weight loss, abdominal pain, fatigue",14,4,1,1,1,0,0,0,19,1,Gastroenterology,0,Soon,High,Wednesday,Afternoon,0-5 km,2,1
+P0797,51,Other,"weakness, confusion",30,8,1,0,0,0,0,2,56,0,Neurology,0,Emergency,Low,Thursday,Afternoon,0-5 km,0,1
+P0798,64,Female,"weakness, dizziness",30,9,1,0,0,1,0,0,59,0,Neurology,0,Urgent,Low,Thursday,Morning,5-10 km,0,1
+P0799,52,Male,weight loss,7,9,1,0,1,1,0,0,19,0,General Medicine,0,Soon,Low,Friday,Afternoon,10-20 km,0,1
+P0800,52,Other,vomiting,7,9,1,0,0,1,0,2,74,1,Gastroenterology,0,Urgent,Medium,Thursday,Evening,5-10 km,0,1
+P0801,68,Male,"dizziness, speech difficulty",10,5,1,1,1,1,0,1,81,0,Neurology,0,Urgent,Medium,Monday,Afternoon,10-20 km,0,0
+P0802,42,Female,"fever, chest tightness, shortness of breath",3,10,0,0,0,0,0,2,30,0,Respiratory,0,Urgent,Low,Tuesday,Afternoon,0-5 km,0,1
+P0803,53,Female,"fatigue, dizziness, palpitations",60,7,1,0,0,1,0,0,36,0,Cardiology,0,Urgent,Medium,Tuesday,Morning,20+ km,0,0
+P0804,43,Female,fatigue,45,3,0,0,0,1,0,1,90,1,Cardiology,0,Routine,High,Tuesday,Afternoon,20+ km,1,0
+P0805,44,Other,"swelling, skin rash, itching",3,10,0,0,0,0,0,0,36,0,Dermatology,0,Soon,Low,Tuesday,Evening,5-10 km,0,0
+P0806,46,Female,chest pain,7,6,0,0,0,1,0,1,39,1,Cardiology,0,Routine,Medium,Tuesday,Evening,20+ km,0,1
+P0807,55,Male,shortness of breath,7,2,0,0,0,1,0,0,14,0,Respiratory,0,Routine,Low,Wednesday,Evening,5-10 km,0,1
+P0808,43,Other,"fatigue, weight loss, blood in stool",21,3,0,0,0,0,0,1,57,0,Gastroenterology,0,Routine,Medium,Friday,Morning,10-20 km,1,1
+P0809,74,Female,fatigue,2,4,0,1,0,0,0,1,69,2,Cardiology,0,Urgent,High,Friday,Afternoon,0-5 km,0,1
+P0810,35,Other,confusion,60,9,0,0,0,0,0,2,31,0,Neurology,0,Urgent,Low,Wednesday,Evening,0-5 km,0,1
+P0811,48,Male,"skin rash, redness, itching",45,3,0,0,0,1,0,1,10,0,Dermatology,0,Self-care,Low,Wednesday,Afternoon,0-5 km,0,1
+P0812,44,Male,"chest pain, fatigue",60,2,0,0,1,0,0,0,25,0,Cardiology,0,Routine,Low,Thursday,Evening,0-5 km,0,0
+P0813,78,Other,"weakness, speech difficulty",10,5,0,0,0,0,0,0,70,1,Neurology,0,Urgent,High,Wednesday,Afternoon,20+ km,0,1
+P0814,55,Female,"fatigue, chest pain",2,1,0,0,0,0,0,1,32,0,Cardiology,0,Routine,Low,Monday,Afternoon,10-20 km,0,1
+P0815,70,Female,"blood in stool, vomiting",14,5,1,0,0,1,0,2,74,0,Gastroenterology,0,Urgent,Low,Friday,Evening,0-5 km,0,1
+P0816,25,Male,"fatigue, chest tightness",45,3,0,0,1,0,0,0,8,0,Respiratory,0,Self-care,Low,Monday,Afternoon,0-5 km,0,1
+P0817,56,Other,"cough, vomiting",7,9,0,0,0,0,0,0,25,0,General Medicine,0,Soon,Low,Thursday,Afternoon,0-5 km,0,1
+P0818,68,Female,"speech difficulty, weakness",2,4,0,0,0,1,0,2,17,0,Neurology,0,Soon,Low,Tuesday,Morning,20+ km,0,1
+P0819,53,Female,vomiting,10,1,0,0,0,0,0,0,30,1,Gastroenterology,0,Routine,Medium,Wednesday,Evening,10-20 km,0,1
+P0820,71,Other,dizziness,45,9,0,0,0,0,0,2,3,1,Cardiology,0,Urgent,Medium,Wednesday,Morning,0-5 km,0,1
+P0821,42,Female,fatigue,2,5,0,0,1,0,1,0,28,0,General Medicine,0,Routine,Low,Tuesday,Evening,10-20 km,0,1
+P0822,77,Other,"shortness of breath, chest pain",3,9,1,0,0,0,0,0,26,0,Cardiology,1,Emergency,Low,Tuesday,Afternoon,0-5 km,0,1
+P0823,93,Male,weight loss,45,8,0,0,0,0,0,1,42,3,General Medicine,0,Urgent,High,Thursday,Evening,0-5 km,1,1
+P0824,45,Other,"fever, fatigue, vomiting",3,9,0,0,1,1,0,0,77,0,General Medicine,0,Soon,Low,Tuesday,Evening,0-5 km,0,1
+P0825,43,Other,"fatigue, abdominal pain",21,6,0,0,0,0,0,1,45,0,Gastroenterology,0,Soon,Low,Monday,Afternoon,0-5 km,0,1
+P0826,78,Other,"skin rash, swelling",21,4,1,0,0,0,0,0,21,2,Dermatology,0,Soon,High,Monday,Morning,5-10 km,0,1
+P0827,80,Male,chest pain,2,6,0,0,0,0,0,1,44,0,Cardiology,0,Soon,High,Thursday,Afternoon,20+ km,2,1
+P0828,42,Other,weakness,2,9,0,0,0,0,0,2,47,0,Neurology,0,Urgent,Low,Monday,Afternoon,0-5 km,0,1
+P0829,44,Male,fatigue,45,3,0,0,0,1,0,0,14,0,General Medicine,0,Self-care,Medium,Thursday,Evening,20+ km,0,0
+P0830,46,Female,"cough, fever, weight loss",7,6,1,0,1,0,0,0,62,1,General Medicine,0,Soon,Medium,Thursday,Morning,5-10 km,0,1
+P0831,27,Other,speech difficulty,60,10,0,0,0,1,0,1,38,0,Neurology,0,Urgent,Medium,Monday,Evening,5-10 km,2,1
+P0832,35,Other,"confusion, dizziness",45,10,0,0,0,0,0,1,87,1,Neurology,0,Urgent,High,Monday,Evening,20+ km,0,1
+P0833,33,Male,"painful skin lesion, itching",60,10,0,0,0,0,0,1,25,2,Dermatology,0,Soon,High,Monday,Morning,5-10 km,1,1
+P0834,38,Female,chest tightness,45,8,0,0,0,0,0,0,82,0,Respiratory,0,Urgent,Medium,Monday,Evening,20+ km,0,1
+P0835,51,Male,"itching, painful skin lesion, redness",5,9,0,0,0,1,0,1,37,1,Dermatology,0,Soon,High,Thursday,Evening,10-20 km,0,0
+P0836,56,Other,"skin rash, itching",3,9,0,0,0,1,0,0,49,0,Dermatology,0,Urgent,Low,Tuesday,Morning,0-5 km,0,1
+P0837,79,Female,"itching, painful skin lesion",7,5,0,0,0,0,0,0,20,0,Dermatology,0,Routine,Low,Friday,Afternoon,10-20 km,0,0
+P0838,34,Female,fatigue,21,2,1,0,0,0,0,3,15,1,General Medicine,0,Routine,Medium,Friday,Morning,20+ km,0,1
+P0839,69,Other,"shortness of breath, fatigue, chest tightness",3,6,0,1,0,1,0,0,53,1,Respiratory,0,Urgent,Medium,Friday,Afternoon,5-10 km,0,1
+P0840,48,Female,speech difficulty,2,8,1,0,0,0,0,2,52,1,Neurology,0,Emergency,High,Tuesday,Evening,20+ km,0,0
+P0841,51,Female,"dizziness, confusion",10,1,0,0,0,0,0,0,68,1,Neurology,0,Routine,High,Monday,Morning,10-20 km,0,1
+P0842,64,Female,"cough, vomiting, weight loss",3,8,0,1,0,0,0,0,22,1,General Medicine,0,Urgent,High,Friday,Morning,0-5 km,0,0
+P0843,31,Male,"fever, cough",30,2,0,0,0,0,0,2,70,0,Respiratory,0,Soon,Medium,Friday,Morning,10-20 km,0,0
+P0844,58,Other,chest tightness,2,4,0,1,0,0,0,0,88,0,Respiratory,0,Soon,Low,Thursday,Afternoon,0-5 km,0,1
+P0845,54,Male,"confusion, weakness",60,9,0,1,0,0,0,2,14,0,Neurology,0,Urgent,Low,Friday,Afternoon,10-20 km,0,1
+P0846,60,Other,"vomiting, weight loss",3,9,1,0,0,0,0,0,88,3,General Medicine,0,Urgent,High,Monday,Afternoon,20+ km,0,1
+P0847,57,Other,"fatigue, dizziness",30,4,0,0,1,0,0,2,67,1,Cardiology,0,Urgent,High,Monday,Afternoon,5-10 km,1,1
+P0848,95,Female,"shortness of breath, fatigue, palpitations",14,1,0,0,1,0,0,1,70,3,Cardiology,0,Soon,High,Wednesday,Afternoon,0-5 km,0,1
+P0849,40,Other,"skin rash, itching, redness",45,5,0,0,0,0,0,0,80,0,Dermatology,0,Soon,High,Friday,Morning,10-20 km,2,0
+P0850,42,Female,"vomiting, fatigue",45,5,0,0,0,0,0,1,39,2,General Medicine,0,Routine,High,Friday,Evening,10-20 km,0,0
+P0851,40,Female,"fatigue, chest tightness",5,4,0,0,1,0,0,2,52,0,Respiratory,0,Soon,Medium,Tuesday,Evening,20+ km,1,1
+P0852,42,Female,"weight loss, fever",45,8,0,0,0,0,0,0,20,1,General Medicine,0,Soon,High,Friday,Afternoon,20+ km,0,0
+P0853,40,Female,"chest tightness, shortness of breath",7,6,0,0,0,1,0,0,35,2,Respiratory,0,Soon,High,Thursday,Afternoon,10-20 km,0,1
+P0854,73,Male,skin rash,10,5,1,0,0,0,0,0,68,0,Dermatology,0,Urgent,Medium,Tuesday,Morning,20+ km,0,1
+P0855,77,Male,shortness of breath,7,4,0,0,0,0,0,0,74,2,Cardiology,0,Urgent,High,Thursday,Morning,10-20 km,0,1
+P0856,41,Male,"dizziness, shortness of breath",60,4,0,0,0,0,0,2,29,0,Cardiology,0,Soon,Medium,Monday,Morning,10-20 km,1,1
+P0857,37,Female,"swelling, skin rash",14,1,0,0,0,0,0,1,63,1,Dermatology,0,Routine,High,Wednesday,Morning,10-20 km,0,1
+P0858,60,Other,"fatigue, chest pain",45,6,0,1,0,0,0,1,35,1,Cardiology,1,Emergency,High,Wednesday,Morning,0-5 km,0,0
+P0859,42,Male,weight loss,21,8,0,0,0,0,0,1,68,0,Gastroenterology,0,Soon,Medium,Thursday,Afternoon,20+ km,0,1
+P0860,63,Male,fever,21,10,0,0,1,0,0,0,16,1,General Medicine,0,Soon,Medium,Friday,Morning,20+ km,0,1
+P0861,55,Male,"shortness of breath, palpitations",21,7,0,0,0,0,0,0,42,1,Cardiology,0,Soon,Medium,Thursday,Evening,20+ km,0,1
+P0862,24,Female,"fatigue, palpitations",21,6,0,0,0,0,0,1,41,1,Cardiology,0,Routine,Medium,Tuesday,Evening,10-20 km,0,1
+P0863,79,Female,"weight loss, cough, fever",14,4,1,0,0,1,0,1,30,0,General Medicine,0,Soon,Low,Tuesday,Evening,5-10 km,1,1
+P0864,84,Female,"severe headache, weakness, confusion",5,2,0,0,0,0,0,0,37,1,Neurology,1,Urgent,Medium,Thursday,Evening,20+ km,0,1
+P0865,40,Female,"blood in stool, vomiting, fatigue",2,3,0,0,0,0,0,0,66,3,Gastroenterology,0,Routine,High,Wednesday,Afternoon,5-10 km,0,1
+P0866,45,Other,"fatigue, shortness of breath, fever",2,5,1,0,0,0,0,1,8,0,Respiratory,0,Routine,Low,Monday,Evening,0-5 km,0,1
+P0867,57,Female,"fever, shortness of breath",5,3,0,0,0,0,0,2,62,0,Respiratory,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0868,58,Male,"chest pain, palpitations",21,9,1,1,0,0,0,0,14,0,Cardiology,1,Emergency,Low,Thursday,Morning,5-10 km,0,0
+P0869,63,Male,weakness,14,3,0,0,0,0,0,0,74,2,Neurology,0,Routine,High,Thursday,Morning,5-10 km,2,1
+P0870,88,Male,"swelling, itching",7,10,0,1,0,1,0,2,70,0,Dermatology,0,Emergency,Low,Wednesday,Afternoon,10-20 km,0,1
+P0871,48,Male,"weakness, confusion, dizziness",30,10,0,0,0,1,0,1,15,0,Neurology,0,Soon,Medium,Friday,Evening,20+ km,0,0
+P0872,37,Female,weight loss,3,4,0,0,0,0,0,0,42,0,Gastroenterology,0,Routine,Low,Tuesday,Morning,5-10 km,0,1
+P0873,27,Female,"chest pain, shortness of breath",30,9,0,0,0,0,0,0,73,0,Cardiology,1,Emergency,Medium,Wednesday,Evening,5-10 km,0,0
+P0874,38,Other,"abdominal pain, blood in stool, fatigue",60,6,0,0,0,0,0,0,9,0,Gastroenterology,0,Routine,Low,Tuesday,Evening,5-10 km,0,1
+P0875,51,Female,fatigue,3,5,1,0,0,0,0,0,36,1,Cardiology,0,Soon,Medium,Monday,Evening,5-10 km,1,1
+P0876,84,Other,"blood in stool, vomiting",5,2,1,0,0,1,0,0,16,1,Gastroenterology,0,Routine,High,Thursday,Afternoon,20+ km,1,0
+P0877,42,Female,"skin rash, painful skin lesion",2,8,0,0,0,0,0,0,44,1,Dermatology,0,Soon,High,Tuesday,Morning,20+ km,1,1
+P0878,56,Female,"dizziness, fatigue",10,9,0,0,0,0,0,0,37,0,Cardiology,0,Soon,Medium,Wednesday,Morning,0-5 km,1,1
+P0879,51,Other,"abdominal pain, weight loss, fatigue",14,6,1,0,0,0,0,1,9,1,Gastroenterology,0,Soon,Low,Tuesday,Evening,0-5 km,0,1
+P0880,73,Female,"severe headache, confusion",45,6,1,0,0,1,0,0,50,0,Neurology,0,Urgent,Medium,Tuesday,Morning,5-10 km,0,0
+P0881,95,Other,dizziness,30,5,0,0,0,1,0,0,77,0,Neurology,0,Urgent,Medium,Monday,Afternoon,20+ km,0,1
+P0882,42,Male,fever,5,1,0,0,1,0,0,0,37,0,Respiratory,0,Self-care,Low,Monday,Morning,0-5 km,0,1
+P0883,43,Male,"weight loss, cough",14,6,0,0,0,0,0,0,23,2,General Medicine,0,Routine,High,Thursday,Morning,10-20 km,0,1
+P0884,70,Male,fatigue,21,9,1,1,0,1,0,0,58,0,Gastroenterology,0,Emergency,Medium,Thursday,Morning,0-5 km,0,0
+P0885,64,Female,"weight loss, vomiting, abdominal pain",30,2,1,1,0,0,0,0,6,0,Gastroenterology,0,Soon,Low,Tuesday,Morning,0-5 km,0,0
+P0886,85,Female,"cough, vomiting, weight loss",7,1,0,0,0,0,0,0,56,0,General Medicine,0,Soon,Low,Thursday,Afternoon,10-20 km,0,1
+P0887,62,Male,chest pain,5,8,0,0,0,0,0,2,56,2,Cardiology,0,Urgent,High,Tuesday,Morning,20+ km,0,0
+P0888,45,Female,"weight loss, fever",14,10,1,0,0,0,0,0,9,1,General Medicine,0,Soon,Low,Thursday,Evening,0-5 km,0,1
+P0889,62,Male,"palpitations, shortness of breath",10,10,0,0,1,0,0,0,32,1,Cardiology,0,Urgent,Medium,Wednesday,Morning,0-5 km,0,1
+P0890,71,Other,"fatigue, dizziness",3,4,0,0,0,0,0,0,57,1,Cardiology,0,Soon,High,Thursday,Evening,20+ km,0,1
+P0891,66,Male,"fatigue, vomiting, weight loss",5,6,0,1,0,1,0,0,27,1,General Medicine,0,Soon,High,Friday,Evening,10-20 km,1,1
+P0892,61,Male,speech difficulty,30,1,1,0,0,0,0,0,70,1,Neurology,0,Urgent,High,Monday,Afternoon,0-5 km,0,0
+P0893,71,Other,"swelling, skin rash",14,10,0,0,0,0,0,1,77,0,Dermatology,0,Urgent,Medium,Tuesday,Morning,20+ km,0,1
+P0894,73,Female,"confusion, speech difficulty",21,5,0,0,0,0,0,0,18,0,Neurology,0,Soon,Low,Thursday,Afternoon,0-5 km,0,1
+P0895,76,Female,"painful skin lesion, swelling",2,7,0,1,0,0,0,0,61,1,Dermatology,0,Urgent,Medium,Tuesday,Afternoon,5-10 km,0,1
+P0896,63,Male,"chest pain, shortness of breath",21,9,0,0,0,1,0,2,20,0,Cardiology,1,Emergency,Medium,Friday,Evening,20+ km,1,1
+P0897,48,Other,palpitations,3,6,1,0,0,1,0,0,64,2,Cardiology,0,Soon,High,Tuesday,Afternoon,5-10 km,0,1
+P0898,54,Other,redness,21,3,0,0,0,0,0,0,6,2,Dermatology,0,Self-care,High,Wednesday,Evening,20+ km,0,1
+P0899,73,Other,"shortness of breath, fever",3,7,0,0,1,1,0,0,46,0,Respiratory,0,Urgent,Medium,Thursday,Afternoon,5-10 km,0,0
+P0900,37,Other,"fatigue, cough, weight loss",10,7,0,0,0,1,0,0,68,0,General Medicine,0,Soon,Medium,Thursday,Morning,0-5 km,0,0
+P0901,58,Male,"chest pain, shortness of breath, dizziness",7,7,0,0,0,1,0,0,28,0,Cardiology,1,Emergency,Medium,Monday,Afternoon,20+ km,0,0
+P0902,44,Male,"chest tightness, fever",10,8,0,0,0,0,0,0,16,0,Respiratory,0,Routine,Medium,Wednesday,Evening,20+ km,0,0
+P0903,52,Male,"chest tightness, fatigue",3,9,0,0,0,0,0,0,34,0,Respiratory,0,Soon,Medium,Friday,Evening,0-5 km,2,1
+P0904,75,Male,"abdominal pain, weight loss",14,10,1,0,0,0,0,0,51,0,Gastroenterology,0,Urgent,Low,Friday,Afternoon,10-20 km,0,1
+P0905,55,Female,"confusion, dizziness",14,6,0,0,0,0,0,1,41,1,Neurology,0,Soon,Medium,Monday,Morning,0-5 km,0,1
+P0906,52,Other,"dizziness, palpitations, chest pain",3,7,0,0,0,0,0,1,8,0,Cardiology,0,Routine,Low,Tuesday,Afternoon,20+ km,0,1
+P0907,27,Other,painful skin lesion,60,10,0,0,1,0,0,0,18,0,Dermatology,0,Soon,Low,Tuesday,Morning,10-20 km,0,1
+P0908,65,Male,confusion,5,1,0,0,0,1,0,2,40,0,Neurology,0,Routine,Low,Thursday,Afternoon,10-20 km,0,1
+P0909,63,Other,"weight loss, blood in stool, abdominal pain",14,5,0,0,1,1,0,1,49,1,Gastroenterology,1,Emergency,High,Thursday,Afternoon,5-10 km,0,0
+P0910,90,Male,"swelling, itching",3,3,0,1,0,0,0,0,24,2,Dermatology,0,Soon,High,Thursday,Afternoon,20+ km,0,1
+P0911,46,Male,chest pain,14,9,0,0,0,0,0,2,33,0,Cardiology,0,Soon,Medium,Monday,Morning,20+ km,1,1
+P0912,55,Female,"dizziness, fatigue",60,6,0,0,0,0,0,0,2,2,Cardiology,0,Soon,High,Thursday,Morning,10-20 km,2,1
+P0913,56,Male,"weight loss, fever",30,6,1,1,0,1,0,0,45,1,General Medicine,0,Urgent,High,Friday,Morning,20+ km,0,1
+P0914,80,Other,"fatigue, shortness of breath, dizziness",10,6,1,0,0,1,0,1,35,0,Cardiology,0,Urgent,Low,Wednesday,Afternoon,20+ km,0,1
+P0915,50,Male,cough,30,5,0,1,0,1,0,1,79,1,Respiratory,0,Urgent,High,Friday,Evening,20+ km,1,0
+P0916,57,Male,"fatigue, vomiting",7,9,0,0,0,1,0,0,88,0,General Medicine,0,Urgent,Low,Thursday,Afternoon,0-5 km,0,1
+P0917,62,Female,dizziness,21,10,0,0,0,0,0,3,30,0,Neurology,0,Urgent,Low,Wednesday,Evening,5-10 km,1,1
+P0918,55,Female,fever,3,7,0,0,0,0,0,0,23,0,General Medicine,0,Soon,Medium,Wednesday,Afternoon,10-20 km,0,0
+P0919,43,Other,"fever, shortness of breath",14,4,0,0,0,0,0,1,16,0,Respiratory,0,Routine,Low,Friday,Evening,20+ km,0,1
+P0920,55,Other,"fatigue, vomiting",60,1,0,0,0,0,0,0,41,0,Gastroenterology,0,Routine,Low,Thursday,Morning,5-10 km,0,1
+P0921,71,Female,shortness of breath,5,5,0,0,0,0,0,0,27,1,Respiratory,0,Soon,Medium,Friday,Afternoon,5-10 km,0,0
+P0922,33,Other,severe headache,60,4,0,0,0,0,0,3,67,1,Neurology,0,Soon,High,Friday,Evening,0-5 km,1,0
+P0923,54,Female,shortness of breath,21,7,1,0,1,0,0,0,4,0,Cardiology,0,Soon,Medium,Thursday,Morning,20+ km,0,0
+P0924,39,Male,"chest pain, palpitations",7,2,1,0,0,0,0,1,7,1,Cardiology,1,Urgent,Medium,Thursday,Evening,10-20 km,0,0
+P0925,73,Male,"weight loss, abdominal pain, vomiting",5,1,1,0,0,0,0,0,36,2,Gastroenterology,0,Soon,High,Thursday,Morning,20+ km,0,1
+P0926,24,Female,"vomiting, fatigue, blood in stool",3,2,1,1,0,0,0,1,29,3,Gastroenterology,0,Routine,High,Thursday,Evening,0-5 km,0,1
+P0927,41,Other,"shortness of breath, fatigue",45,3,0,0,0,0,0,0,73,0,Respiratory,0,Soon,Medium,Tuesday,Afternoon,20+ km,0,1
+P0928,58,Other,"fatigue, shortness of breath",14,1,0,0,0,0,0,0,76,0,Respiratory,0,Soon,Medium,Thursday,Morning,10-20 km,0,1
+P0929,80,Female,severe headache,45,10,0,1,0,0,0,1,24,0,Neurology,0,Urgent,Medium,Monday,Evening,10-20 km,1,1
+P0930,50,Other,shortness of breath,30,8,0,0,0,0,0,0,12,1,Respiratory,0,Urgent,Medium,Thursday,Afternoon,5-10 km,0,0
+P0931,42,Female,"fatigue, shortness of breath",5,3,0,0,0,0,0,0,62,0,Cardiology,0,Routine,Medium,Thursday,Morning,0-5 km,1,1
+P0932,85,Male,"weakness, severe headache",14,7,0,0,0,0,0,1,17,0,Neurology,1,Emergency,Low,Tuesday,Afternoon,5-10 km,0,0
+P0933,25,Other,"chest pain, dizziness",5,4,0,0,0,0,0,2,36,1,Cardiology,0,Routine,Medium,Tuesday,Evening,20+ km,0,1
+P0934,12,Male,"cough, fever, weight loss",10,8,1,0,0,0,0,0,18,3,General Medicine,0,Soon,High,Thursday,Evening,0-5 km,1,1
+P0935,59,Male,palpitations,14,1,0,0,0,1,0,1,60,2,Cardiology,0,Routine,High,Monday,Afternoon,0-5 km,0,0
+P0936,42,Female,dizziness,21,10,1,0,0,1,0,0,2,0,Neurology,0,Soon,Medium,Wednesday,Evening,20+ km,1,1
+P0937,33,Other,swelling,21,10,0,0,0,0,0,1,28,1,Dermatology,0,Soon,High,Wednesday,Morning,20+ km,0,1
+P0938,64,Male,"severe headache, weakness",3,1,0,1,0,0,0,0,6,0,Neurology,1,Urgent,Low,Tuesday,Evening,20+ km,0,1
+P0939,56,Male,"fever, chest tightness, cough",45,1,0,0,0,0,0,0,35,3,Respiratory,0,Routine,High,Monday,Evening,20+ km,0,0
+P0940,41,Other,"fever, fatigue",7,7,0,0,0,0,0,2,81,2,Respiratory,0,Soon,High,Thursday,Morning,10-20 km,0,1
+P0941,28,Female,"weight loss, abdominal pain",5,4,0,0,0,1,0,1,2,0,Gastroenterology,0,Self-care,Low,Wednesday,Morning,10-20 km,0,1
+P0942,67,Male,"confusion, severe headache",21,2,0,1,1,1,0,1,88,0,Neurology,0,Soon,Medium,Wednesday,Evening,10-20 km,1,1
+P0943,63,Female,severe headache,10,2,0,0,0,1,0,1,1,2,Neurology,0,Self-care,High,Tuesday,Afternoon,5-10 km,1,1
+P0944,50,Other,"shortness of breath, cough, chest tightness",5,6,0,0,1,1,0,3,84,1,Respiratory,0,Urgent,High,Thursday,Evening,10-20 km,1,1
+P0945,85,Male,"chest tightness, shortness of breath, cough",60,6,0,0,0,0,0,1,30,1,Respiratory,0,Urgent,High,Monday,Morning,0-5 km,2,1
+P0946,32,Other,"skin rash, itching, swelling",7,7,0,0,0,0,1,0,79,1,Dermatology,0,Soon,High,Monday,Morning,10-20 km,0,1
+P0947,24,Female,"cough, fatigue, vomiting",5,1,0,0,0,0,0,0,10,0,General Medicine,0,Self-care,High,Thursday,Evening,20+ km,1,0
+P0948,39,Female,"fatigue, abdominal pain",7,8,1,0,0,0,0,0,89,1,Gastroenterology,0,Urgent,High,Tuesday,Evening,5-10 km,1,1
+P0949,51,Other,"fatigue, fever",14,1,1,0,0,0,0,0,82,0,General Medicine,0,Soon,Low,Monday,Afternoon,0-5 km,0,1
+P0950,56,Male,"palpitations, chest pain",60,3,0,0,0,0,0,0,29,0,Cardiology,0,Routine,Medium,Monday,Morning,0-5 km,0,0
+P0951,47,Female,"skin rash, swelling, painful skin lesion",7,1,1,0,0,0,0,0,15,0,Dermatology,0,Self-care,Medium,Thursday,Morning,20+ km,1,1
+P0952,58,Female,"chest tightness, fever",60,3,0,0,0,0,0,0,76,1,Respiratory,0,Soon,High,Wednesday,Morning,20+ km,0,0
+P0953,29,Female,"blood in stool, abdominal pain, weight loss",30,1,0,0,0,1,0,1,17,0,Gastroenterology,0,Self-care,Medium,Monday,Morning,20+ km,1,1
+P0954,77,Female,"weakness, confusion",5,2,0,0,1,0,0,0,68,1,Neurology,0,Soon,High,Monday,Evening,20+ km,0,0
+P0955,50,Female,"weakness, speech difficulty",30,8,0,0,0,0,0,0,89,0,Neurology,0,Emergency,Medium,Monday,Afternoon,0-5 km,1,1
+P0956,72,Other,painful skin lesion,5,9,0,0,0,0,0,0,40,1,Dermatology,0,Urgent,Medium,Friday,Morning,0-5 km,0,1
+P0957,58,Female,shortness of breath,5,1,0,0,0,0,0,0,36,0,Cardiology,0,Routine,Low,Tuesday,Evening,10-20 km,0,1
+P0958,60,Other,speech difficulty,2,3,0,0,0,0,0,0,27,3,Neurology,0,Soon,High,Tuesday,Morning,10-20 km,1,0
+P0959,62,Male,"blood in stool, abdominal pain, vomiting",21,6,0,1,0,0,0,2,53,0,Gastroenterology,0,Urgent,High,Monday,Evening,5-10 km,2,0
+P0960,60,Other,dizziness,5,2,0,0,0,1,0,1,84,0,Neurology,0,Routine,Medium,Thursday,Evening,0-5 km,1,1
+P0961,63,Other,fatigue,2,5,1,0,0,0,0,0,70,1,Cardiology,0,Soon,High,Friday,Afternoon,0-5 km,0,0
+P0962,75,Female,severe headache,21,7,0,1,1,0,0,0,6,0,Neurology,0,Soon,Low,Tuesday,Morning,20+ km,0,1
+P0963,55,Male,fever,21,4,0,0,0,1,0,1,78,1,Respiratory,0,Soon,Medium,Friday,Afternoon,5-10 km,0,1
+P0964,64,Other,"cough, fatigue",10,4,0,0,0,1,0,1,86,0,Respiratory,0,Soon,Low,Friday,Evening,10-20 km,0,1
+P0965,50,Female,"skin rash, redness, swelling",7,5,0,0,0,0,0,2,11,1,Dermatology,0,Routine,Medium,Wednesday,Morning,20+ km,0,1
+P0966,77,Female,"cough, weight loss",7,4,0,1,0,1,0,0,26,2,General Medicine,0,Soon,High,Tuesday,Morning,0-5 km,0,1
+P0967,39,Other,"weight loss, fatigue",10,8,0,0,0,0,0,0,59,0,Gastroenterology,0,Soon,Medium,Wednesday,Morning,10-20 km,0,0
+P0968,84,Male,"swelling, redness, itching",7,5,0,0,0,0,0,0,23,0,Dermatology,0,Soon,Medium,Monday,Evening,10-20 km,0,0
+P0969,51,Male,"cough, fever, fatigue",21,7,1,0,0,0,0,0,58,0,General Medicine,0,Urgent,Medium,Monday,Afternoon,5-10 km,1,1
+P0970,26,Female,"shortness of breath, fever",10,9,0,0,0,1,0,1,32,1,Respiratory,0,Soon,Medium,Thursday,Morning,5-10 km,0,1
+P0971,54,Male,"chest tightness, fatigue, shortness of breath",2,9,0,0,1,0,0,1,16,0,Respiratory,0,Soon,Medium,Tuesday,Morning,10-20 km,1,0
+P0972,39,Other,painful skin lesion,5,7,0,0,0,0,0,2,65,1,Dermatology,0,Soon,Medium,Wednesday,Evening,10-20 km,0,1
+P0973,67,Female,shortness of breath,14,3,0,0,0,0,0,0,57,0,Cardiology,0,Soon,Low,Friday,Afternoon,5-10 km,0,1
+P0974,40,Female,palpitations,5,8,0,0,1,0,0,2,9,0,Cardiology,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0975,43,Female,shortness of breath,7,2,0,0,0,0,0,0,78,0,Cardiology,0,Routine,Low,Tuesday,Afternoon,0-5 km,0,1
+P0976,17,Female,abdominal pain,21,3,0,0,0,0,0,2,4,0,Gastroenterology,0,Self-care,Low,Friday,Evening,5-10 km,0,1
+P0977,43,Female,"fatigue, fever",5,8,0,0,0,0,0,0,79,0,Respiratory,0,Soon,Low,Monday,Afternoon,5-10 km,0,1
+P0978,8,Other,"fatigue, cough",30,7,0,0,0,0,0,0,7,0,General Medicine,0,Routine,Low,Monday,Evening,20+ km,0,1
+P0979,23,Female,"weakness, dizziness, severe headache",45,4,1,0,0,1,0,2,72,1,Neurology,1,Emergency,Medium,Monday,Afternoon,5-10 km,0,1
+P0980,65,Male,"vomiting, cough",7,4,0,0,0,0,0,3,20,0,General Medicine,0,Routine,Low,Friday,Morning,5-10 km,0,1
+P0981,66,Male,fatigue,5,3,0,0,0,0,0,1,46,0,Respiratory,0,Routine,High,Tuesday,Evening,20+ km,2,1
+P0982,59,Male,"itching, redness, skin rash",30,5,1,0,0,1,0,0,31,0,Dermatology,0,Soon,Medium,Tuesday,Evening,10-20 km,1,1
+P0983,34,Other,skin rash,21,4,0,0,0,1,0,1,61,1,Dermatology,0,Routine,High,Monday,Afternoon,20+ km,0,1
+P0984,51,Female,shortness of breath,10,2,0,0,0,0,0,0,87,0,Respiratory,0,Soon,Medium,Wednesday,Morning,20+ km,0,1
+P0985,51,Other,"weakness, speech difficulty",5,1,0,0,0,1,0,0,56,3,Neurology,0,Soon,High,Monday,Evening,0-5 km,1,1
+P0986,31,Female,speech difficulty,60,7,1,0,0,0,0,0,73,0,Neurology,0,Urgent,High,Monday,Evening,20+ km,2,1
+P0987,79,Female,"dizziness, shortness of breath",2,8,1,0,0,1,0,3,90,0,Cardiology,0,Emergency,Medium,Friday,Afternoon,20+ km,0,1
+P0988,67,Female,"cough, fatigue",45,10,1,1,0,1,0,1,24,0,General Medicine,0,Urgent,Medium,Monday,Morning,5-10 km,0,0
+P0989,48,Female,"dizziness, speech difficulty",2,1,0,0,0,0,0,0,72,0,Neurology,0,Soon,Low,Wednesday,Evening,10-20 km,0,1
+P0990,52,Male,"chest tightness, fever",2,5,0,1,0,0,0,2,5,0,Respiratory,0,Soon,Low,Wednesday,Afternoon,5-10 km,0,1
+P0991,55,Female,"swelling, redness",14,3,0,0,0,1,0,1,49,0,Dermatology,0,Routine,Low,Monday,Evening,5-10 km,0,1
+P0992,15,Female,shortness of breath,3,6,0,0,0,0,0,1,68,0,Cardiology,0,Soon,Medium,Friday,Afternoon,10-20 km,0,1
+P0993,47,Other,weight loss,10,2,0,0,0,1,0,1,40,0,Gastroenterology,0,Self-care,Low,Friday,Evening,20+ km,0,1
+P0994,39,Female,"cough, vomiting, weight loss",45,9,0,0,0,0,0,0,29,0,General Medicine,0,Soon,Low,Friday,Afternoon,10-20 km,0,1
+P0995,33,Other,"vomiting, cough, fever",5,1,0,0,1,0,0,1,15,1,General Medicine,0,Self-care,Low,Thursday,Afternoon,0-5 km,0,1
+P0996,46,Male,"dizziness, palpitations",2,1,0,0,0,0,0,0,73,0,Cardiology,0,Routine,Medium,Thursday,Morning,10-20 km,0,1
+P0997,84,Other,palpitations,21,6,1,0,0,0,0,0,77,0,Cardiology,0,Urgent,Low,Friday,Afternoon,10-20 km,0,1
+P0998,63,Female,"skin rash, itching",14,7,0,0,0,1,0,0,11,0,Dermatology,0,Routine,Medium,Monday,Morning,10-20 km,0,0
+P0999,41,Male,"shortness of breath, chest pain",3,1,0,0,0,0,0,0,85,0,Cardiology,1,Urgent,Medium,Friday,Evening,20+ km,0,1
+P1000,62,Male,"severe headache, confusion",5,10,0,0,0,1,0,2,49,1,Neurology,0,Urgent,Medium,Tuesday,Evening,0-5 km,0,1
+P1001,77,Male,vomiting,7,9,1,0,0,0,0,1,47,2,Gastroenterology,0,Urgent,High,Tuesday,Evening,5-10 km,0,1
+P1002,68,Male,"fever, cough",5,1,1,1,0,0,0,0,52,0,Respiratory,0,Soon,High,Tuesday,Morning,0-5 km,1,0
+P1003,53,Female,"dizziness, chest pain",2,8,0,1,0,0,0,2,19,1,Cardiology,1,Emergency,High,Wednesday,Morning,10-20 km,1,0
+P1004,40,Male,skin rash,30,3,0,0,0,0,0,0,28,0,Dermatology,0,Routine,Low,Monday,Morning,5-10 km,0,1
+P1005,64,Other,"severe headache, confusion",14,1,0,1,0,0,0,0,53,2,Neurology,0,Soon,High,Friday,Afternoon,10-20 km,0,1
+P1006,59,Male,"swelling, painful skin lesion",10,1,0,0,0,0,0,0,82,0,Dermatology,0,Routine,Medium,Tuesday,Evening,20+ km,0,0
+P1007,68,Other,fatigue,21,9,0,1,0,0,0,0,33,2,General Medicine,0,Urgent,High,Tuesday,Afternoon,5-10 km,0,0
+P1008,63,Other,weakness,45,1,1,1,0,1,0,0,45,3,Neurology,0,Urgent,High,Friday,Morning,20+ km,0,1
+P1009,70,Female,vomiting,3,10,0,1,0,1,0,3,80,0,Gastroenterology,0,Emergency,Low,Tuesday,Evening,10-20 km,0,1
+P1010,42,Female,blood in stool,5,3,0,0,0,0,0,0,38,0,Gastroenterology,0,Self-care,Low,Thursday,Morning,0-5 km,0,1
+P1011,75,Male,"itching, painful skin lesion",10,5,0,1,0,1,0,0,3,0,Dermatology,0,Soon,Low,Friday,Evening,20+ km,0,1
+P1012,55,Male,"abdominal pain, weight loss, vomiting",14,4,0,0,0,1,0,1,58,0,Gastroenterology,0,Soon,Medium,Thursday,Afternoon,5-10 km,0,0
+P1013,89,Other,"speech difficulty, weakness",60,3,0,0,0,1,0,0,11,2,Neurology,0,Soon,High,Friday,Morning,10-20 km,0,1
+P1014,39,Female,"itching, painful skin lesion",21,4,0,0,0,0,0,0,76,0,Dermatology,0,Routine,Medium,Tuesday,Afternoon,20+ km,0,1
+P1015,83,Female,painful skin lesion,14,5,0,0,0,1,0,1,4,0,Dermatology,0,Routine,Medium,Monday,Morning,10-20 km,0,0
+P1016,55,Other,"abdominal pain, weight loss, vomiting",3,3,0,0,0,1,0,2,13,2,Gastroenterology,0,Routine,Medium,Monday,Afternoon,5-10 km,0,1
+P1017,40,Female,"dizziness, confusion",3,9,0,0,0,1,0,0,72,0,Neurology,0,Soon,Medium,Wednesday,Afternoon,20+ km,1,1
+P1018,43,Other,"shortness of breath, dizziness",21,7,0,0,0,0,0,0,52,1,Cardiology,0,Soon,High,Friday,Afternoon,0-5 km,0,0
+P1019,46,Other,"dizziness, shortness of breath",5,10,1,0,1,0,0,0,28,1,Cardiology,0,Urgent,Medium,Wednesday,Evening,0-5 km,0,1
+P1020,59,Other,"severe headache, confusion",60,10,0,0,0,0,0,0,89,0,Neurology,0,Urgent,Low,Friday,Evening,5-10 km,0,1
+P1021,61,Female,"dizziness, fatigue, chest pain",7,3,0,0,0,1,0,0,25,0,Cardiology,0,Routine,Medium,Monday,Morning,5-10 km,0,0
+P1022,41,Female,"cough, shortness of breath, fatigue",60,10,0,0,0,0,0,0,58,0,Respiratory,0,Urgent,Medium,Tuesday,Afternoon,20+ km,1,1
+P1023,51,Female,"shortness of breath, dizziness",3,9,0,0,0,0,0,0,15,2,Cardiology,0,Soon,High,Tuesday,Afternoon,20+ km,0,0
+P1024,90,Other,"shortness of breath, fatigue",60,3,1,0,0,1,0,0,70,1,Respiratory,0,Urgent,Medium,Wednesday,Morning,5-10 km,0,1
+P1025,83,Female,abdominal pain,14,10,0,0,0,1,0,0,82,2,Gastroenterology,0,Urgent,High,Wednesday,Morning,0-5 km,1,1
+P1026,59,Male,"skin rash, redness, swelling",7,9,0,0,0,0,0,1,45,1,Dermatology,0,Urgent,High,Monday,Evening,5-10 km,1,0
+P1027,52,Male,"chest tightness, fatigue",30,4,0,0,0,0,0,0,65,0,Respiratory,0,Soon,Low,Wednesday,Afternoon,5-10 km,0,1
+P1028,54,Male,redness,30,3,0,0,0,0,0,1,53,0,Dermatology,0,Soon,Low,Monday,Afternoon,10-20 km,0,1
+P1029,63,Female,"painful skin lesion, redness",60,5,0,0,0,0,0,0,10,2,Dermatology,0,Routine,High,Friday,Evening,5-10 km,1,0
+P1030,33,Male,"fatigue, fever, shortness of breath",60,9,0,0,0,1,0,0,38,0,Respiratory,0,Urgent,Low,Friday,Afternoon,5-10 km,1,1
+P1031,47,Female,"chest pain, shortness of breath, dizziness",2,1,1,0,0,1,0,2,23,0,Cardiology,1,Emergency,Medium,Wednesday,Evening,10-20 km,0,0
+P1032,21,Other,"fatigue, fever",30,5,0,0,0,0,0,2,14,0,General Medicine,0,Routine,Medium,Tuesday,Morning,20+ km,0,1
+P1033,59,Male,fatigue,60,6,1,0,0,0,0,1,3,2,General Medicine,0,Soon,High,Thursday,Afternoon,10-20 km,0,1
+P1034,63,Other,"fatigue, palpitations",2,2,0,0,0,0,0,0,21,0,Cardiology,0,Routine,Medium,Monday,Morning,0-5 km,0,0
+P1035,43,Male,fatigue,2,7,0,0,0,0,0,0,86,0,General Medicine,0,Soon,Medium,Friday,Afternoon,20+ km,1,1
+P1036,80,Male,"fatigue, fever",21,3,0,0,0,0,0,0,24,0,General Medicine,0,Routine,Low,Wednesday,Morning,0-5 km,0,1
+P1037,29,Other,"fever, chest tightness",14,10,0,0,0,0,0,0,56,0,Respiratory,0,Soon,Medium,Tuesday,Evening,0-5 km,0,0
+P1038,25,Female,cough,7,7,0,0,0,0,0,0,24,2,General Medicine,0,Routine,High,Thursday,Morning,0-5 km,1,1
+P1039,56,Other,"weight loss, cough",14,9,0,0,0,1,0,0,24,0,General Medicine,0,Soon,Medium,Tuesday,Evening,10-20 km,1,0
+P1040,70,Male,fatigue,2,9,0,0,1,1,0,2,7,0,Cardiology,0,Urgent,Low,Wednesday,Afternoon,0-5 km,0,1
+P1041,82,Female,"speech difficulty, weakness",30,2,0,0,0,0,0,0,39,1,Neurology,0,Urgent,Medium,Tuesday,Afternoon,20+ km,0,1
+P1042,43,Female,fatigue,3,4,0,0,0,0,0,0,83,0,Cardiology,0,Routine,Low,Thursday,Morning,5-10 km,0,1
+P1043,71,Female,"speech difficulty, weakness",14,2,0,0,1,0,0,0,16,0,Neurology,0,Soon,Medium,Thursday,Afternoon,10-20 km,1,0
+P1044,51,Male,"confusion, severe headache",10,5,1,0,1,0,0,2,64,0,Neurology,0,Urgent,Medium,Thursday,Evening,20+ km,0,0
+P1045,48,Male,swelling,21,7,1,0,0,0,0,0,44,0,Dermatology,0,Soon,Low,Monday,Morning,0-5 km,0,1
+P1046,67,Male,"fatigue, blood in stool",60,7,0,0,0,1,0,1,38,2,Gastroenterology,0,Soon,High,Wednesday,Afternoon,5-10 km,0,1
+P1047,63,Other,"fatigue, chest tightness",30,6,0,0,0,0,0,1,74,0,Respiratory,0,Urgent,Low,Friday,Evening,5-10 km,0,1
+P1048,23,Female,"fatigue, dizziness",5,5,0,0,0,0,0,0,25,0,Cardiology,0,Routine,Medium,Monday,Afternoon,20+ km,0,1
+P1049,78,Other,"weight loss, fatigue, abdominal pain",45,7,0,0,0,0,0,3,14,0,Gastroenterology,0,Urgent,Low,Monday,Morning,5-10 km,0,1
+P1050,76,Male,fever,14,10,0,0,0,0,0,0,3,1,General Medicine,0,Soon,Medium,Monday,Afternoon,5-10 km,0,0
+P1051,40,Male,"dizziness, shortness of breath, chest pain",45,1,0,0,0,0,0,1,60,2,Cardiology,1,Emergency,High,Wednesday,Morning,0-5 km,0,1
+P1052,59,Other,weakness,60,8,0,1,0,0,0,0,83,1,Neurology,0,Urgent,High,Monday,Morning,10-20 km,0,0
+P1053,60,Female,confusion,5,5,0,0,0,1,0,0,60,0,Neurology,0,Soon,Medium,Wednesday,Evening,0-5 km,1,1
+P1054,56,Female,"chest tightness, shortness of breath",14,4,1,0,0,0,0,1,8,1,Respiratory,0,Soon,High,Friday,Afternoon,10-20 km,2,1
+P1055,42,Male,"palpitations, dizziness",60,8,0,0,0,0,0,1,46,0,Cardiology,0,Urgent,Low,Monday,Afternoon,0-5 km,0,1
+P1056,39,Other,"painful skin lesion, itching",21,7,0,0,1,0,0,0,32,0,Dermatology,0,Routine,Low,Thursday,Afternoon,0-5 km,0,1
+P1057,51,Other,abdominal pain,14,9,0,0,0,1,0,2,82,2,Gastroenterology,0,Urgent,High,Wednesday,Morning,20+ km,2,1
+P1058,73,Female,"chest pain, shortness of breath",5,9,0,1,0,0,0,2,34,0,Cardiology,1,Emergency,Low,Thursday,Morning,10-20 km,0,1
+P1059,61,Other,shortness of breath,60,1,0,0,1,0,0,1,23,0,Respiratory,0,Soon,Low,Friday,Evening,10-20 km,0,1
+P1060,45,Male,"weakness, speech difficulty",7,1,0,0,0,0,0,1,55,1,Neurology,0,Soon,High,Monday,Afternoon,0-5 km,1,1
+P1061,65,Other,speech difficulty,7,9,0,0,0,0,0,0,84,1,Neurology,0,Urgent,Medium,Tuesday,Morning,5-10 km,0,1
+P1062,1,Male,shortness of breath,7,9,0,0,0,1,0,2,54,2,Cardiology,0,Urgent,High,Friday,Morning,5-10 km,0,1
+P1063,72,Female,"fever, fatigue, vomiting",2,5,0,0,0,0,0,1,9,0,General Medicine,0,Routine,Low,Friday,Evening,20+ km,0,1
+P1064,20,Female,"cough, shortness of breath, chest tightness",5,5,0,0,0,0,0,0,60,0,Respiratory,0,Soon,Medium,Tuesday,Evening,20+ km,0,1
+P1065,45,Other,weight loss,10,4,1,0,0,1,0,0,13,0,Gastroenterology,0,Routine,Low,Monday,Morning,0-5 km,0,1
+P1066,31,Female,dizziness,5,1,1,0,0,0,0,0,43,1,Neurology,0,Routine,Medium,Thursday,Afternoon,5-10 km,0,0
+P1067,28,Male,"fatigue, chest pain, dizziness",5,6,0,0,0,1,0,3,73,2,Cardiology,0,Soon,High,Thursday,Morning,0-5 km,0,0
+P1068,72,Female,skin rash,3,7,1,0,0,1,0,0,24,0,Dermatology,0,Urgent,Medium,Wednesday,Evening,10-20 km,1,1
+P1069,43,Female,fatigue,10,4,0,0,1,0,0,0,19,1,General Medicine,0,Self-care,High,Wednesday,Morning,10-20 km,0,0
+P1070,58,Other,blood in stool,2,10,1,0,0,1,0,0,58,1,Gastroenterology,0,Urgent,High,Tuesday,Afternoon,20+ km,0,0
+P1071,51,Female,"weight loss, abdominal pain",10,9,1,1,0,0,0,0,87,0,Gastroenterology,0,Urgent,Medium,Wednesday,Evening,10-20 km,0,0
+P1072,60,Female,chest pain,21,9,0,0,0,0,0,2,90,0,Cardiology,0,Urgent,Medium,Wednesday,Afternoon,20+ km,0,1
+P1073,53,Other,redness,10,1,0,1,1,0,0,0,30,0,Dermatology,0,Routine,Low,Friday,Morning,0-5 km,0,1
+P1074,28,Other,weight loss,7,7,0,0,0,0,0,1,81,0,General Medicine,0,Soon,Low,Wednesday,Morning,5-10 km,0,1
+P1075,69,Male,"shortness of breath, cough, fatigue",2,3,1,0,0,1,0,0,22,0,Respiratory,0,Soon,Medium,Tuesday,Morning,20+ km,0,1
+P1076,43,Female,severe headache,21,8,1,0,0,0,0,0,15,0,Neurology,0,Soon,Low,Friday,Evening,0-5 km,0,1
+P1077,23,Female,chest pain,5,4,1,0,0,0,0,0,64,0,Cardiology,1,Emergency,Medium,Friday,Evening,20+ km,0,1
+P1078,44,Other,"abdominal pain, vomiting",3,9,1,0,0,0,0,0,34,0,Gastroenterology,0,Soon,Medium,Monday,Morning,0-5 km,1,1
+P1079,79,Other,"blood in stool, vomiting",3,9,1,1,0,0,0,2,41,0,Gastroenterology,0,Emergency,Low,Wednesday,Afternoon,10-20 km,0,1
+P1080,67,Male,palpitations,10,7,0,0,1,1,0,0,58,0,Cardiology,0,Soon,Medium,Wednesday,Evening,10-20 km,1,1
+P1081,45,Male,abdominal pain,5,9,1,0,0,0,1,2,89,0,Gastroenterology,1,Emergency,Low,Tuesday,Evening,5-10 km,0,1
+P1082,45,Male,weight loss,14,3,1,0,0,1,0,0,46,0,General Medicine,0,Routine,Low,Thursday,Afternoon,5-10 km,0,1
+P1083,46,Male,cough,14,2,1,0,0,0,0,0,88,0,General Medicine,0,Routine,Medium,Tuesday,Evening,0-5 km,2,1
+P1084,89,Female,"chest tightness, shortness of breath, fatigue",2,2,1,0,0,1,0,0,32,0,Respiratory,0,Soon,Medium,Monday,Morning,20+ km,0,1
+P1085,58,Female,"fatigue, chest tightness, shortness of breath",14,1,0,1,0,1,0,0,55,0,Respiratory,0,Soon,Medium,Tuesday,Evening,10-20 km,1,1
+P1086,59,Male,weight loss,10,7,0,0,0,0,0,2,4,0,Gastroenterology,0,Soon,Low,Wednesday,Morning,0-5 km,0,1
+P1087,70,Other,"speech difficulty, dizziness, severe headache",45,3,1,0,0,1,0,0,41,1,Neurology,1,Emergency,High,Thursday,Evening,5-10 km,2,1
+P1088,56,Female,"vomiting, weight loss, fatigue",60,8,0,0,0,1,0,2,53,1,Gastroenterology,0,Urgent,High,Friday,Afternoon,20+ km,1,1
+P1089,47,Male,"vomiting, fever",45,5,0,0,1,0,0,0,62,3,General Medicine,0,Soon,High,Tuesday,Morning,5-10 km,0,1
+P1090,48,Female,chest tightness,14,7,0,0,0,0,0,2,78,1,Respiratory,0,Soon,Medium,Tuesday,Afternoon,10-20 km,0,1
+P1091,50,Female,"cough, vomiting",7,9,0,1,0,0,0,1,68,0,General Medicine,0,Urgent,Low,Monday,Evening,5-10 km,0,1
+P1092,51,Male,"painful skin lesion, itching",21,7,0,0,0,0,0,0,3,0,Dermatology,0,Routine,Low,Monday,Morning,0-5 km,0,0
+P1093,65,Male,"fever, shortness of breath",10,10,0,1,0,1,0,1,68,0,Respiratory,0,Urgent,Low,Thursday,Morning,5-10 km,0,1
+P1094,52,Other,"blood in stool, fatigue, abdominal pain",60,1,0,1,0,0,0,0,36,0,Gastroenterology,0,Soon,Low,Tuesday,Afternoon,0-5 km,1,1
+P1095,65,Female,"chest tightness, shortness of breath",3,7,0,0,0,0,0,2,20,1,Respiratory,0,Soon,Medium,Friday,Morning,10-20 km,0,1
+P1096,50,Other,"redness, swelling, itching",14,9,0,0,1,0,0,0,16,0,Dermatology,0,Soon,Low,Friday,Evening,5-10 km,0,1
+P1097,53,Other,"dizziness, severe headache",45,2,0,0,0,1,0,1,61,3,Neurology,0,Soon,High,Tuesday,Morning,5-10 km,0,1
+P1098,16,Other,"redness, painful skin lesion",21,9,0,0,0,0,0,2,1,0,Dermatology,0,Soon,Low,Friday,Morning,10-20 km,0,1
+P1099,68,Male,"confusion, severe headache",5,4,1,0,0,1,0,2,24,0,Neurology,0,Soon,Low,Thursday,Evening,0-5 km,0,1
+P1100,58,Other,"swelling, redness",14,2,1,0,1,0,0,0,89,0,Dermatology,0,Soon,Medium,Tuesday,Morning,10-20 km,0,1
+P1101,69,Male,"weight loss, fever, vomiting",45,5,0,1,0,1,0,2,21,0,General Medicine,0,Urgent,Low,Monday,Evening,5-10 km,0,0
+P1102,1,Female,"fatigue, shortness of breath, chest tightness",3,1,1,0,1,0,0,0,30,0,Respiratory,0,Routine,Low,Wednesday,Morning,0-5 km,0,1
+P1103,89,Other,"swelling, redness",7,5,0,0,0,0,0,0,12,0,Dermatology,0,Routine,Low,Monday,Afternoon,0-5 km,1,1
+P1104,49,Female,"fatigue, vomiting, abdominal pain",3,3,0,0,0,0,0,0,10,2,Gastroenterology,0,Self-care,High,Wednesday,Morning,20+ km,0,1
+P1105,71,Other,weight loss,60,8,1,0,0,1,0,0,50,0,Gastroenterology,0,Emergency,Medium,Wednesday,Afternoon,10-20 km,1,1
+P1106,33,Male,"dizziness, confusion",45,8,0,0,0,1,0,0,50,1,Neurology,0,Urgent,High,Friday,Evening,20+ km,1,1
+P1107,63,Other,palpitations,3,5,0,0,1,1,0,0,42,1,Cardiology,0,Routine,High,Thursday,Morning,5-10 km,0,0
+P1108,33,Male,"confusion, dizziness",2,8,0,0,0,0,0,0,33,0,Neurology,0,Soon,Low,Thursday,Evening,20+ km,0,1
+P1109,40,Female,"cough, fatigue",60,3,0,0,0,0,0,0,68,0,General Medicine,0,Routine,Medium,Friday,Morning,20+ km,0,1
+P1110,86,Female,"confusion, dizziness",7,5,0,0,1,1,0,0,4,1,Neurology,0,Routine,Medium,Thursday,Morning,5-10 km,0,1
+P1111,48,Male,"swelling, skin rash",30,9,0,0,0,0,0,1,60,0,Dermatology,0,Urgent,Low,Wednesday,Afternoon,10-20 km,0,1
+P1112,55,Other,confusion,5,8,1,0,0,0,0,1,24,0,Neurology,0,Urgent,Low,Tuesday,Evening,5-10 km,0,0
+P1113,67,Female,"weight loss, vomiting, cough",60,9,1,0,0,1,0,0,37,0,General Medicine,0,Urgent,Low,Friday,Evening,20+ km,0,1
+P1114,60,Female,"fever, fatigue, cough",60,9,0,1,1,1,0,0,35,0,General Medicine,0,Urgent,High,Wednesday,Afternoon,20+ km,1,0
+P1115,54,Other,dizziness,7,8,0,0,0,0,0,2,6,2,Cardiology,0,Soon,High,Monday,Afternoon,0-5 km,0,0
+P1116,58,Male,cough,10,8,0,0,1,0,0,0,31,2,General Medicine,0,Soon,High,Friday,Morning,0-5 km,2,0
+P1117,95,Male,severe headache,3,10,1,0,0,0,0,0,78,0,Neurology,0,Urgent,Medium,Tuesday,Afternoon,20+ km,0,1
+P1118,50,Female,weight loss,2,3,1,0,0,0,0,2,54,0,General Medicine,0,Soon,Medium,Tuesday,Afternoon,10-20 km,1,1
+P1119,55,Male,chest tightness,45,9,1,0,0,1,0,0,1,0,Respiratory,0,Urgent,Medium,Wednesday,Afternoon,20+ km,1,0
+P1120,70,Female,"skin rash, itching",10,4,0,1,0,0,0,1,36,0,Dermatology,0,Soon,Medium,Friday,Morning,0-5 km,0,0
+P1121,71,Female,cough,14,6,1,1,0,0,0,2,8,0,Respiratory,0,Urgent,Low,Wednesday,Afternoon,5-10 km,0,1
+P1122,73,Female,"fatigue, fever",5,5,0,1,0,0,0,2,51,2,Respiratory,0,Urgent,High,Tuesday,Morning,20+ km,1,0
+P1123,63,Other,"weakness, severe headache",60,1,1,0,0,1,0,0,43,1,Neurology,1,Emergency,High,Wednesday,Evening,20+ km,0,0
+P1124,31,Female,dizziness,3,1,0,0,0,0,0,0,77,1,Cardiology,0,Routine,Medium,Monday,Evening,10-20 km,0,1
+P1125,81,Other,fatigue,21,3,1,0,0,1,0,2,36,0,General Medicine,0,Soon,Low,Friday,Evening,5-10 km,1,1
+P1126,31,Female,fever,60,10,0,0,0,0,1,0,69,2,General Medicine,0,Urgent,High,Tuesday,Afternoon,10-20 km,0,0
+P1127,57,Female,"palpitations, fatigue",3,5,1,1,0,0,0,0,7,0,Cardiology,0,Soon,Medium,Thursday,Evening,20+ km,0,0
+P1128,38,Male,swelling,10,6,0,0,1,0,0,1,70,1,Dermatology,0,Soon,High,Monday,Afternoon,5-10 km,1,1
+P1129,50,Female,"fatigue, blood in stool",21,6,0,0,0,0,0,0,80,2,Gastroenterology,0,Soon,High,Wednesday,Afternoon,5-10 km,0,1
+P1130,57,Male,"fever, fatigue, chest tightness",21,8,0,1,0,1,0,0,23,0,Respiratory,0,Urgent,Low,Thursday,Afternoon,10-20 km,0,1
+P1131,57,Female,"fever, fatigue, shortness of breath",2,2,0,0,0,1,0,0,46,1,Respiratory,0,Soon,High,Tuesday,Afternoon,20+ km,0,1
+P1132,59,Female,itching,10,2,0,1,0,0,0,0,74,0,Dermatology,0,Soon,Low,Monday,Evening,0-5 km,0,1
+P1133,81,Female,"fatigue, weight loss",60,6,0,0,0,1,0,0,24,0,General Medicine,0,Urgent,Low,Monday,Morning,10-20 km,0,1
+P1134,60,Female,weakness,30,2,1,0,0,1,0,0,76,0,Neurology,0,Soon,Medium,Monday,Afternoon,0-5 km,2,1
+P1135,47,Female,"weight loss, vomiting",30,7,0,0,0,0,0,2,51,0,Gastroenterology,0,Urgent,Medium,Monday,Morning,10-20 km,0,0
+P1136,69,Female,"dizziness, fatigue",7,7,0,0,0,1,0,0,83,2,Cardiology,0,Soon,High,Wednesday,Evening,10-20 km,0,1
+P1137,73,Female,"weight loss, cough",30,8,1,0,1,0,0,1,50,0,General Medicine,0,Emergency,Medium,Thursday,Morning,20+ km,0,1
+P1138,29,Male,skin rash,3,9,0,0,0,0,0,1,3,3,Dermatology,0,Routine,High,Friday,Evening,20+ km,0,0
+P1139,62,Other,"palpitations, shortness of breath, dizziness",14,7,0,0,1,0,0,1,26,0,Cardiology,0,Soon,Low,Friday,Afternoon,20+ km,0,1
+P1140,64,Female,"fatigue, palpitations, dizziness",30,3,1,0,0,0,0,0,56,1,Cardiology,0,Soon,Medium,Monday,Evening,10-20 km,0,1
+P1141,46,Other,"fever, fatigue",14,10,0,0,0,0,0,1,5,0,Respiratory,0,Routine,Low,Thursday,Evening,5-10 km,0,1
+P1142,76,Female,"chest tightness, shortness of breath, cough",2,7,1,0,0,1,0,1,11,0,Respiratory,0,Urgent,Low,Wednesday,Afternoon,20+ km,0,1
+P1143,49,Male,"shortness of breath, dizziness, palpitations",3,9,0,0,0,0,0,0,67,1,Cardiology,0,Urgent,Medium,Monday,Morning,0-5 km,0,1
+P1144,54,Female,painful skin lesion,2,5,0,1,0,0,0,3,47,0,Dermatology,0,Urgent,High,Monday,Afternoon,20+ km,1,0
+P1145,48,Female,"fatigue, blood in stool, abdominal pain",30,2,1,0,0,1,0,0,18,0,Gastroenterology,0,Routine,Low,Thursday,Afternoon,5-10 km,1,1
+P1146,52,Other,"painful skin lesion, skin rash",14,10,0,0,0,0,0,2,6,0,Dermatology,0,Soon,Low,Friday,Afternoon,5-10 km,0,1
+P1147,32,Female,"confusion, dizziness",2,5,0,1,0,0,0,1,18,1,Neurology,0,Routine,Medium,Monday,Afternoon,20+ km,0,1
+P1148,26,Other,"dizziness, confusion",5,10,1,0,0,1,0,2,87,2,Neurology,0,Urgent,High,Thursday,Morning,0-5 km,1,1
+P1149,80,Female,"confusion, severe headache",5,7,0,0,0,1,0,1,27,1,Neurology,0,Soon,Medium,Thursday,Morning,5-10 km,0,1
+P1150,36,Female,"weight loss, fatigue, abdominal pain",7,2,0,0,1,0,0,1,31,2,Gastroenterology,0,Self-care,High,Friday,Evening,10-20 km,0,1
+P1151,34,Other,"skin rash, redness",14,5,0,0,0,0,0,3,68,0,Dermatology,0,Soon,Medium,Tuesday,Evening,10-20 km,1,1
+P1152,13,Male,skin rash,45,2,0,0,0,0,0,0,65,1,Dermatology,0,Routine,Medium,Thursday,Evening,0-5 km,0,1
+P1153,40,Other,fatigue,10,10,0,0,0,1,0,2,85,0,Respiratory,0,Urgent,Low,Wednesday,Morning,0-5 km,0,1
+P1154,28,Female,fatigue,2,9,0,0,0,0,0,1,5,0,Cardiology,0,Routine,Low,Thursday,Morning,0-5 km,0,1
+P1155,81,Other,"cough, vomiting",5,9,0,0,0,0,0,0,75,2,General Medicine,0,Urgent,High,Thursday,Evening,5-10 km,0,0
+P1156,70,Other,"chest pain, dizziness, fatigue",5,1,1,0,0,1,0,0,16,0,Cardiology,1,Urgent,Low,Thursday,Morning,5-10 km,0,1
+P1157,39,Male,fatigue,30,1,0,0,0,0,0,0,2,1,Respiratory,0,Self-care,Medium,Tuesday,Afternoon,10-20 km,0,1
+P1158,92,Female,abdominal pain,45,5,0,1,0,0,0,1,52,1,Gastroenterology,0,Urgent,Medium,Tuesday,Evening,0-5 km,0,1
+P1159,69,Female,"shortness of breath, dizziness",7,7,0,0,0,1,0,0,11,1,Cardiology,0,Soon,Medium,Wednesday,Afternoon,20+ km,0,1
+P1160,46,Male,vomiting,7,9,0,0,0,0,0,0,52,0,General Medicine,0,Soon,Low,Tuesday,Morning,5-10 km,0,1
+P1161,7,Male,"painful skin lesion, redness",5,3,0,0,0,0,0,1,33,0,Dermatology,0,Self-care,High,Tuesday,Morning,20+ km,2,1
+P1162,93,Female,"chest pain, dizziness",60,10,0,0,0,1,0,2,77,1,Cardiology,0,Emergency,Medium,Friday,Evening,5-10 km,0,1
+P1163,26,Other,fatigue,30,10,0,0,0,0,0,0,56,0,Respiratory,0,Urgent,Medium,Tuesday,Afternoon,0-5 km,0,0
+P1164,22,Male,"fever, cough, vomiting",5,7,0,0,0,0,0,0,1,2,General Medicine,0,Routine,High,Wednesday,Morning,10-20 km,0,1
+P1165,70,Male,vomiting,7,1,0,0,0,1,0,2,73,0,General Medicine,0,Soon,Medium,Monday,Morning,10-20 km,0,1
+P1166,95,Male,"fatigue, chest tightness, shortness of breath",10,3,1,0,0,1,0,1,86,2,Respiratory,0,Urgent,High,Wednesday,Morning,5-10 km,0,1
+P1167,76,Other,"shortness of breath, palpitations",3,10,0,1,0,0,0,2,72,2,Cardiology,0,Emergency,High,Tuesday,Evening,20+ km,1,1
+P1168,62,Other,"fever, cough, fatigue",2,8,0,0,1,0,0,1,53,0,General Medicine,0,Urgent,High,Friday,Afternoon,20+ km,2,0
+P1169,62,Other,"cough, fever",14,4,0,0,0,1,0,3,85,0,General Medicine,0,Soon,Medium,Thursday,Morning,10-20 km,0,1
+P1170,67,Male,dizziness,5,1,0,0,0,1,0,0,43,1,Cardiology,0,Routine,High,Friday,Morning,0-5 km,0,0
+P1171,65,Male,shortness of breath,60,1,0,0,0,0,0,1,64,0,Cardiology,0,Soon,Medium,Friday,Afternoon,20+ km,1,1
+P1172,57,Male,"fever, weight loss, fatigue",45,6,0,0,0,0,0,0,89,0,General Medicine,0,Urgent,Low,Friday,Evening,5-10 km,0,1
+P1173,53,Male,fatigue,3,2,0,0,0,1,0,0,58,0,Cardiology,0,Routine,High,Wednesday,Morning,20+ km,0,0
+P1174,50,Male,"dizziness, chest pain",10,6,1,1,0,0,0,2,16,0,Cardiology,1,Emergency,Low,Tuesday,Evening,0-5 km,1,1
+P1175,38,Female,"chest pain, shortness of breath, palpitations",45,6,0,0,0,0,1,2,70,0,Cardiology,1,Emergency,Low,Monday,Evening,10-20 km,0,1
+P1176,46,Female,weight loss,7,4,1,0,0,0,0,0,54,0,Gastroenterology,0,Soon,Medium,Tuesday,Evening,0-5 km,2,1
+P1177,21,Female,"abdominal pain, vomiting",2,10,0,0,0,0,0,0,87,1,Gastroenterology,0,Soon,High,Friday,Evening,0-5 km,1,1
+P1178,50,Male,fatigue,45,5,0,0,0,0,0,1,72,0,General Medicine,0,Soon,Medium,Thursday,Morning,5-10 km,0,0
+P1179,34,Other,redness,30,1,0,0,0,1,0,0,35,0,Dermatology,0,Routine,Low,Wednesday,Afternoon,10-20 km,0,1
+P1180,32,Female,"fatigue, vomiting",60,6,1,0,0,0,0,1,74,0,General Medicine,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,1
+P1181,55,Female,"chest tightness, shortness of breath",10,1,0,0,0,0,0,0,63,1,Respiratory,0,Soon,High,Monday,Morning,20+ km,1,1
+P1182,77,Female,"chest tightness, cough, shortness of breath",45,2,0,0,0,0,0,1,55,0,Respiratory,0,Urgent,Medium,Friday,Evening,0-5 km,0,0
+P1183,68,Female,"itching, skin rash",10,6,0,0,1,0,0,0,26,1,Dermatology,0,Soon,Medium,Wednesday,Evening,20+ km,0,1
+P1184,23,Female,"fatigue, weight loss",30,6,1,0,0,1,0,2,64,2,General Medicine,0,Urgent,High,Wednesday,Afternoon,10-20 km,2,1
+P1185,34,Female,fatigue,3,9,0,0,0,0,0,0,72,0,Cardiology,0,Soon,Medium,Wednesday,Evening,20+ km,0,0
+P1186,68,Male,"dizziness, weakness",30,1,0,0,0,1,0,0,53,0,Neurology,0,Soon,Medium,Thursday,Morning,5-10 km,1,1
+P1187,34,Male,skin rash,2,3,0,0,0,0,0,0,9,0,Dermatology,0,Self-care,Medium,Monday,Morning,10-20 km,0,0
+P1188,47,Female,chest pain,60,1,0,0,0,1,0,0,23,0,Cardiology,0,Routine,Low,Tuesday,Morning,0-5 km,0,1
+P1189,61,Other,"fever, fatigue",60,1,1,0,0,0,0,0,59,0,Respiratory,0,Soon,Low,Friday,Evening,0-5 km,0,1
+P1190,34,Other,"weight loss, fatigue, vomiting",60,8,0,0,0,0,0,0,86,0,General Medicine,0,Urgent,Medium,Friday,Morning,20+ km,0,1
+P1191,53,Female,"weight loss, vomiting, cough",5,3,1,0,0,0,0,0,47,0,General Medicine,0,Soon,High,Tuesday,Morning,5-10 km,1,0
+P1192,27,Other,"itching, painful skin lesion",5,6,0,0,0,1,0,0,21,1,Dermatology,0,Routine,High,Thursday,Evening,20+ km,1,1
+P1193,41,Male,"shortness of breath, fatigue",5,1,0,0,0,0,0,1,33,1,Cardiology,0,Routine,Medium,Monday,Afternoon,0-5 km,0,0
+P1194,57,Female,blood in stool,60,1,0,0,1,0,0,1,62,0,Gastroenterology,0,Soon,Medium,Monday,Afternoon,10-20 km,1,1
+P1195,23,Female,weight loss,7,2,0,0,0,1,0,0,51,1,General Medicine,0,Routine,Medium,Tuesday,Evening,5-10 km,0,1
+P1196,59,Male,"fatigue, vomiting",45,1,0,0,0,0,0,3,52,2,General Medicine,0,Soon,High,Monday,Afternoon,20+ km,0,1
+P1197,51,Female,"fever, fatigue",2,8,1,0,0,0,0,1,39,1,Respiratory,0,Urgent,Medium,Thursday,Afternoon,5-10 km,0,1
+P1198,61,Male,"fatigue, blood in stool",21,3,0,0,0,0,0,0,6,0,Gastroenterology,0,Self-care,Low,Tuesday,Evening,20+ km,0,1
+P1199,56,Male,"weight loss, fever",3,9,0,0,0,0,0,2,76,1,General Medicine,0,Urgent,High,Friday,Evening,20+ km,0,1
+P1200,76,Other,confusion,10,10,0,0,0,1,0,1,85,0,Neurology,0,Urgent,Medium,Thursday,Afternoon,20+ km,0,0

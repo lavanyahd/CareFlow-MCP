@@ -1,0 +1,30 @@
+{
+    "model_name": "Logistic Regression",
+    "target": "dna_label",
+    "labels": [
+        "High",
+        "Medium",
+        "Low"
+    ],
+    "numeric_features": [
+        "age",
+        "waiting_days",
+        "previous_missed_appointments",
+        "previous_cancellations",
+        "reminder_sent"
+    ],
+    "categorical_features": [
+        "department",
+        "appointment_day",
+        "appointment_time",
+        "distance_band"
+    ],
+    "accuracy": 0.9417,
+    "macro_f1": 0.943,
+    "high_recall": 0.9286,
+    "medium_recall": 0.9111,
+    "priority_score": 0.9332,
+    "training_rows": 960,
+    "test_rows": 240,
+    "dataset_path": "D:\\CareFlow-MCP\\ml\\data\\synthetic_appointments.csv"
+}

@@ -1,0 +1,1201 @@
+patient_id,age,department,waiting_days,previous_missed_appointments,appointment_day,appointment_time,distance_band,previous_cancellations,reminder_sent,dna_label
+P0001,60,Cardiology,30,0,Friday,Morning,0-5 km,0,1,Low
+P0002,49,Respiratory,45,0,Thursday,Evening,0-5 km,0,1,Low
+P0003,63,Dermatology,59,0,Tuesday,Afternoon,10-20 km,0,1,Low
+P0004,79,General Medicine,8,0,Wednesday,Afternoon,0-5 km,0,0,Low
+P0005,47,General Medicine,75,0,Wednesday,Morning,20+ km,2,0,High
+P0006,47,Cardiology,71,1,Monday,Evening,0-5 km,1,1,High
+P0007,80,Respiratory,81,0,Tuesday,Afternoon,5-10 km,1,1,Medium
+P0008,65,General Medicine,11,1,Friday,Morning,0-5 km,0,1,Medium
+P0009,43,Cardiology,67,0,Tuesday,Morning,5-10 km,0,1,Low
+P0010,61,Dermatology,74,0,Thursday,Afternoon,5-10 km,0,0,Medium
+P0011,43,Respiratory,24,0,Monday,Afternoon,5-10 km,1,1,Low
+P0012,43,Cardiology,34,2,Wednesday,Afternoon,20+ km,0,1,High
+P0013,56,Dermatology,68,0,Tuesday,Morning,0-5 km,0,1,Low
+P0014,17,Gastroenterology,41,0,Tuesday,Evening,20+ km,0,1,Medium
+P0015,20,Cardiology,57,1,Friday,Evening,10-20 km,0,1,High
+P0016,41,Respiratory,34,0,Monday,Morning,10-20 km,0,1,Low
+P0017,33,Cardiology,48,0,Thursday,Morning,5-10 km,0,1,Low
+P0018,57,General Medicine,23,2,Tuesday,Evening,0-5 km,1,1,High
+P0019,35,Neurology,30,0,Thursday,Afternoon,5-10 km,0,0,Low
+P0020,26,Respiratory,56,0,Thursday,Evening,10-20 km,2,0,High
+P0021,78,Cardiology,86,2,Monday,Evening,10-20 km,1,1,High
+P0022,47,Gastroenterology,1,0,Thursday,Evening,5-10 km,0,1,Low
+P0023,53,Gastroenterology,31,1,Tuesday,Morning,5-10 km,0,0,High
+P0024,26,Dermatology,14,1,Tuesday,Evening,5-10 km,0,0,Medium
+P0025,42,General Medicine,65,0,Tuesday,Evening,20+ km,1,1,Medium
+P0026,53,General Medicine,11,0,Thursday,Evening,5-10 km,0,0,Low
+P0027,31,Gastroenterology,46,0,Thursday,Evening,20+ km,0,1,Medium
+P0028,58,General Medicine,69,0,Friday,Evening,20+ km,0,0,Medium
+P0029,41,Cardiology,61,0,Wednesday,Morning,0-5 km,0,1,Low
+P0030,46,Cardiology,33,1,Friday,Evening,5-10 km,2,1,High
+P0031,41,General Medicine,81,0,Friday,Morning,10-20 km,1,1,Medium
+P0032,85,Respiratory,56,0,Friday,Evening,10-20 km,1,1,Medium
+P0033,51,Dermatology,64,1,Thursday,Morning,5-10 km,0,1,Medium
+P0034,32,General Medicine,63,0,Monday,Afternoon,0-5 km,0,1,Low
+P0035,66,Dermatology,25,0,Tuesday,Morning,5-10 km,0,1,Low
+P0036,30,General Medicine,7,0,Thursday,Morning,5-10 km,1,1,Low
+P0037,55,Gastroenterology,73,2,Tuesday,Morning,0-5 km,0,1,High
+P0038,16,Neurology,13,2,Tuesday,Afternoon,5-10 km,0,0,High
+P0039,28,Dermatology,34,1,Thursday,Morning,5-10 km,0,1,Medium
+P0040,55,General Medicine,35,0,Thursday,Morning,20+ km,0,1,Medium
+P0041,65,Respiratory,23,0,Wednesday,Morning,20+ km,2,1,High
+P0042,55,General Medicine,12,0,Monday,Afternoon,10-20 km,1,1,Low
+P0043,49,Dermatology,37,0,Monday,Morning,20+ km,2,1,High
+P0044,46,Neurology,38,0,Thursday,Afternoon,10-20 km,2,0,High
+P0045,25,Cardiology,65,0,Wednesday,Evening,0-5 km,0,1,Low
+P0046,39,Gastroenterology,30,1,Monday,Afternoon,20+ km,0,1,Medium
+P0047,43,Gastroenterology,59,0,Thursday,Evening,5-10 km,2,0,High
+P0048,71,Respiratory,9,0,Tuesday,Evening,10-20 km,0,1,Low
+P0049,58,Neurology,68,0,Tuesday,Morning,5-10 km,0,1,Low
+P0050,20,Neurology,21,0,Friday,Afternoon,10-20 km,0,1,Low
+P0051,57,Gastroenterology,85,0,Friday,Evening,0-5 km,1,1,Medium
+P0052,45,Neurology,83,0,Monday,Evening,20+ km,0,0,Medium
+P0053,39,Respiratory,62,2,Wednesday,Morning,10-20 km,0,0,High
+P0054,63,General Medicine,82,2,Tuesday,Afternoon,0-5 km,0,1,High
+P0055,70,Respiratory,31,2,Thursday,Afternoon,5-10 km,0,1,High
+P0056,68,General Medicine,31,1,Wednesday,Evening,0-5 km,1,1,Medium
+P0057,36,Gastroenterology,32,3,Monday,Evening,5-10 km,0,0,High
+P0058,46,Respiratory,4,0,Tuesday,Evening,10-20 km,0,0,Low
+P0059,57,Cardiology,85,0,Monday,Morning,20+ km,2,1,High
+P0060,69,Neurology,49,3,Thursday,Evening,10-20 km,0,0,High
+P0061,43,Cardiology,86,0,Thursday,Morning,5-10 km,0,0,Medium
+P0062,48,Cardiology,77,0,Friday,Evening,0-5 km,0,1,Low
+P0063,32,General Medicine,72,0,Monday,Morning,10-20 km,0,1,Medium
+P0064,30,Respiratory,59,0,Wednesday,Evening,10-20 km,0,1,Low
+P0065,66,Cardiology,28,1,Wednesday,Afternoon,0-5 km,0,1,Medium
+P0066,76,Gastroenterology,16,0,Tuesday,Morning,20+ km,0,1,Low
+P0067,50,Dermatology,52,1,Wednesday,Morning,20+ km,0,1,High
+P0068,70,Neurology,22,0,Friday,Evening,0-5 km,0,1,Low
+P0069,58,Neurology,73,1,Friday,Evening,20+ km,0,1,High
+P0070,40,Respiratory,48,1,Monday,Evening,0-5 km,0,1,Medium
+P0071,58,Dermatology,44,3,Friday,Evening,0-5 km,0,0,High
+P0072,79,General Medicine,13,0,Wednesday,Afternoon,20+ km,0,1,Low
+P0073,51,General Medicine,11,0,Wednesday,Morning,20+ km,0,1,Low
+P0074,80,General Medicine,18,0,Monday,Evening,10-20 km,1,1,Low
+P0075,4,Cardiology,47,1,Thursday,Evening,5-10 km,0,1,Medium
+P0076,66,Respiratory,54,2,Friday,Morning,5-10 km,1,0,High
+P0077,53,General Medicine,29,1,Monday,Afternoon,10-20 km,0,1,Medium
+P0078,46,Gastroenterology,61,1,Thursday,Afternoon,5-10 km,0,1,Medium
+P0079,53,Respiratory,64,0,Friday,Evening,0-5 km,0,0,Medium
+P0080,16,Cardiology,65,0,Thursday,Morning,20+ km,0,1,Medium
+P0081,48,Neurology,44,1,Thursday,Evening,5-10 km,0,0,Medium
+P0082,58,Cardiology,70,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0083,78,Respiratory,48,2,Monday,Evening,10-20 km,0,1,High
+P0084,42,Dermatology,46,0,Wednesday,Evening,20+ km,2,1,High
+P0085,37,Dermatology,47,0,Friday,Morning,0-5 km,0,1,Low
+P0086,42,Gastroenterology,72,0,Thursday,Morning,10-20 km,2,1,High
+P0087,68,Respiratory,71,0,Tuesday,Evening,10-20 km,0,1,Low
+P0088,57,Neurology,12,0,Thursday,Evening,20+ km,0,1,Low
+P0089,42,Cardiology,8,1,Wednesday,Morning,5-10 km,0,1,Medium
+P0090,61,Respiratory,76,2,Tuesday,Evening,5-10 km,0,1,High
+P0091,53,General Medicine,64,2,Wednesday,Afternoon,10-20 km,0,1,High
+P0092,69,Respiratory,17,1,Wednesday,Morning,0-5 km,0,1,Medium
+P0093,39,Cardiology,21,0,Thursday,Afternoon,20+ km,0,0,Medium
+P0094,46,Gastroenterology,56,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0095,44,Dermatology,13,0,Friday,Afternoon,10-20 km,1,0,Medium
+P0096,25,Gastroenterology,79,0,Friday,Evening,20+ km,1,1,Medium
+P0097,57,General Medicine,34,2,Monday,Evening,5-10 km,0,1,High
+P0098,56,Dermatology,79,2,Tuesday,Evening,0-5 km,0,1,High
+P0099,52,Gastroenterology,32,0,Tuesday,Afternoon,10-20 km,1,1,Medium
+P0100,47,Neurology,51,1,Wednesday,Morning,5-10 km,0,1,Medium
+P0101,26,General Medicine,7,1,Tuesday,Morning,5-10 km,0,1,Medium
+P0102,44,Cardiology,8,2,Friday,Morning,0-5 km,0,1,High
+P0103,45,General Medicine,73,0,Wednesday,Afternoon,10-20 km,2,1,High
+P0104,37,General Medicine,44,1,Tuesday,Evening,5-10 km,1,1,Medium
+P0105,49,Gastroenterology,43,0,Wednesday,Evening,0-5 km,0,0,Low
+P0106,59,Cardiology,29,2,Tuesday,Afternoon,20+ km,0,1,High
+P0107,85,Neurology,15,0,Friday,Evening,5-10 km,0,1,Low
+P0108,55,Gastroenterology,60,1,Monday,Afternoon,10-20 km,0,0,High
+P0109,56,Dermatology,24,1,Wednesday,Afternoon,20+ km,0,1,Medium
+P0110,50,Respiratory,39,0,Friday,Afternoon,20+ km,1,0,High
+P0111,17,Cardiology,77,0,Tuesday,Evening,0-5 km,0,1,Low
+P0112,51,Respiratory,19,3,Thursday,Afternoon,5-10 km,0,1,High
+P0113,53,General Medicine,49,0,Tuesday,Morning,20+ km,0,1,Medium
+P0114,95,General Medicine,25,0,Friday,Evening,20+ km,0,0,Medium
+P0115,48,Neurology,90,0,Thursday,Morning,5-10 km,0,1,Low
+P0116,57,Gastroenterology,53,0,Tuesday,Morning,5-10 km,0,1,Low
+P0117,51,Neurology,63,2,Thursday,Morning,20+ km,0,1,High
+P0118,30,Neurology,81,0,Monday,Morning,5-10 km,0,1,Low
+P0119,72,Dermatology,90,1,Monday,Morning,5-10 km,0,0,High
+P0120,65,Gastroenterology,49,0,Monday,Evening,20+ km,0,0,Medium
+P0121,66,General Medicine,10,1,Friday,Evening,10-20 km,0,0,Medium
+P0122,35,Cardiology,50,1,Thursday,Evening,10-20 km,0,1,Medium
+P0123,77,Cardiology,42,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0124,26,Gastroenterology,41,0,Monday,Afternoon,0-5 km,0,1,Low
+P0125,62,Cardiology,50,0,Thursday,Morning,20+ km,0,1,Medium
+P0126,91,Dermatology,10,0,Thursday,Evening,5-10 km,0,1,Low
+P0127,34,Respiratory,89,0,Tuesday,Afternoon,10-20 km,2,1,High
+P0128,41,Dermatology,71,0,Tuesday,Afternoon,20+ km,1,1,Medium
+P0129,53,Neurology,77,0,Friday,Evening,20+ km,1,1,Medium
+P0130,42,Dermatology,43,2,Monday,Morning,20+ km,0,0,High
+P0131,24,Gastroenterology,38,0,Monday,Evening,0-5 km,0,1,Low
+P0132,53,Neurology,83,0,Tuesday,Evening,5-10 km,0,0,Medium
+P0133,32,Gastroenterology,1,1,Wednesday,Evening,5-10 km,1,0,High
+P0134,60,Neurology,51,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0135,35,Neurology,18,0,Tuesday,Afternoon,20+ km,0,1,Low
+P0136,79,General Medicine,25,1,Thursday,Evening,20+ km,0,1,Medium
+P0137,37,Gastroenterology,64,0,Friday,Morning,0-5 km,0,1,Low
+P0138,46,Dermatology,12,0,Tuesday,Morning,0-5 km,1,1,Low
+P0139,66,General Medicine,22,0,Wednesday,Evening,10-20 km,0,1,Low
+P0140,29,Neurology,32,1,Thursday,Morning,20+ km,0,1,High
+P0141,56,Respiratory,12,1,Wednesday,Morning,20+ km,1,1,High
+P0142,75,General Medicine,59,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0143,23,General Medicine,90,1,Monday,Evening,20+ km,0,0,High
+P0144,55,Cardiology,50,0,Monday,Afternoon,0-5 km,0,1,Low
+P0145,56,Neurology,79,1,Monday,Morning,5-10 km,0,0,High
+P0146,66,Gastroenterology,78,0,Wednesday,Evening,20+ km,0,1,Medium
+P0147,29,Gastroenterology,73,0,Thursday,Morning,5-10 km,0,0,Medium
+P0148,28,Respiratory,11,0,Tuesday,Evening,5-10 km,0,1,Low
+P0149,61,Neurology,40,1,Monday,Morning,5-10 km,0,1,Medium
+P0150,57,Gastroenterology,4,0,Wednesday,Evening,20+ km,0,1,Low
+P0151,56,Dermatology,66,0,Tuesday,Morning,0-5 km,0,1,Low
+P0152,58,Cardiology,7,0,Thursday,Morning,0-5 km,1,1,Low
+P0153,39,Respiratory,26,1,Tuesday,Morning,5-10 km,1,0,High
+P0154,56,Respiratory,8,3,Wednesday,Morning,5-10 km,0,0,High
+P0155,57,Gastroenterology,34,1,Wednesday,Afternoon,20+ km,0,0,High
+P0156,39,Cardiology,34,1,Tuesday,Evening,0-5 km,0,1,Medium
+P0157,85,Cardiology,58,0,Monday,Afternoon,5-10 km,0,1,Low
+P0158,60,Cardiology,9,0,Tuesday,Morning,20+ km,1,1,Medium
+P0159,30,Cardiology,36,0,Monday,Evening,5-10 km,0,0,Low
+P0160,63,Gastroenterology,46,0,Wednesday,Evening,20+ km,0,1,Medium
+P0161,34,Cardiology,31,0,Tuesday,Evening,0-5 km,1,1,Low
+P0162,66,General Medicine,73,2,Friday,Afternoon,20+ km,0,0,High
+P0163,72,Respiratory,19,0,Monday,Evening,5-10 km,1,1,Low
+P0164,37,Neurology,72,1,Tuesday,Evening,10-20 km,0,0,High
+P0165,69,Neurology,41,2,Friday,Morning,5-10 km,1,0,High
+P0166,59,Cardiology,27,0,Wednesday,Afternoon,0-5 km,1,1,Low
+P0167,66,Gastroenterology,10,1,Wednesday,Morning,0-5 km,0,1,Medium
+P0168,86,Respiratory,22,0,Tuesday,Morning,20+ km,0,0,Medium
+P0169,47,Gastroenterology,1,0,Friday,Afternoon,10-20 km,0,0,Low
+P0170,38,Dermatology,49,0,Monday,Afternoon,20+ km,0,1,Medium
+P0171,35,Dermatology,67,0,Friday,Morning,20+ km,0,0,High
+P0172,37,Cardiology,11,3,Tuesday,Evening,20+ km,0,1,High
+P0173,50,General Medicine,54,0,Tuesday,Evening,5-10 km,0,1,Low
+P0174,58,General Medicine,23,0,Friday,Evening,5-10 km,0,1,Low
+P0175,56,General Medicine,63,1,Tuesday,Morning,0-5 km,0,1,Medium
+P0176,66,Respiratory,21,0,Tuesday,Evening,20+ km,1,0,High
+P0177,52,General Medicine,16,1,Wednesday,Afternoon,5-10 km,0,0,Medium
+P0178,78,Dermatology,28,1,Tuesday,Afternoon,5-10 km,0,1,Medium
+P0179,47,Cardiology,59,0,Wednesday,Evening,20+ km,0,1,Medium
+P0180,95,Cardiology,84,0,Friday,Morning,5-10 km,1,1,Medium
+P0181,63,Gastroenterology,74,1,Tuesday,Evening,10-20 km,0,1,Medium
+P0182,36,Respiratory,24,2,Monday,Morning,10-20 km,0,1,High
+P0183,32,Gastroenterology,25,0,Friday,Afternoon,20+ km,0,1,Low
+P0184,60,Cardiology,81,3,Monday,Morning,10-20 km,0,0,High
+P0185,47,Dermatology,48,2,Friday,Morning,10-20 km,0,0,High
+P0186,64,Respiratory,67,0,Thursday,Evening,10-20 km,2,1,High
+P0187,60,Respiratory,84,1,Wednesday,Evening,20+ km,0,1,High
+P0188,50,Dermatology,81,0,Monday,Evening,20+ km,0,1,Medium
+P0189,36,Cardiology,53,0,Friday,Afternoon,0-5 km,1,1,Medium
+P0190,24,Respiratory,13,2,Thursday,Afternoon,5-10 km,0,0,High
+P0191,43,General Medicine,57,2,Monday,Afternoon,10-20 km,1,0,High
+P0192,67,Gastroenterology,76,0,Tuesday,Evening,20+ km,0,1,Medium
+P0193,55,General Medicine,29,3,Friday,Evening,10-20 km,0,1,High
+P0194,29,Dermatology,21,0,Thursday,Morning,20+ km,0,1,Medium
+P0195,55,Respiratory,64,0,Thursday,Evening,0-5 km,0,0,Medium
+P0196,58,Cardiology,43,0,Wednesday,Evening,20+ km,0,0,Medium
+P0197,36,Respiratory,26,0,Tuesday,Afternoon,20+ km,1,0,High
+P0198,54,Cardiology,7,0,Friday,Afternoon,20+ km,1,1,Medium
+P0199,53,Neurology,32,0,Wednesday,Afternoon,10-20 km,1,0,Medium
+P0200,31,Neurology,17,3,Friday,Evening,5-10 km,0,1,High
+P0201,58,Neurology,49,0,Tuesday,Afternoon,0-5 km,1,0,Medium
+P0202,62,Neurology,72,1,Tuesday,Evening,20+ km,1,1,High
+P0203,71,Neurology,57,1,Friday,Evening,10-20 km,0,0,High
+P0204,70,General Medicine,34,0,Monday,Afternoon,10-20 km,0,1,Low
+P0205,27,Cardiology,41,0,Friday,Morning,5-10 km,1,0,Medium
+P0206,35,Gastroenterology,72,1,Monday,Evening,0-5 km,0,0,High
+P0207,61,Dermatology,48,0,Thursday,Morning,20+ km,0,1,Medium
+P0208,61,Gastroenterology,90,2,Monday,Evening,20+ km,0,0,High
+P0209,61,Respiratory,52,0,Thursday,Evening,0-5 km,0,0,Medium
+P0210,95,Dermatology,57,0,Thursday,Morning,0-5 km,0,0,Medium
+P0211,62,Neurology,19,0,Friday,Evening,0-5 km,0,1,Low
+P0212,72,Respiratory,86,1,Friday,Afternoon,0-5 km,0,0,High
+P0213,69,Cardiology,41,0,Friday,Evening,10-20 km,0,1,Low
+P0214,63,Dermatology,43,2,Thursday,Afternoon,20+ km,1,1,High
+P0215,46,Cardiology,75,0,Monday,Evening,5-10 km,0,1,Low
+P0216,65,Gastroenterology,65,0,Friday,Evening,5-10 km,0,1,Low
+P0217,38,Cardiology,6,1,Thursday,Afternoon,10-20 km,1,1,Medium
+P0218,47,General Medicine,84,2,Friday,Afternoon,0-5 km,0,1,High
+P0219,43,Gastroenterology,24,0,Tuesday,Afternoon,0-5 km,1,1,Low
+P0220,53,Dermatology,74,0,Wednesday,Morning,5-10 km,0,1,Low
+P0221,93,Dermatology,24,0,Tuesday,Evening,10-20 km,0,1,Low
+P0222,18,Dermatology,61,2,Friday,Evening,0-5 km,1,0,High
+P0223,64,Cardiology,90,0,Tuesday,Afternoon,20+ km,0,0,Medium
+P0224,22,Respiratory,41,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0225,43,Gastroenterology,40,0,Tuesday,Evening,20+ km,0,0,Medium
+P0226,71,General Medicine,1,1,Thursday,Evening,5-10 km,0,0,Medium
+P0227,53,Respiratory,26,1,Tuesday,Morning,10-20 km,1,1,High
+P0228,32,Respiratory,52,0,Monday,Morning,0-5 km,0,1,Low
+P0229,39,General Medicine,72,0,Wednesday,Morning,10-20 km,1,1,Medium
+P0230,64,Neurology,62,0,Thursday,Evening,0-5 km,1,0,Medium
+P0231,38,Respiratory,23,0,Tuesday,Evening,10-20 km,0,1,Low
+P0232,55,General Medicine,14,0,Thursday,Evening,0-5 km,0,1,Low
+P0233,52,General Medicine,74,0,Thursday,Evening,20+ km,0,1,Medium
+P0234,40,Neurology,24,0,Wednesday,Afternoon,5-10 km,2,1,Medium
+P0235,90,Gastroenterology,31,0,Tuesday,Morning,20+ km,1,1,Medium
+P0236,63,Neurology,73,0,Tuesday,Morning,0-5 km,0,1,Low
+P0237,15,Cardiology,74,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0238,55,Gastroenterology,74,0,Monday,Morning,0-5 km,0,1,Low
+P0239,40,Respiratory,3,0,Wednesday,Evening,5-10 km,0,0,Low
+P0240,67,Gastroenterology,84,2,Wednesday,Morning,20+ km,0,1,High
+P0241,37,Cardiology,18,2,Friday,Evening,5-10 km,0,1,Medium
+P0242,49,Gastroenterology,2,0,Wednesday,Afternoon,5-10 km,0,0,Low
+P0243,61,General Medicine,21,1,Thursday,Morning,20+ km,0,1,High
+P0244,67,Gastroenterology,82,0,Wednesday,Evening,20+ km,0,0,Medium
+P0245,30,Cardiology,54,0,Wednesday,Afternoon,20+ km,0,0,Medium
+P0246,45,General Medicine,32,0,Tuesday,Evening,20+ km,2,0,High
+P0247,43,Neurology,62,0,Wednesday,Morning,5-10 km,1,0,High
+P0248,40,Respiratory,20,0,Tuesday,Morning,0-5 km,0,1,Low
+P0249,83,General Medicine,57,1,Thursday,Afternoon,0-5 km,0,1,Medium
+P0250,59,Gastroenterology,68,0,Wednesday,Evening,10-20 km,0,0,Medium
+P0251,29,Gastroenterology,64,1,Friday,Afternoon,5-10 km,0,1,Medium
+P0252,68,Cardiology,90,0,Wednesday,Morning,0-5 km,0,0,Medium
+P0253,90,Dermatology,6,1,Monday,Morning,10-20 km,2,0,High
+P0254,70,Respiratory,90,1,Tuesday,Morning,0-5 km,0,1,Medium
+P0255,24,Cardiology,70,0,Wednesday,Afternoon,10-20 km,0,1,Medium
+P0256,43,Cardiology,89,1,Monday,Morning,5-10 km,0,0,High
+P0257,74,Respiratory,89,1,Friday,Evening,0-5 km,0,1,Medium
+P0258,39,Gastroenterology,81,0,Friday,Morning,10-20 km,0,1,Medium
+P0259,59,Gastroenterology,51,0,Monday,Afternoon,10-20 km,0,0,Medium
+P0260,65,Respiratory,68,0,Wednesday,Afternoon,0-5 km,0,1,Low
+P0261,35,Cardiology,57,0,Monday,Morning,20+ km,0,1,Medium
+P0262,50,General Medicine,61,0,Friday,Morning,5-10 km,0,1,Low
+P0263,1,Dermatology,60,1,Monday,Afternoon,0-5 km,0,1,Medium
+P0264,33,Respiratory,77,0,Tuesday,Evening,5-10 km,2,1,Medium
+P0265,47,Cardiology,65,0,Wednesday,Afternoon,0-5 km,1,1,Medium
+P0266,29,General Medicine,74,0,Friday,Afternoon,10-20 km,0,0,Medium
+P0267,81,Cardiology,41,0,Tuesday,Afternoon,0-5 km,1,0,Medium
+P0268,26,Neurology,4,1,Friday,Evening,10-20 km,0,1,Medium
+P0269,44,Neurology,25,0,Monday,Afternoon,20+ km,2,0,High
+P0270,54,General Medicine,6,0,Wednesday,Afternoon,20+ km,0,1,Low
+P0271,77,Gastroenterology,67,1,Tuesday,Afternoon,0-5 km,0,1,Medium
+P0272,26,Gastroenterology,75,2,Thursday,Afternoon,5-10 km,0,0,High
+P0273,72,Dermatology,58,0,Friday,Evening,0-5 km,0,1,Low
+P0274,52,Dermatology,23,1,Thursday,Afternoon,0-5 km,0,1,Medium
+P0275,34,Respiratory,78,2,Tuesday,Evening,5-10 km,0,1,High
+P0276,60,Cardiology,5,1,Wednesday,Morning,10-20 km,0,1,Medium
+P0277,55,Cardiology,42,0,Monday,Afternoon,20+ km,1,0,High
+P0278,41,Cardiology,89,0,Thursday,Evening,10-20 km,1,1,Medium
+P0279,53,General Medicine,4,0,Tuesday,Evening,0-5 km,2,1,Medium
+P0280,45,Respiratory,43,0,Tuesday,Morning,0-5 km,0,1,Low
+P0281,54,Gastroenterology,39,0,Friday,Evening,10-20 km,0,1,Low
+P0282,63,Neurology,77,0,Wednesday,Evening,10-20 km,0,1,Low
+P0283,80,General Medicine,62,2,Tuesday,Afternoon,5-10 km,1,1,High
+P0284,29,Respiratory,67,0,Monday,Evening,10-20 km,1,1,Medium
+P0285,90,Gastroenterology,37,0,Thursday,Evening,10-20 km,0,0,Medium
+P0286,16,Cardiology,40,0,Friday,Afternoon,10-20 km,0,0,Medium
+P0287,49,Cardiology,43,1,Thursday,Evening,0-5 km,0,1,Medium
+P0288,62,Gastroenterology,86,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0289,57,Gastroenterology,69,0,Tuesday,Evening,20+ km,0,0,Medium
+P0290,40,Gastroenterology,74,1,Friday,Evening,0-5 km,0,1,Medium
+P0291,48,Cardiology,75,2,Tuesday,Evening,0-5 km,0,1,High
+P0292,43,Dermatology,79,3,Tuesday,Afternoon,20+ km,0,1,High
+P0293,41,Cardiology,56,0,Thursday,Morning,5-10 km,0,1,Low
+P0294,67,General Medicine,83,1,Friday,Afternoon,20+ km,0,1,High
+P0295,58,Dermatology,70,0,Monday,Evening,0-5 km,0,1,Low
+P0296,39,Gastroenterology,40,0,Friday,Morning,10-20 km,0,1,Low
+P0297,68,Dermatology,81,0,Friday,Morning,5-10 km,0,1,Low
+P0298,57,Dermatology,15,0,Thursday,Afternoon,5-10 km,1,1,Low
+P0299,66,Respiratory,53,1,Thursday,Evening,5-10 km,0,0,High
+P0300,63,General Medicine,50,0,Friday,Afternoon,5-10 km,0,1,Low
+P0301,37,Gastroenterology,35,0,Monday,Afternoon,10-20 km,0,1,Low
+P0302,41,Neurology,13,0,Wednesday,Morning,20+ km,0,1,Low
+P0303,65,Cardiology,17,0,Monday,Evening,5-10 km,0,1,Low
+P0304,62,General Medicine,43,3,Wednesday,Morning,10-20 km,0,1,High
+P0305,51,Dermatology,10,0,Thursday,Morning,10-20 km,1,0,Medium
+P0306,54,Cardiology,9,0,Thursday,Evening,0-5 km,1,1,Low
+P0307,74,Gastroenterology,38,0,Friday,Morning,5-10 km,2,1,Medium
+P0308,41,Neurology,9,1,Thursday,Evening,10-20 km,2,1,High
+P0309,61,Cardiology,30,2,Tuesday,Afternoon,0-5 km,0,1,High
+P0310,48,Cardiology,14,0,Monday,Morning,5-10 km,0,1,Low
+P0311,48,Dermatology,36,0,Tuesday,Evening,20+ km,0,0,Medium
+P0312,71,General Medicine,12,1,Thursday,Evening,10-20 km,1,1,Medium
+P0313,66,Cardiology,12,0,Wednesday,Afternoon,10-20 km,0,0,Low
+P0314,66,General Medicine,61,0,Monday,Morning,5-10 km,0,1,Low
+P0315,75,Respiratory,31,1,Thursday,Morning,10-20 km,0,1,Medium
+P0316,52,Neurology,56,0,Tuesday,Afternoon,20+ km,0,1,Medium
+P0317,64,Dermatology,29,2,Friday,Morning,5-10 km,0,1,High
+P0318,46,Cardiology,29,2,Friday,Morning,5-10 km,0,0,High
+P0319,57,Neurology,53,2,Wednesday,Afternoon,5-10 km,0,1,High
+P0320,49,Gastroenterology,48,0,Monday,Afternoon,0-5 km,1,1,Medium
+P0321,53,Respiratory,47,0,Wednesday,Afternoon,0-5 km,0,1,Low
+P0322,62,Dermatology,35,0,Wednesday,Morning,20+ km,0,1,Medium
+P0323,37,Gastroenterology,59,0,Tuesday,Afternoon,20+ km,2,0,High
+P0324,89,Respiratory,54,0,Wednesday,Morning,0-5 km,0,1,Low
+P0325,33,General Medicine,39,0,Tuesday,Afternoon,10-20 km,0,1,Low
+P0326,30,Neurology,89,2,Tuesday,Morning,5-10 km,0,1,High
+P0327,72,Cardiology,69,0,Thursday,Afternoon,0-5 km,1,1,Medium
+P0328,66,Cardiology,57,0,Thursday,Morning,0-5 km,0,1,Low
+P0329,63,Cardiology,69,1,Friday,Afternoon,0-5 km,0,1,Medium
+P0330,63,Gastroenterology,58,2,Tuesday,Evening,0-5 km,1,1,High
+P0331,51,Neurology,68,3,Friday,Afternoon,0-5 km,0,1,High
+P0332,35,Gastroenterology,72,1,Monday,Morning,5-10 km,0,1,Medium
+P0333,53,General Medicine,47,0,Wednesday,Evening,20+ km,0,1,Medium
+P0334,39,Respiratory,54,0,Monday,Afternoon,10-20 km,0,1,Low
+P0335,69,Gastroenterology,89,0,Tuesday,Morning,10-20 km,0,1,Medium
+P0336,49,Gastroenterology,90,1,Thursday,Afternoon,0-5 km,1,0,High
+P0337,37,General Medicine,16,0,Tuesday,Afternoon,5-10 km,0,0,Low
+P0338,46,Gastroenterology,16,2,Monday,Afternoon,0-5 km,0,1,Medium
+P0339,59,General Medicine,65,1,Friday,Evening,5-10 km,0,1,Medium
+P0340,41,Gastroenterology,76,0,Tuesday,Afternoon,0-5 km,2,1,Medium
+P0341,37,Respiratory,64,0,Thursday,Evening,10-20 km,0,1,Low
+P0342,56,Respiratory,51,0,Monday,Morning,0-5 km,0,1,Low
+P0343,56,Neurology,75,0,Wednesday,Afternoon,20+ km,0,1,Medium
+P0344,42,Gastroenterology,64,1,Thursday,Evening,5-10 km,0,0,High
+P0345,43,Dermatology,5,3,Thursday,Afternoon,0-5 km,0,1,High
+P0346,56,Cardiology,85,0,Thursday,Evening,20+ km,1,1,Medium
+P0347,25,Respiratory,75,0,Thursday,Morning,10-20 km,0,1,Medium
+P0348,26,Respiratory,42,0,Friday,Evening,20+ km,1,1,Medium
+P0349,39,Gastroenterology,86,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0350,48,General Medicine,44,0,Thursday,Morning,20+ km,0,0,Medium
+P0351,57,Gastroenterology,81,1,Friday,Afternoon,5-10 km,0,1,Medium
+P0352,78,General Medicine,60,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0353,67,Dermatology,40,0,Thursday,Evening,20+ km,1,0,High
+P0354,49,Cardiology,11,0,Monday,Afternoon,10-20 km,1,1,Low
+P0355,51,Gastroenterology,12,0,Wednesday,Afternoon,0-5 km,1,1,Low
+P0356,33,Neurology,15,0,Thursday,Evening,20+ km,0,1,Low
+P0357,51,Respiratory,50,0,Monday,Evening,10-20 km,1,1,Medium
+P0358,46,Cardiology,83,0,Wednesday,Morning,0-5 km,1,1,Medium
+P0359,57,Neurology,4,1,Thursday,Evening,5-10 km,0,1,Low
+P0360,37,Respiratory,41,0,Wednesday,Morning,5-10 km,0,1,Low
+P0361,61,Cardiology,12,3,Wednesday,Evening,5-10 km,1,0,High
+P0362,79,Gastroenterology,27,0,Wednesday,Evening,10-20 km,0,0,Medium
+P0363,50,Dermatology,88,0,Monday,Afternoon,0-5 km,0,1,Low
+P0364,59,Gastroenterology,46,3,Monday,Afternoon,0-5 km,0,1,High
+P0365,64,Dermatology,68,0,Monday,Afternoon,10-20 km,0,0,Medium
+P0366,44,Neurology,85,0,Monday,Morning,20+ km,0,0,High
+P0367,56,Gastroenterology,15,1,Monday,Afternoon,5-10 km,0,1,Low
+P0368,52,General Medicine,87,0,Monday,Afternoon,10-20 km,0,1,Low
+P0369,53,Respiratory,43,2,Wednesday,Evening,20+ km,2,1,High
+P0370,38,Cardiology,27,0,Wednesday,Evening,20+ km,1,1,Medium
+P0371,52,Respiratory,55,0,Wednesday,Evening,20+ km,0,1,Medium
+P0372,60,Cardiology,56,0,Wednesday,Morning,20+ km,2,1,High
+P0373,78,General Medicine,46,0,Friday,Morning,0-5 km,0,1,Low
+P0374,69,Neurology,24,0,Friday,Afternoon,0-5 km,1,0,Medium
+P0375,90,Cardiology,79,0,Wednesday,Morning,20+ km,0,0,High
+P0376,38,Neurology,60,0,Monday,Morning,20+ km,0,0,High
+P0377,67,Gastroenterology,56,3,Friday,Evening,20+ km,0,1,High
+P0378,55,Gastroenterology,15,0,Thursday,Evening,10-20 km,0,0,Low
+P0379,91,Cardiology,50,2,Thursday,Morning,10-20 km,0,1,High
+P0380,37,Cardiology,3,0,Wednesday,Evening,10-20 km,0,1,Low
+P0381,36,Cardiology,72,0,Friday,Evening,5-10 km,0,1,Low
+P0382,41,Neurology,47,0,Thursday,Evening,10-20 km,0,1,Low
+P0383,13,Dermatology,22,0,Thursday,Afternoon,10-20 km,0,0,Medium
+P0384,42,Gastroenterology,2,1,Monday,Afternoon,0-5 km,0,1,Low
+P0385,38,Gastroenterology,88,1,Wednesday,Afternoon,10-20 km,0,1,Medium
+P0386,54,Dermatology,39,0,Thursday,Evening,10-20 km,0,1,Low
+P0387,58,General Medicine,39,1,Monday,Afternoon,0-5 km,0,1,Medium
+P0388,85,Cardiology,81,1,Wednesday,Afternoon,5-10 km,0,1,Medium
+P0389,69,Dermatology,55,1,Monday,Morning,0-5 km,0,0,High
+P0390,41,Gastroenterology,63,1,Tuesday,Morning,20+ km,0,1,High
+P0391,35,Cardiology,15,0,Monday,Evening,10-20 km,0,1,Low
+P0392,60,Respiratory,71,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0393,28,Neurology,86,0,Tuesday,Afternoon,20+ km,0,0,Medium
+P0394,84,General Medicine,80,0,Friday,Evening,0-5 km,0,1,Low
+P0395,73,Cardiology,76,0,Wednesday,Afternoon,0-5 km,0,0,Medium
+P0396,43,Respiratory,87,0,Tuesday,Morning,10-20 km,0,1,Medium
+P0397,21,Respiratory,65,0,Wednesday,Morning,0-5 km,0,1,Medium
+P0398,76,Gastroenterology,58,0,Tuesday,Afternoon,5-10 km,0,0,Medium
+P0399,49,Gastroenterology,62,0,Thursday,Afternoon,10-20 km,1,0,High
+P0400,74,Respiratory,27,0,Wednesday,Evening,10-20 km,0,1,Low
+P0401,23,Respiratory,2,1,Friday,Evening,20+ km,0,1,Medium
+P0402,41,Cardiology,90,3,Thursday,Afternoon,0-5 km,1,1,High
+P0403,52,Neurology,64,2,Monday,Morning,5-10 km,2,1,High
+P0404,52,General Medicine,9,0,Friday,Evening,5-10 km,1,0,Medium
+P0405,43,Cardiology,53,0,Thursday,Afternoon,20+ km,0,0,Medium
+P0406,63,Respiratory,55,2,Tuesday,Morning,5-10 km,0,0,High
+P0407,32,Cardiology,10,1,Monday,Evening,20+ km,0,0,High
+P0408,49,General Medicine,38,1,Monday,Evening,20+ km,1,0,High
+P0409,54,Neurology,76,0,Monday,Evening,0-5 km,0,1,Low
+P0410,61,General Medicine,75,0,Wednesday,Evening,10-20 km,1,1,Medium
+P0411,64,Gastroenterology,26,3,Monday,Afternoon,5-10 km,0,1,High
+P0412,31,General Medicine,1,0,Thursday,Evening,5-10 km,0,1,Low
+P0413,24,Neurology,81,0,Monday,Morning,10-20 km,0,1,Medium
+P0414,74,General Medicine,15,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0415,57,Cardiology,48,0,Tuesday,Morning,20+ km,1,1,High
+P0416,38,Respiratory,61,1,Tuesday,Evening,0-5 km,0,1,Medium
+P0417,79,Respiratory,75,0,Tuesday,Morning,5-10 km,0,0,Medium
+P0418,54,Respiratory,66,0,Thursday,Afternoon,20+ km,0,1,Medium
+P0419,73,Respiratory,36,2,Monday,Morning,0-5 km,0,1,High
+P0420,53,Cardiology,2,1,Wednesday,Afternoon,10-20 km,1,1,Medium
+P0421,89,Cardiology,60,0,Wednesday,Morning,0-5 km,0,1,Low
+P0422,83,Respiratory,55,1,Friday,Afternoon,20+ km,0,0,High
+P0423,47,General Medicine,9,0,Thursday,Morning,5-10 km,0,1,Low
+P0424,69,General Medicine,50,0,Wednesday,Evening,5-10 km,0,1,Low
+P0425,63,Gastroenterology,27,0,Tuesday,Evening,20+ km,0,1,Low
+P0426,76,Gastroenterology,63,0,Monday,Afternoon,0-5 km,0,1,Low
+P0427,34,Neurology,85,0,Thursday,Evening,0-5 km,1,0,Medium
+P0428,64,Respiratory,10,1,Thursday,Afternoon,10-20 km,0,0,Medium
+P0429,71,Gastroenterology,60,0,Monday,Evening,0-5 km,0,1,Low
+P0430,20,Cardiology,46,0,Friday,Morning,0-5 km,0,0,Medium
+P0431,30,Neurology,31,0,Thursday,Morning,0-5 km,2,1,Medium
+P0432,15,Dermatology,81,0,Friday,Afternoon,5-10 km,1,0,High
+P0433,47,Cardiology,9,2,Wednesday,Evening,20+ km,0,1,High
+P0434,64,Gastroenterology,89,0,Monday,Afternoon,20+ km,0,1,Medium
+P0435,79,Gastroenterology,18,0,Tuesday,Morning,10-20 km,0,1,Low
+P0436,53,General Medicine,30,1,Wednesday,Morning,10-20 km,0,0,High
+P0437,81,General Medicine,19,2,Monday,Morning,5-10 km,0,1,High
+P0438,27,Respiratory,82,0,Monday,Afternoon,20+ km,0,0,Medium
+P0439,21,Gastroenterology,71,1,Thursday,Afternoon,10-20 km,0,1,High
+P0440,51,Dermatology,54,2,Thursday,Afternoon,10-20 km,0,1,High
+P0441,58,Gastroenterology,82,1,Thursday,Afternoon,0-5 km,0,0,High
+P0442,51,General Medicine,12,0,Thursday,Evening,20+ km,0,1,Low
+P0443,14,General Medicine,74,1,Tuesday,Afternoon,10-20 km,0,1,High
+P0444,50,Neurology,48,0,Tuesday,Afternoon,5-10 km,0,1,Low
+P0445,28,Dermatology,80,0,Monday,Afternoon,5-10 km,0,0,Medium
+P0446,64,Respiratory,67,1,Friday,Evening,20+ km,2,1,High
+P0447,58,Gastroenterology,8,3,Monday,Morning,10-20 km,0,1,High
+P0448,35,General Medicine,25,0,Monday,Evening,10-20 km,0,0,Medium
+P0449,42,Respiratory,38,0,Friday,Evening,5-10 km,1,1,Low
+P0450,32,Cardiology,85,1,Thursday,Evening,0-5 km,0,1,Medium
+P0451,50,General Medicine,43,2,Wednesday,Afternoon,0-5 km,1,1,High
+P0452,69,Gastroenterology,15,0,Wednesday,Afternoon,5-10 km,0,0,Low
+P0453,34,Dermatology,14,0,Wednesday,Morning,20+ km,1,1,Medium
+P0454,61,Gastroenterology,16,0,Tuesday,Afternoon,20+ km,0,1,Low
+P0455,42,General Medicine,39,3,Monday,Evening,5-10 km,0,1,High
+P0456,37,General Medicine,75,1,Wednesday,Afternoon,0-5 km,0,1,Medium
+P0457,50,Neurology,19,0,Tuesday,Morning,20+ km,0,1,Low
+P0458,33,General Medicine,63,0,Thursday,Evening,5-10 km,2,1,Medium
+P0459,42,Neurology,74,3,Wednesday,Evening,20+ km,0,1,High
+P0460,30,Gastroenterology,69,1,Monday,Evening,20+ km,1,1,High
+P0461,87,Cardiology,84,0,Monday,Morning,10-20 km,2,1,High
+P0462,52,General Medicine,63,1,Friday,Evening,10-20 km,0,1,Medium
+P0463,39,Neurology,80,0,Wednesday,Afternoon,10-20 km,0,0,Medium
+P0464,55,Cardiology,83,1,Thursday,Morning,5-10 km,0,1,Medium
+P0465,49,Cardiology,19,1,Wednesday,Morning,5-10 km,0,1,Medium
+P0466,48,Respiratory,37,0,Monday,Morning,0-5 km,0,1,Low
+P0467,63,Respiratory,35,0,Tuesday,Evening,10-20 km,0,1,Low
+P0468,65,Gastroenterology,53,1,Monday,Morning,0-5 km,0,1,Medium
+P0469,42,Dermatology,66,1,Thursday,Morning,0-5 km,0,1,Medium
+P0470,41,Cardiology,58,2,Tuesday,Morning,5-10 km,0,0,High
+P0471,47,General Medicine,38,0,Friday,Afternoon,0-5 km,0,1,Low
+P0472,10,Gastroenterology,13,0,Monday,Evening,5-10 km,0,0,Low
+P0473,24,General Medicine,85,1,Tuesday,Afternoon,5-10 km,0,0,High
+P0474,76,Cardiology,63,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0475,81,Cardiology,56,0,Thursday,Morning,10-20 km,1,0,High
+P0476,47,Neurology,14,1,Tuesday,Evening,5-10 km,0,0,Medium
+P0477,62,Cardiology,82,3,Wednesday,Afternoon,5-10 km,0,1,High
+P0478,57,Cardiology,42,0,Wednesday,Evening,20+ km,0,0,Medium
+P0479,95,Respiratory,48,0,Tuesday,Evening,10-20 km,0,1,Low
+P0480,72,Dermatology,26,0,Monday,Morning,5-10 km,0,1,Low
+P0481,49,General Medicine,65,1,Friday,Afternoon,5-10 km,0,0,High
+P0482,34,General Medicine,50,0,Thursday,Evening,20+ km,0,0,Medium
+P0483,23,Dermatology,29,0,Wednesday,Morning,5-10 km,0,1,Low
+P0484,55,General Medicine,42,0,Tuesday,Afternoon,10-20 km,1,1,Medium
+P0485,38,Dermatology,89,0,Friday,Evening,10-20 km,0,1,Low
+P0486,26,Respiratory,23,0,Tuesday,Evening,20+ km,0,1,Low
+P0487,40,Neurology,2,0,Thursday,Morning,20+ km,0,0,Medium
+P0488,32,General Medicine,44,1,Tuesday,Morning,0-5 km,0,1,Medium
+P0489,82,Neurology,14,0,Tuesday,Morning,20+ km,1,0,High
+P0490,67,Gastroenterology,29,0,Wednesday,Morning,10-20 km,0,0,Medium
+P0491,51,General Medicine,45,2,Thursday,Evening,10-20 km,0,1,High
+P0492,78,Neurology,36,0,Tuesday,Morning,10-20 km,1,1,Medium
+P0493,53,Gastroenterology,69,1,Monday,Evening,20+ km,0,1,High
+P0494,36,Neurology,45,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0495,79,Respiratory,85,0,Friday,Morning,20+ km,0,1,Medium
+P0496,61,Respiratory,44,0,Wednesday,Morning,0-5 km,0,1,Low
+P0497,33,Dermatology,30,0,Wednesday,Morning,5-10 km,0,1,Low
+P0498,48,Neurology,83,0,Tuesday,Morning,20+ km,1,1,High
+P0499,36,Respiratory,40,0,Monday,Morning,5-10 km,0,1,Low
+P0500,27,Cardiology,51,1,Monday,Afternoon,5-10 km,0,1,Medium
+P0501,68,Gastroenterology,30,2,Tuesday,Evening,5-10 km,0,1,High
+P0502,86,Gastroenterology,79,0,Friday,Evening,5-10 km,2,0,High
+P0503,26,Cardiology,23,1,Wednesday,Afternoon,20+ km,2,1,High
+P0504,62,Dermatology,66,1,Wednesday,Morning,10-20 km,0,1,High
+P0505,40,General Medicine,10,0,Monday,Afternoon,20+ km,0,1,Low
+P0506,43,Cardiology,63,0,Monday,Afternoon,20+ km,0,1,Medium
+P0507,41,Cardiology,28,1,Wednesday,Afternoon,20+ km,0,0,High
+P0508,36,Respiratory,39,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0509,52,General Medicine,86,3,Monday,Morning,10-20 km,1,1,High
+P0510,37,General Medicine,28,1,Thursday,Evening,5-10 km,0,0,Medium
+P0511,56,Respiratory,16,1,Thursday,Afternoon,20+ km,0,1,Medium
+P0512,51,Gastroenterology,90,0,Monday,Morning,0-5 km,0,0,Medium
+P0513,47,Cardiology,71,0,Thursday,Morning,5-10 km,0,1,Low
+P0514,35,Gastroenterology,54,0,Tuesday,Afternoon,0-5 km,1,1,Medium
+P0515,41,Dermatology,82,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0516,65,Neurology,27,0,Thursday,Morning,0-5 km,0,1,Low
+P0517,61,Dermatology,29,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0518,34,Dermatology,47,2,Thursday,Morning,5-10 km,0,0,High
+P0519,53,Gastroenterology,81,0,Monday,Afternoon,0-5 km,2,1,Medium
+P0520,65,Dermatology,47,0,Monday,Afternoon,5-10 km,0,0,Medium
+P0521,21,General Medicine,52,2,Tuesday,Morning,10-20 km,0,1,High
+P0522,61,General Medicine,41,0,Thursday,Morning,20+ km,0,1,Medium
+P0523,40,Neurology,24,1,Tuesday,Afternoon,20+ km,0,0,High
+P0524,62,Respiratory,37,0,Monday,Evening,5-10 km,0,1,Low
+P0525,38,Cardiology,58,0,Friday,Afternoon,10-20 km,0,0,Medium
+P0526,19,Dermatology,13,1,Wednesday,Afternoon,20+ km,0,1,Medium
+P0527,22,Dermatology,14,0,Monday,Morning,0-5 km,0,1,Low
+P0528,52,Neurology,6,0,Monday,Afternoon,10-20 km,0,1,Low
+P0529,56,Respiratory,67,0,Thursday,Afternoon,20+ km,0,1,Medium
+P0530,35,Cardiology,8,0,Thursday,Afternoon,5-10 km,0,0,Low
+P0531,63,Neurology,50,3,Thursday,Morning,5-10 km,0,1,High
+P0532,22,Respiratory,58,0,Friday,Morning,0-5 km,0,0,Medium
+P0533,50,Gastroenterology,77,0,Friday,Afternoon,20+ km,0,0,Medium
+P0534,30,General Medicine,13,0,Thursday,Morning,10-20 km,0,0,Medium
+P0535,40,Respiratory,9,0,Thursday,Morning,10-20 km,2,1,Medium
+P0536,52,Respiratory,32,0,Monday,Evening,0-5 km,0,1,Low
+P0537,36,Gastroenterology,63,0,Monday,Afternoon,20+ km,0,1,Medium
+P0538,45,Neurology,4,0,Wednesday,Morning,20+ km,0,0,Medium
+P0539,70,Dermatology,75,0,Friday,Morning,10-20 km,0,1,Medium
+P0540,41,Respiratory,38,0,Tuesday,Afternoon,0-5 km,1,0,Medium
+P0541,67,Respiratory,35,0,Thursday,Evening,5-10 km,1,1,Low
+P0542,31,Gastroenterology,42,1,Tuesday,Afternoon,5-10 km,0,1,Medium
+P0543,61,Respiratory,88,1,Wednesday,Afternoon,20+ km,0,1,High
+P0544,77,Cardiology,73,2,Thursday,Morning,0-5 km,0,0,High
+P0545,7,Gastroenterology,8,0,Tuesday,Evening,0-5 km,0,1,Low
+P0546,37,Cardiology,78,2,Tuesday,Morning,0-5 km,0,0,High
+P0547,62,Gastroenterology,85,0,Tuesday,Evening,20+ km,0,0,Medium
+P0548,48,Dermatology,90,1,Thursday,Afternoon,20+ km,0,1,High
+P0549,58,Dermatology,59,0,Wednesday,Evening,5-10 km,1,1,Medium
+P0550,41,General Medicine,85,0,Monday,Evening,20+ km,0,1,Medium
+P0551,53,Dermatology,21,0,Thursday,Evening,0-5 km,0,1,Low
+P0552,49,Neurology,10,0,Friday,Evening,10-20 km,1,1,Low
+P0553,73,Cardiology,25,0,Monday,Morning,0-5 km,0,0,Medium
+P0554,56,Respiratory,61,0,Friday,Evening,10-20 km,1,1,Medium
+P0555,58,Gastroenterology,38,2,Thursday,Evening,10-20 km,0,1,High
+P0556,44,General Medicine,34,1,Wednesday,Afternoon,0-5 km,0,1,Medium
+P0557,43,Cardiology,54,0,Friday,Afternoon,0-5 km,1,1,Medium
+P0558,44,Cardiology,26,0,Monday,Evening,20+ km,0,1,Low
+P0559,59,Neurology,31,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0560,44,Dermatology,51,0,Monday,Morning,0-5 km,0,1,Low
+P0561,57,Neurology,65,0,Thursday,Evening,10-20 km,2,1,High
+P0562,89,Respiratory,90,0,Monday,Morning,20+ km,0,0,High
+P0563,67,Dermatology,49,0,Friday,Morning,20+ km,0,0,High
+P0564,46,General Medicine,87,0,Thursday,Evening,20+ km,0,1,Medium
+P0565,73,Cardiology,51,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0566,44,Cardiology,72,0,Friday,Morning,0-5 km,0,1,Low
+P0567,15,General Medicine,5,0,Friday,Afternoon,20+ km,0,1,Low
+P0568,33,General Medicine,15,0,Tuesday,Afternoon,5-10 km,0,1,Low
+P0569,18,Gastroenterology,38,0,Wednesday,Morning,5-10 km,0,0,Medium
+P0570,45,Cardiology,29,0,Friday,Evening,20+ km,0,1,Low
+P0571,52,Dermatology,15,1,Thursday,Afternoon,20+ km,0,1,Medium
+P0572,82,General Medicine,53,1,Friday,Afternoon,5-10 km,1,1,High
+P0573,57,Cardiology,71,1,Monday,Morning,20+ km,1,1,High
+P0574,48,Neurology,14,3,Monday,Evening,0-5 km,1,1,High
+P0575,66,Dermatology,1,0,Thursday,Afternoon,10-20 km,0,0,Low
+P0576,12,Dermatology,41,1,Monday,Evening,5-10 km,1,1,High
+P0577,56,Gastroenterology,34,3,Tuesday,Evening,0-5 km,0,0,High
+P0578,65,General Medicine,74,0,Friday,Morning,20+ km,1,1,High
+P0579,25,Neurology,29,1,Tuesday,Evening,10-20 km,0,1,Medium
+P0580,72,Gastroenterology,76,0,Tuesday,Afternoon,5-10 km,0,1,Low
+P0581,58,Neurology,79,0,Monday,Afternoon,5-10 km,0,1,Low
+P0582,44,Dermatology,62,0,Monday,Afternoon,5-10 km,0,1,Low
+P0583,63,Dermatology,88,0,Wednesday,Evening,10-20 km,0,1,Low
+P0584,92,Cardiology,6,0,Tuesday,Evening,20+ km,1,1,Medium
+P0585,55,Cardiology,71,0,Friday,Morning,0-5 km,0,0,Medium
+P0586,56,General Medicine,68,0,Thursday,Morning,20+ km,0,1,Medium
+P0587,43,Dermatology,65,1,Monday,Morning,20+ km,0,1,High
+P0588,36,Cardiology,13,0,Thursday,Afternoon,20+ km,0,0,Medium
+P0589,66,Dermatology,4,0,Thursday,Afternoon,5-10 km,0,0,Low
+P0590,36,Respiratory,73,1,Thursday,Afternoon,0-5 km,0,1,Medium
+P0591,53,Cardiology,31,0,Friday,Evening,20+ km,1,1,Medium
+P0592,43,General Medicine,64,0,Tuesday,Evening,20+ km,1,1,Medium
+P0593,60,Respiratory,48,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0594,58,Neurology,26,1,Wednesday,Morning,20+ km,0,1,High
+P0595,70,Cardiology,52,2,Monday,Evening,5-10 km,0,1,High
+P0596,42,Cardiology,1,1,Monday,Evening,5-10 km,0,0,Medium
+P0597,47,Respiratory,50,1,Wednesday,Evening,10-20 km,0,0,High
+P0598,34,General Medicine,47,1,Thursday,Morning,10-20 km,0,1,High
+P0599,44,Gastroenterology,2,0,Wednesday,Evening,0-5 km,0,0,Low
+P0600,58,Neurology,83,1,Monday,Afternoon,0-5 km,0,1,Medium
+P0601,65,Neurology,36,3,Friday,Evening,5-10 km,0,1,High
+P0602,35,General Medicine,65,0,Monday,Morning,10-20 km,0,1,Medium
+P0603,67,Neurology,12,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0604,76,Neurology,49,1,Wednesday,Morning,5-10 km,0,1,Medium
+P0605,59,Respiratory,88,1,Friday,Afternoon,0-5 km,0,1,Medium
+P0606,85,Gastroenterology,60,0,Friday,Evening,0-5 km,0,1,Low
+P0607,38,Dermatology,13,0,Wednesday,Morning,10-20 km,0,0,Medium
+P0608,29,Gastroenterology,30,1,Thursday,Afternoon,0-5 km,1,1,Medium
+P0609,19,Dermatology,43,1,Monday,Afternoon,0-5 km,1,0,High
+P0610,78,Gastroenterology,32,0,Monday,Afternoon,10-20 km,0,0,Medium
+P0611,63,Neurology,37,1,Friday,Afternoon,20+ km,0,1,Medium
+P0612,50,Neurology,18,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0613,57,Cardiology,14,0,Wednesday,Evening,0-5 km,0,1,Low
+P0614,31,Neurology,39,0,Friday,Afternoon,0-5 km,0,1,Low
+P0615,95,Respiratory,76,0,Thursday,Morning,20+ km,0,0,High
+P0616,54,Gastroenterology,46,0,Wednesday,Afternoon,20+ km,0,1,Medium
+P0617,53,Neurology,89,0,Monday,Morning,20+ km,0,0,High
+P0618,65,General Medicine,33,1,Thursday,Morning,0-5 km,1,1,High
+P0619,60,Dermatology,6,0,Wednesday,Afternoon,5-10 km,0,0,Low
+P0620,56,Dermatology,37,1,Friday,Afternoon,20+ km,0,1,Medium
+P0621,37,Gastroenterology,33,0,Thursday,Evening,0-5 km,2,0,High
+P0622,60,General Medicine,3,1,Friday,Evening,10-20 km,0,0,Medium
+P0623,85,Cardiology,28,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0624,76,General Medicine,1,0,Thursday,Evening,10-20 km,0,1,Low
+P0625,80,Dermatology,53,2,Friday,Morning,10-20 km,0,1,High
+P0626,42,Cardiology,26,0,Monday,Morning,10-20 km,0,1,Low
+P0627,34,Neurology,9,0,Thursday,Evening,0-5 km,2,1,Medium
+P0628,49,Neurology,6,0,Thursday,Morning,20+ km,0,1,Low
+P0629,53,Neurology,89,0,Tuesday,Afternoon,20+ km,0,1,Medium
+P0630,71,Neurology,38,0,Friday,Evening,5-10 km,0,1,Low
+P0631,21,Respiratory,2,0,Thursday,Evening,20+ km,1,1,Medium
+P0632,79,Cardiology,9,0,Tuesday,Morning,10-20 km,0,1,Low
+P0633,49,Neurology,47,1,Monday,Afternoon,20+ km,0,1,High
+P0634,44,General Medicine,59,0,Friday,Afternoon,10-20 km,0,0,Medium
+P0635,33,General Medicine,82,0,Monday,Afternoon,20+ km,0,0,Medium
+P0636,22,Dermatology,79,1,Wednesday,Afternoon,0-5 km,0,1,Medium
+P0637,66,Respiratory,24,0,Friday,Afternoon,10-20 km,0,0,Medium
+P0638,53,Dermatology,40,0,Monday,Evening,20+ km,0,1,Low
+P0639,28,Dermatology,54,1,Tuesday,Afternoon,10-20 km,0,1,Medium
+P0640,28,Respiratory,53,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0641,45,Dermatology,36,0,Tuesday,Afternoon,5-10 km,0,1,Low
+P0642,82,Gastroenterology,44,0,Thursday,Afternoon,10-20 km,0,0,Medium
+P0643,47,Cardiology,38,1,Monday,Evening,5-10 km,0,1,Medium
+P0644,24,General Medicine,3,0,Thursday,Afternoon,20+ km,1,1,Medium
+P0645,47,Cardiology,82,0,Friday,Morning,0-5 km,2,1,High
+P0646,47,Cardiology,20,1,Tuesday,Evening,0-5 km,0,1,Low
+P0647,3,Neurology,75,1,Friday,Afternoon,10-20 km,0,0,High
+P0648,51,General Medicine,9,0,Tuesday,Evening,10-20 km,0,1,Low
+P0649,47,General Medicine,27,0,Thursday,Afternoon,20+ km,0,1,Low
+P0650,64,Neurology,41,0,Monday,Evening,5-10 km,0,1,Low
+P0651,85,General Medicine,84,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0652,72,Dermatology,27,1,Wednesday,Evening,10-20 km,0,0,High
+P0653,47,Cardiology,34,0,Monday,Afternoon,0-5 km,0,1,Low
+P0654,32,General Medicine,61,0,Friday,Afternoon,20+ km,0,1,Medium
+P0655,95,Cardiology,29,0,Tuesday,Evening,5-10 km,0,0,Low
+P0656,53,Respiratory,35,1,Wednesday,Afternoon,5-10 km,0,0,Medium
+P0657,52,General Medicine,2,0,Wednesday,Morning,20+ km,0,1,Low
+P0658,51,Gastroenterology,63,1,Monday,Evening,20+ km,1,1,High
+P0659,55,Cardiology,56,0,Friday,Morning,0-5 km,0,1,Low
+P0660,49,Cardiology,47,0,Wednesday,Morning,5-10 km,0,0,Medium
+P0661,41,General Medicine,67,3,Thursday,Afternoon,20+ km,0,1,High
+P0662,42,Cardiology,32,0,Thursday,Afternoon,5-10 km,0,0,Low
+P0663,51,Cardiology,16,0,Friday,Afternoon,0-5 km,0,1,Low
+P0664,42,Dermatology,33,0,Thursday,Evening,20+ km,0,1,Low
+P0665,39,Neurology,82,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0666,53,General Medicine,63,0,Friday,Evening,20+ km,1,1,Medium
+P0667,47,Dermatology,6,0,Thursday,Evening,20+ km,1,0,Medium
+P0668,79,Neurology,33,0,Wednesday,Morning,10-20 km,0,1,Low
+P0669,4,Gastroenterology,43,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0670,71,Gastroenterology,42,0,Friday,Afternoon,5-10 km,1,1,Low
+P0671,74,Respiratory,44,0,Tuesday,Afternoon,20+ km,0,1,Low
+P0672,14,Dermatology,29,0,Tuesday,Morning,5-10 km,0,1,Low
+P0673,45,Gastroenterology,47,1,Thursday,Afternoon,10-20 km,0,1,Medium
+P0674,45,Respiratory,14,1,Wednesday,Evening,5-10 km,0,1,Low
+P0675,26,Gastroenterology,8,2,Tuesday,Morning,20+ km,0,0,High
+P0676,37,Respiratory,90,1,Tuesday,Evening,10-20 km,1,1,High
+P0677,32,Cardiology,53,1,Tuesday,Evening,5-10 km,1,1,High
+P0678,83,Cardiology,44,0,Wednesday,Morning,10-20 km,0,1,Low
+P0679,68,Cardiology,78,0,Wednesday,Morning,0-5 km,0,1,Low
+P0680,74,Cardiology,69,0,Monday,Evening,10-20 km,1,1,Medium
+P0681,64,Cardiology,14,0,Friday,Evening,5-10 km,0,0,Low
+P0682,31,Dermatology,31,2,Tuesday,Afternoon,20+ km,0,0,High
+P0683,42,Neurology,83,0,Tuesday,Afternoon,10-20 km,1,1,Medium
+P0684,60,Gastroenterology,6,0,Wednesday,Evening,0-5 km,0,1,Low
+P0685,30,Dermatology,23,0,Tuesday,Morning,0-5 km,0,0,Medium
+P0686,64,Neurology,31,1,Tuesday,Afternoon,10-20 km,1,1,High
+P0687,47,Cardiology,84,1,Thursday,Evening,10-20 km,0,1,Medium
+P0688,45,Respiratory,15,0,Monday,Morning,20+ km,0,0,Medium
+P0689,64,Respiratory,64,0,Thursday,Afternoon,0-5 km,0,0,Medium
+P0690,59,Cardiology,41,0,Tuesday,Afternoon,0-5 km,1,1,Low
+P0691,45,Respiratory,57,0,Monday,Morning,20+ km,0,1,Medium
+P0692,72,Cardiology,14,1,Thursday,Morning,0-5 km,0,1,Medium
+P0693,32,Cardiology,50,0,Thursday,Evening,5-10 km,0,1,Low
+P0694,63,Gastroenterology,48,1,Wednesday,Morning,20+ km,0,1,High
+P0695,62,General Medicine,42,1,Friday,Morning,5-10 km,0,1,Medium
+P0696,46,Cardiology,84,0,Monday,Morning,20+ km,0,1,Medium
+P0697,57,Dermatology,74,1,Tuesday,Afternoon,5-10 km,0,0,High
+P0698,29,Cardiology,46,0,Tuesday,Afternoon,5-10 km,1,1,Medium
+P0699,68,Dermatology,80,0,Wednesday,Evening,20+ km,1,0,High
+P0700,48,Dermatology,47,2,Thursday,Morning,5-10 km,2,1,High
+P0701,42,Respiratory,86,0,Wednesday,Evening,10-20 km,1,1,Medium
+P0702,70,Dermatology,22,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0703,39,Respiratory,61,0,Wednesday,Evening,0-5 km,0,1,Low
+P0704,26,General Medicine,11,1,Friday,Morning,10-20 km,0,0,High
+P0705,23,Respiratory,80,0,Wednesday,Evening,20+ km,0,0,High
+P0706,62,Cardiology,68,0,Thursday,Evening,5-10 km,0,1,Low
+P0707,28,Dermatology,90,1,Tuesday,Afternoon,5-10 km,1,0,High
+P0708,83,Dermatology,88,0,Monday,Morning,5-10 km,0,1,Low
+P0709,14,Cardiology,47,1,Friday,Afternoon,0-5 km,0,1,Medium
+P0710,82,Neurology,60,0,Thursday,Afternoon,20+ km,0,0,Medium
+P0711,55,Gastroenterology,24,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0712,50,Gastroenterology,8,0,Monday,Afternoon,0-5 km,0,1,Low
+P0713,42,Respiratory,17,0,Wednesday,Evening,10-20 km,1,1,Low
+P0714,59,Cardiology,74,1,Tuesday,Afternoon,5-10 km,1,1,High
+P0715,51,Neurology,68,0,Monday,Afternoon,10-20 km,0,0,Medium
+P0716,71,Neurology,63,3,Tuesday,Evening,5-10 km,0,1,High
+P0717,54,Neurology,4,0,Monday,Afternoon,20+ km,0,1,Low
+P0718,54,Gastroenterology,17,0,Monday,Morning,0-5 km,1,1,Low
+P0719,45,Cardiology,73,0,Tuesday,Afternoon,0-5 km,0,0,Medium
+P0720,50,Cardiology,8,0,Tuesday,Evening,20+ km,1,1,Medium
+P0721,57,Cardiology,29,1,Tuesday,Evening,5-10 km,0,1,Medium
+P0722,21,Dermatology,75,0,Monday,Evening,10-20 km,1,1,Medium
+P0723,27,Gastroenterology,33,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0724,65,Gastroenterology,39,1,Friday,Afternoon,5-10 km,0,0,Medium
+P0725,55,Respiratory,51,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0726,48,General Medicine,49,1,Monday,Morning,5-10 km,0,1,Medium
+P0727,52,Neurology,82,1,Thursday,Morning,0-5 km,0,0,High
+P0728,58,Gastroenterology,64,0,Thursday,Morning,20+ km,2,1,High
+P0729,42,Dermatology,84,0,Friday,Evening,20+ km,0,0,Medium
+P0730,37,Cardiology,82,0,Friday,Afternoon,5-10 km,0,1,Low
+P0731,55,Cardiology,70,1,Monday,Afternoon,5-10 km,0,1,Medium
+P0732,34,Cardiology,15,3,Friday,Morning,0-5 km,0,1,High
+P0733,59,Dermatology,67,1,Tuesday,Evening,20+ km,0,1,High
+P0734,21,Respiratory,52,0,Friday,Evening,5-10 km,0,1,Low
+P0735,70,Cardiology,2,1,Wednesday,Afternoon,10-20 km,0,1,Medium
+P0736,60,Dermatology,13,0,Thursday,Morning,10-20 km,0,1,Low
+P0737,56,Gastroenterology,5,0,Tuesday,Evening,20+ km,0,0,Medium
+P0738,69,Dermatology,16,1,Tuesday,Afternoon,20+ km,0,0,High
+P0739,81,Dermatology,24,0,Tuesday,Evening,20+ km,0,1,Low
+P0740,70,Cardiology,14,0,Wednesday,Afternoon,0-5 km,0,1,Low
+P0741,18,Cardiology,26,0,Friday,Afternoon,10-20 km,0,1,Low
+P0742,28,Cardiology,15,0,Friday,Evening,10-20 km,0,1,Low
+P0743,40,Respiratory,70,1,Tuesday,Evening,0-5 km,0,1,Medium
+P0744,52,Gastroenterology,6,2,Monday,Morning,20+ km,0,1,High
+P0745,61,Gastroenterology,37,0,Thursday,Evening,0-5 km,0,0,Low
+P0746,38,Neurology,40,1,Friday,Afternoon,20+ km,0,1,Medium
+P0747,55,Dermatology,35,2,Wednesday,Afternoon,5-10 km,1,1,High
+P0748,38,General Medicine,89,0,Friday,Evening,10-20 km,0,1,Low
+P0749,40,Gastroenterology,62,1,Friday,Afternoon,20+ km,0,1,High
+P0750,26,Cardiology,66,0,Wednesday,Morning,5-10 km,2,1,High
+P0751,35,Dermatology,69,0,Thursday,Morning,0-5 km,0,1,Low
+P0752,27,Cardiology,31,0,Tuesday,Morning,10-20 km,1,1,Medium
+P0753,34,Dermatology,29,0,Tuesday,Morning,5-10 km,0,0,Medium
+P0754,70,Respiratory,49,0,Tuesday,Evening,10-20 km,0,1,Low
+P0755,34,Respiratory,52,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0756,95,Respiratory,58,2,Thursday,Afternoon,0-5 km,0,1,High
+P0757,60,Gastroenterology,12,1,Monday,Evening,5-10 km,0,0,Medium
+P0758,55,Gastroenterology,30,2,Friday,Evening,0-5 km,1,1,High
+P0759,36,Cardiology,23,0,Friday,Afternoon,20+ km,0,0,Medium
+P0760,64,Respiratory,20,1,Friday,Afternoon,5-10 km,0,1,Low
+P0761,41,Gastroenterology,87,1,Friday,Afternoon,20+ km,2,1,High
+P0762,54,Neurology,48,1,Friday,Afternoon,0-5 km,0,1,Medium
+P0763,95,Respiratory,19,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0764,50,Respiratory,60,2,Monday,Evening,20+ km,0,1,High
+P0765,72,Gastroenterology,66,0,Monday,Afternoon,10-20 km,0,1,Low
+P0766,39,Respiratory,71,1,Tuesday,Afternoon,0-5 km,0,1,Medium
+P0767,51,Neurology,18,0,Thursday,Morning,5-10 km,0,1,Low
+P0768,83,Cardiology,59,1,Friday,Evening,10-20 km,2,1,High
+P0769,40,Dermatology,3,0,Wednesday,Evening,10-20 km,0,1,Low
+P0770,84,Cardiology,90,0,Thursday,Evening,10-20 km,0,1,Low
+P0771,64,Cardiology,61,3,Wednesday,Morning,10-20 km,0,1,High
+P0772,41,General Medicine,11,0,Monday,Morning,0-5 km,0,1,Low
+P0773,63,General Medicine,22,2,Monday,Morning,10-20 km,2,0,High
+P0774,69,Dermatology,9,0,Tuesday,Evening,10-20 km,1,1,Low
+P0775,63,Dermatology,52,0,Wednesday,Evening,5-10 km,0,0,Medium
+P0776,23,Neurology,89,0,Thursday,Afternoon,5-10 km,0,1,Low
+P0777,38,General Medicine,5,1,Thursday,Morning,10-20 km,1,1,High
+P0778,47,Neurology,22,2,Monday,Afternoon,20+ km,1,1,High
+P0779,50,General Medicine,79,0,Monday,Afternoon,0-5 km,1,1,Medium
+P0780,63,Respiratory,6,0,Friday,Afternoon,10-20 km,0,1,Low
+P0781,55,Dermatology,39,2,Tuesday,Evening,0-5 km,1,1,High
+P0782,27,Cardiology,70,2,Friday,Evening,0-5 km,1,1,High
+P0783,58,Neurology,23,0,Monday,Evening,5-10 km,0,1,Low
+P0784,62,General Medicine,21,0,Wednesday,Evening,10-20 km,0,1,Low
+P0785,62,General Medicine,69,0,Thursday,Evening,0-5 km,0,1,Low
+P0786,71,Neurology,44,0,Thursday,Evening,5-10 km,0,1,Low
+P0787,67,Neurology,64,0,Thursday,Afternoon,20+ km,0,0,Medium
+P0788,60,Cardiology,11,0,Friday,Evening,0-5 km,0,0,Low
+P0789,50,Gastroenterology,14,0,Tuesday,Evening,10-20 km,0,1,Low
+P0790,22,Respiratory,68,0,Wednesday,Morning,0-5 km,0,1,Medium
+P0791,59,Respiratory,11,1,Friday,Evening,10-20 km,0,1,Medium
+P0792,55,Respiratory,47,0,Wednesday,Morning,0-5 km,0,1,Low
+P0793,56,Cardiology,88,0,Monday,Evening,20+ km,0,1,Medium
+P0794,29,Neurology,76,0,Wednesday,Morning,10-20 km,0,1,Medium
+P0795,32,Gastroenterology,86,0,Tuesday,Morning,0-5 km,0,1,Low
+P0796,70,Gastroenterology,19,1,Wednesday,Afternoon,0-5 km,2,1,High
+P0797,51,Neurology,56,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0798,64,Neurology,59,0,Thursday,Morning,5-10 km,0,1,Low
+P0799,52,General Medicine,19,0,Friday,Afternoon,10-20 km,0,1,Low
+P0800,52,Gastroenterology,74,1,Thursday,Evening,5-10 km,0,1,Medium
+P0801,68,Neurology,81,0,Monday,Afternoon,10-20 km,0,0,Medium
+P0802,42,Respiratory,30,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0803,53,Cardiology,36,0,Tuesday,Morning,20+ km,0,0,Medium
+P0804,43,Cardiology,90,1,Tuesday,Afternoon,20+ km,1,0,High
+P0805,44,Dermatology,36,0,Tuesday,Evening,5-10 km,0,0,Low
+P0806,46,Cardiology,39,1,Tuesday,Evening,20+ km,0,1,Medium
+P0807,55,Respiratory,14,0,Wednesday,Evening,5-10 km,0,1,Low
+P0808,43,Gastroenterology,57,0,Friday,Morning,10-20 km,1,1,Medium
+P0809,74,Cardiology,69,2,Friday,Afternoon,0-5 km,0,1,High
+P0810,35,Neurology,31,0,Wednesday,Evening,0-5 km,0,1,Low
+P0811,48,Dermatology,10,0,Wednesday,Afternoon,0-5 km,0,1,Low
+P0812,44,Cardiology,25,0,Thursday,Evening,0-5 km,0,0,Low
+P0813,78,Neurology,70,1,Wednesday,Afternoon,20+ km,0,1,High
+P0814,55,Cardiology,32,0,Monday,Afternoon,10-20 km,0,1,Low
+P0815,70,Gastroenterology,74,0,Friday,Evening,0-5 km,0,1,Low
+P0816,25,Respiratory,8,0,Monday,Afternoon,0-5 km,0,1,Low
+P0817,56,General Medicine,25,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0818,68,Neurology,17,0,Tuesday,Morning,20+ km,0,1,Low
+P0819,53,Gastroenterology,30,1,Wednesday,Evening,10-20 km,0,1,Medium
+P0820,71,Cardiology,3,1,Wednesday,Morning,0-5 km,0,1,Medium
+P0821,42,General Medicine,28,0,Tuesday,Evening,10-20 km,0,1,Low
+P0822,77,Cardiology,26,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0823,93,General Medicine,42,3,Thursday,Evening,0-5 km,1,1,High
+P0824,45,General Medicine,77,0,Tuesday,Evening,0-5 km,0,1,Low
+P0825,43,Gastroenterology,45,0,Monday,Afternoon,0-5 km,0,1,Low
+P0826,78,Dermatology,21,2,Monday,Morning,5-10 km,0,1,High
+P0827,80,Cardiology,44,0,Thursday,Afternoon,20+ km,2,1,High
+P0828,42,Neurology,47,0,Monday,Afternoon,0-5 km,0,1,Low
+P0829,44,General Medicine,14,0,Thursday,Evening,20+ km,0,0,Medium
+P0830,46,General Medicine,62,1,Thursday,Morning,5-10 km,0,1,Medium
+P0831,27,Neurology,38,0,Monday,Evening,5-10 km,2,1,Medium
+P0832,35,Neurology,87,1,Monday,Evening,20+ km,0,1,High
+P0833,33,Dermatology,25,2,Monday,Morning,5-10 km,1,1,High
+P0834,38,Respiratory,82,0,Monday,Evening,20+ km,0,1,Medium
+P0835,51,Dermatology,37,1,Thursday,Evening,10-20 km,0,0,High
+P0836,56,Dermatology,49,0,Tuesday,Morning,0-5 km,0,1,Low
+P0837,79,Dermatology,20,0,Friday,Afternoon,10-20 km,0,0,Low
+P0838,34,General Medicine,15,1,Friday,Morning,20+ km,0,1,Medium
+P0839,69,Respiratory,53,1,Friday,Afternoon,5-10 km,0,1,Medium
+P0840,48,Neurology,52,1,Tuesday,Evening,20+ km,0,0,High
+P0841,51,Neurology,68,1,Monday,Morning,10-20 km,0,1,High
+P0842,64,General Medicine,22,1,Friday,Morning,0-5 km,0,0,High
+P0843,31,Respiratory,70,0,Friday,Morning,10-20 km,0,0,Medium
+P0844,58,Respiratory,88,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0845,54,Neurology,14,0,Friday,Afternoon,10-20 km,0,1,Low
+P0846,60,General Medicine,88,3,Monday,Afternoon,20+ km,0,1,High
+P0847,57,Cardiology,67,1,Monday,Afternoon,5-10 km,1,1,High
+P0848,95,Cardiology,70,3,Wednesday,Afternoon,0-5 km,0,1,High
+P0849,40,Dermatology,80,0,Friday,Morning,10-20 km,2,0,High
+P0850,42,General Medicine,39,2,Friday,Evening,10-20 km,0,0,High
+P0851,40,Respiratory,52,0,Tuesday,Evening,20+ km,1,1,Medium
+P0852,42,General Medicine,20,1,Friday,Afternoon,20+ km,0,0,High
+P0853,40,Respiratory,35,2,Thursday,Afternoon,10-20 km,0,1,High
+P0854,73,Dermatology,68,0,Tuesday,Morning,20+ km,0,1,Medium
+P0855,77,Cardiology,74,2,Thursday,Morning,10-20 km,0,1,High
+P0856,41,Cardiology,29,0,Monday,Morning,10-20 km,1,1,Medium
+P0857,37,Dermatology,63,1,Wednesday,Morning,10-20 km,0,1,High
+P0858,60,Cardiology,35,1,Wednesday,Morning,0-5 km,0,0,High
+P0859,42,Gastroenterology,68,0,Thursday,Afternoon,20+ km,0,1,Medium
+P0860,63,General Medicine,16,1,Friday,Morning,20+ km,0,1,Medium
+P0861,55,Cardiology,42,1,Thursday,Evening,20+ km,0,1,Medium
+P0862,24,Cardiology,41,1,Tuesday,Evening,10-20 km,0,1,Medium
+P0863,79,General Medicine,30,0,Tuesday,Evening,5-10 km,1,1,Low
+P0864,84,Neurology,37,1,Thursday,Evening,20+ km,0,1,Medium
+P0865,40,Gastroenterology,66,3,Wednesday,Afternoon,5-10 km,0,1,High
+P0866,45,Respiratory,8,0,Monday,Evening,0-5 km,0,1,Low
+P0867,57,Respiratory,62,0,Wednesday,Evening,10-20 km,0,1,Low
+P0868,58,Cardiology,14,0,Thursday,Morning,5-10 km,0,0,Low
+P0869,63,Neurology,74,2,Thursday,Morning,5-10 km,2,1,High
+P0870,88,Dermatology,70,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P0871,48,Neurology,15,0,Friday,Evening,20+ km,0,0,Medium
+P0872,37,Gastroenterology,42,0,Tuesday,Morning,5-10 km,0,1,Low
+P0873,27,Cardiology,73,0,Wednesday,Evening,5-10 km,0,0,Medium
+P0874,38,Gastroenterology,9,0,Tuesday,Evening,5-10 km,0,1,Low
+P0875,51,Cardiology,36,1,Monday,Evening,5-10 km,1,1,Medium
+P0876,84,Gastroenterology,16,1,Thursday,Afternoon,20+ km,1,0,High
+P0877,42,Dermatology,44,1,Tuesday,Morning,20+ km,1,1,High
+P0878,56,Cardiology,37,0,Wednesday,Morning,0-5 km,1,1,Medium
+P0879,51,Gastroenterology,9,1,Tuesday,Evening,0-5 km,0,1,Low
+P0880,73,Neurology,50,0,Tuesday,Morning,5-10 km,0,0,Medium
+P0881,95,Neurology,77,0,Monday,Afternoon,20+ km,0,1,Medium
+P0882,42,Respiratory,37,0,Monday,Morning,0-5 km,0,1,Low
+P0883,43,General Medicine,23,2,Thursday,Morning,10-20 km,0,1,High
+P0884,70,Gastroenterology,58,0,Thursday,Morning,0-5 km,0,0,Medium
+P0885,64,Gastroenterology,6,0,Tuesday,Morning,0-5 km,0,0,Low
+P0886,85,General Medicine,56,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0887,62,Cardiology,56,2,Tuesday,Morning,20+ km,0,0,High
+P0888,45,General Medicine,9,1,Thursday,Evening,0-5 km,0,1,Low
+P0889,62,Cardiology,32,1,Wednesday,Morning,0-5 km,0,1,Medium
+P0890,71,Cardiology,57,1,Thursday,Evening,20+ km,0,1,High
+P0891,66,General Medicine,27,1,Friday,Evening,10-20 km,1,1,High
+P0892,61,Neurology,70,1,Monday,Afternoon,0-5 km,0,0,High
+P0893,71,Dermatology,77,0,Tuesday,Morning,20+ km,0,1,Medium
+P0894,73,Neurology,18,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0895,76,Dermatology,61,1,Tuesday,Afternoon,5-10 km,0,1,Medium
+P0896,63,Cardiology,20,0,Friday,Evening,20+ km,1,1,Medium
+P0897,48,Cardiology,64,2,Tuesday,Afternoon,5-10 km,0,1,High
+P0898,54,Dermatology,6,2,Wednesday,Evening,20+ km,0,1,High
+P0899,73,Respiratory,46,0,Thursday,Afternoon,5-10 km,0,0,Medium
+P0900,37,General Medicine,68,0,Thursday,Morning,0-5 km,0,0,Medium
+P0901,58,Cardiology,28,0,Monday,Afternoon,20+ km,0,0,Medium
+P0902,44,Respiratory,16,0,Wednesday,Evening,20+ km,0,0,Medium
+P0903,52,Respiratory,34,0,Friday,Evening,0-5 km,2,1,Medium
+P0904,75,Gastroenterology,51,0,Friday,Afternoon,10-20 km,0,1,Low
+P0905,55,Neurology,41,1,Monday,Morning,0-5 km,0,1,Medium
+P0906,52,Cardiology,8,0,Tuesday,Afternoon,20+ km,0,1,Low
+P0907,27,Dermatology,18,0,Tuesday,Morning,10-20 km,0,1,Low
+P0908,65,Neurology,40,0,Thursday,Afternoon,10-20 km,0,1,Low
+P0909,63,Gastroenterology,49,1,Thursday,Afternoon,5-10 km,0,0,High
+P0910,90,Dermatology,24,2,Thursday,Afternoon,20+ km,0,1,High
+P0911,46,Cardiology,33,0,Monday,Morning,20+ km,1,1,Medium
+P0912,55,Cardiology,2,2,Thursday,Morning,10-20 km,2,1,High
+P0913,56,General Medicine,45,1,Friday,Morning,20+ km,0,1,High
+P0914,80,Cardiology,35,0,Wednesday,Afternoon,20+ km,0,1,Low
+P0915,50,Respiratory,79,1,Friday,Evening,20+ km,1,0,High
+P0916,57,General Medicine,88,0,Thursday,Afternoon,0-5 km,0,1,Low
+P0917,62,Neurology,30,0,Wednesday,Evening,5-10 km,1,1,Low
+P0918,55,General Medicine,23,0,Wednesday,Afternoon,10-20 km,0,0,Medium
+P0919,43,Respiratory,16,0,Friday,Evening,20+ km,0,1,Low
+P0920,55,Gastroenterology,41,0,Thursday,Morning,5-10 km,0,1,Low
+P0921,71,Respiratory,27,1,Friday,Afternoon,5-10 km,0,0,Medium
+P0922,33,Neurology,67,1,Friday,Evening,0-5 km,1,0,High
+P0923,54,Cardiology,4,0,Thursday,Morning,20+ km,0,0,Medium
+P0924,39,Cardiology,7,1,Thursday,Evening,10-20 km,0,0,Medium
+P0925,73,Gastroenterology,36,2,Thursday,Morning,20+ km,0,1,High
+P0926,24,Gastroenterology,29,3,Thursday,Evening,0-5 km,0,1,High
+P0927,41,Respiratory,73,0,Tuesday,Afternoon,20+ km,0,1,Medium
+P0928,58,Respiratory,76,0,Thursday,Morning,10-20 km,0,1,Medium
+P0929,80,Neurology,24,0,Monday,Evening,10-20 km,1,1,Medium
+P0930,50,Respiratory,12,1,Thursday,Afternoon,5-10 km,0,0,Medium
+P0931,42,Cardiology,62,0,Thursday,Morning,0-5 km,1,1,Medium
+P0932,85,Neurology,17,0,Tuesday,Afternoon,5-10 km,0,0,Low
+P0933,25,Cardiology,36,1,Tuesday,Evening,20+ km,0,1,Medium
+P0934,12,General Medicine,18,3,Thursday,Evening,0-5 km,1,1,High
+P0935,59,Cardiology,60,2,Monday,Afternoon,0-5 km,0,0,High
+P0936,42,Neurology,2,0,Wednesday,Evening,20+ km,1,1,Medium
+P0937,33,Dermatology,28,1,Wednesday,Morning,20+ km,0,1,High
+P0938,64,Neurology,6,0,Tuesday,Evening,20+ km,0,1,Low
+P0939,56,Respiratory,35,3,Monday,Evening,20+ km,0,0,High
+P0940,41,Respiratory,81,2,Thursday,Morning,10-20 km,0,1,High
+P0941,28,Gastroenterology,2,0,Wednesday,Morning,10-20 km,0,1,Low
+P0942,67,Neurology,88,0,Wednesday,Evening,10-20 km,1,1,Medium
+P0943,63,Neurology,1,2,Tuesday,Afternoon,5-10 km,1,1,High
+P0944,50,Respiratory,84,1,Thursday,Evening,10-20 km,1,1,High
+P0945,85,Respiratory,30,1,Monday,Morning,0-5 km,2,1,High
+P0946,32,Dermatology,79,1,Monday,Morning,10-20 km,0,1,High
+P0947,24,General Medicine,10,0,Thursday,Evening,20+ km,1,0,High
+P0948,39,Gastroenterology,89,1,Tuesday,Evening,5-10 km,1,1,High
+P0949,51,General Medicine,82,0,Monday,Afternoon,0-5 km,0,1,Low
+P0950,56,Cardiology,29,0,Monday,Morning,0-5 km,0,0,Medium
+P0951,47,Dermatology,15,0,Thursday,Morning,20+ km,1,1,Medium
+P0952,58,Respiratory,76,1,Wednesday,Morning,20+ km,0,0,High
+P0953,29,Gastroenterology,17,0,Monday,Morning,20+ km,1,1,Medium
+P0954,77,Neurology,68,1,Monday,Evening,20+ km,0,0,High
+P0955,50,Neurology,89,0,Monday,Afternoon,0-5 km,1,1,Medium
+P0956,72,Dermatology,40,1,Friday,Morning,0-5 km,0,1,Medium
+P0957,58,Cardiology,36,0,Tuesday,Evening,10-20 km,0,1,Low
+P0958,60,Neurology,27,3,Tuesday,Morning,10-20 km,1,0,High
+P0959,62,Gastroenterology,53,0,Monday,Evening,5-10 km,2,0,High
+P0960,60,Neurology,84,0,Thursday,Evening,0-5 km,1,1,Medium
+P0961,63,Cardiology,70,1,Friday,Afternoon,0-5 km,0,0,High
+P0962,75,Neurology,6,0,Tuesday,Morning,20+ km,0,1,Low
+P0963,55,Respiratory,78,1,Friday,Afternoon,5-10 km,0,1,Medium
+P0964,64,Respiratory,86,0,Friday,Evening,10-20 km,0,1,Low
+P0965,50,Dermatology,11,1,Wednesday,Morning,20+ km,0,1,Medium
+P0966,77,General Medicine,26,2,Tuesday,Morning,0-5 km,0,1,High
+P0967,39,Gastroenterology,59,0,Wednesday,Morning,10-20 km,0,0,Medium
+P0968,84,Dermatology,23,0,Monday,Evening,10-20 km,0,0,Medium
+P0969,51,General Medicine,58,0,Monday,Afternoon,5-10 km,1,1,Medium
+P0970,26,Respiratory,32,1,Thursday,Morning,5-10 km,0,1,Medium
+P0971,54,Respiratory,16,0,Tuesday,Morning,10-20 km,1,0,Medium
+P0972,39,Dermatology,65,1,Wednesday,Evening,10-20 km,0,1,Medium
+P0973,67,Cardiology,57,0,Friday,Afternoon,5-10 km,0,1,Low
+P0974,40,Cardiology,9,0,Wednesday,Evening,10-20 km,0,1,Low
+P0975,43,Cardiology,78,0,Tuesday,Afternoon,0-5 km,0,1,Low
+P0976,17,Gastroenterology,4,0,Friday,Evening,5-10 km,0,1,Low
+P0977,43,Respiratory,79,0,Monday,Afternoon,5-10 km,0,1,Low
+P0978,8,General Medicine,7,0,Monday,Evening,20+ km,0,1,Low
+P0979,23,Neurology,72,1,Monday,Afternoon,5-10 km,0,1,Medium
+P0980,65,General Medicine,20,0,Friday,Morning,5-10 km,0,1,Low
+P0981,66,Respiratory,46,0,Tuesday,Evening,20+ km,2,1,High
+P0982,59,Dermatology,31,0,Tuesday,Evening,10-20 km,1,1,Medium
+P0983,34,Dermatology,61,1,Monday,Afternoon,20+ km,0,1,High
+P0984,51,Respiratory,87,0,Wednesday,Morning,20+ km,0,1,Medium
+P0985,51,Neurology,56,3,Monday,Evening,0-5 km,1,1,High
+P0986,31,Neurology,73,0,Monday,Evening,20+ km,2,1,High
+P0987,79,Cardiology,90,0,Friday,Afternoon,20+ km,0,1,Medium
+P0988,67,General Medicine,24,0,Monday,Morning,5-10 km,0,0,Medium
+P0989,48,Neurology,72,0,Wednesday,Evening,10-20 km,0,1,Low
+P0990,52,Respiratory,5,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P0991,55,Dermatology,49,0,Monday,Evening,5-10 km,0,1,Low
+P0992,15,Cardiology,68,0,Friday,Afternoon,10-20 km,0,1,Medium
+P0993,47,Gastroenterology,40,0,Friday,Evening,20+ km,0,1,Low
+P0994,39,General Medicine,29,0,Friday,Afternoon,10-20 km,0,1,Low
+P0995,33,General Medicine,15,1,Thursday,Afternoon,0-5 km,0,1,Low
+P0996,46,Cardiology,73,0,Thursday,Morning,10-20 km,0,1,Medium
+P0997,84,Cardiology,77,0,Friday,Afternoon,10-20 km,0,1,Low
+P0998,63,Dermatology,11,0,Monday,Morning,10-20 km,0,0,Medium
+P0999,41,Cardiology,85,0,Friday,Evening,20+ km,0,1,Medium
+P1000,62,Neurology,49,1,Tuesday,Evening,0-5 km,0,1,Medium
+P1001,77,Gastroenterology,47,2,Tuesday,Evening,5-10 km,0,1,High
+P1002,68,Respiratory,52,0,Tuesday,Morning,0-5 km,1,0,High
+P1003,53,Cardiology,19,1,Wednesday,Morning,10-20 km,1,0,High
+P1004,40,Dermatology,28,0,Monday,Morning,5-10 km,0,1,Low
+P1005,64,Neurology,53,2,Friday,Afternoon,10-20 km,0,1,High
+P1006,59,Dermatology,82,0,Tuesday,Evening,20+ km,0,0,Medium
+P1007,68,General Medicine,33,2,Tuesday,Afternoon,5-10 km,0,0,High
+P1008,63,Neurology,45,3,Friday,Morning,20+ km,0,1,High
+P1009,70,Gastroenterology,80,0,Tuesday,Evening,10-20 km,0,1,Low
+P1010,42,Gastroenterology,38,0,Thursday,Morning,0-5 km,0,1,Low
+P1011,75,Dermatology,3,0,Friday,Evening,20+ km,0,1,Low
+P1012,55,Gastroenterology,58,0,Thursday,Afternoon,5-10 km,0,0,Medium
+P1013,89,Neurology,11,2,Friday,Morning,10-20 km,0,1,High
+P1014,39,Dermatology,76,0,Tuesday,Afternoon,20+ km,0,1,Medium
+P1015,83,Dermatology,4,0,Monday,Morning,10-20 km,0,0,Medium
+P1016,55,Gastroenterology,13,2,Monday,Afternoon,5-10 km,0,1,Medium
+P1017,40,Neurology,72,0,Wednesday,Afternoon,20+ km,1,1,Medium
+P1018,43,Cardiology,52,1,Friday,Afternoon,0-5 km,0,0,High
+P1019,46,Cardiology,28,1,Wednesday,Evening,0-5 km,0,1,Medium
+P1020,59,Neurology,89,0,Friday,Evening,5-10 km,0,1,Low
+P1021,61,Cardiology,25,0,Monday,Morning,5-10 km,0,0,Medium
+P1022,41,Respiratory,58,0,Tuesday,Afternoon,20+ km,1,1,Medium
+P1023,51,Cardiology,15,2,Tuesday,Afternoon,20+ km,0,0,High
+P1024,90,Respiratory,70,1,Wednesday,Morning,5-10 km,0,1,Medium
+P1025,83,Gastroenterology,82,2,Wednesday,Morning,0-5 km,1,1,High
+P1026,59,Dermatology,45,1,Monday,Evening,5-10 km,1,0,High
+P1027,52,Respiratory,65,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P1028,54,Dermatology,53,0,Monday,Afternoon,10-20 km,0,1,Low
+P1029,63,Dermatology,10,2,Friday,Evening,5-10 km,1,0,High
+P1030,33,Respiratory,38,0,Friday,Afternoon,5-10 km,1,1,Low
+P1031,47,Cardiology,23,0,Wednesday,Evening,10-20 km,0,0,Medium
+P1032,21,General Medicine,14,0,Tuesday,Morning,20+ km,0,1,Medium
+P1033,59,General Medicine,3,2,Thursday,Afternoon,10-20 km,0,1,High
+P1034,63,Cardiology,21,0,Monday,Morning,0-5 km,0,0,Medium
+P1035,43,General Medicine,86,0,Friday,Afternoon,20+ km,1,1,Medium
+P1036,80,General Medicine,24,0,Wednesday,Morning,0-5 km,0,1,Low
+P1037,29,Respiratory,56,0,Tuesday,Evening,0-5 km,0,0,Medium
+P1038,25,General Medicine,24,2,Thursday,Morning,0-5 km,1,1,High
+P1039,56,General Medicine,24,0,Tuesday,Evening,10-20 km,1,0,Medium
+P1040,70,Cardiology,7,0,Wednesday,Afternoon,0-5 km,0,1,Low
+P1041,82,Neurology,39,1,Tuesday,Afternoon,20+ km,0,1,Medium
+P1042,43,Cardiology,83,0,Thursday,Morning,5-10 km,0,1,Low
+P1043,71,Neurology,16,0,Thursday,Afternoon,10-20 km,1,0,Medium
+P1044,51,Neurology,64,0,Thursday,Evening,20+ km,0,0,Medium
+P1045,48,Dermatology,44,0,Monday,Morning,0-5 km,0,1,Low
+P1046,67,Gastroenterology,38,2,Wednesday,Afternoon,5-10 km,0,1,High
+P1047,63,Respiratory,74,0,Friday,Evening,5-10 km,0,1,Low
+P1048,23,Cardiology,25,0,Monday,Afternoon,20+ km,0,1,Medium
+P1049,78,Gastroenterology,14,0,Monday,Morning,5-10 km,0,1,Low
+P1050,76,General Medicine,3,1,Monday,Afternoon,5-10 km,0,0,Medium
+P1051,40,Cardiology,60,2,Wednesday,Morning,0-5 km,0,1,High
+P1052,59,Neurology,83,1,Monday,Morning,10-20 km,0,0,High
+P1053,60,Neurology,60,0,Wednesday,Evening,0-5 km,1,1,Medium
+P1054,56,Respiratory,8,1,Friday,Afternoon,10-20 km,2,1,High
+P1055,42,Cardiology,46,0,Monday,Afternoon,0-5 km,0,1,Low
+P1056,39,Dermatology,32,0,Thursday,Afternoon,0-5 km,0,1,Low
+P1057,51,Gastroenterology,82,2,Wednesday,Morning,20+ km,2,1,High
+P1058,73,Cardiology,34,0,Thursday,Morning,10-20 km,0,1,Low
+P1059,61,Respiratory,23,0,Friday,Evening,10-20 km,0,1,Low
+P1060,45,Neurology,55,1,Monday,Afternoon,0-5 km,1,1,High
+P1061,65,Neurology,84,1,Tuesday,Morning,5-10 km,0,1,Medium
+P1062,1,Cardiology,54,2,Friday,Morning,5-10 km,0,1,High
+P1063,72,General Medicine,9,0,Friday,Evening,20+ km,0,1,Low
+P1064,20,Respiratory,60,0,Tuesday,Evening,20+ km,0,1,Medium
+P1065,45,Gastroenterology,13,0,Monday,Morning,0-5 km,0,1,Low
+P1066,31,Neurology,43,1,Thursday,Afternoon,5-10 km,0,0,Medium
+P1067,28,Cardiology,73,2,Thursday,Morning,0-5 km,0,0,High
+P1068,72,Dermatology,24,0,Wednesday,Evening,10-20 km,1,1,Medium
+P1069,43,General Medicine,19,1,Wednesday,Morning,10-20 km,0,0,High
+P1070,58,Gastroenterology,58,1,Tuesday,Afternoon,20+ km,0,0,High
+P1071,51,Gastroenterology,87,0,Wednesday,Evening,10-20 km,0,0,Medium
+P1072,60,Cardiology,90,0,Wednesday,Afternoon,20+ km,0,1,Medium
+P1073,53,Dermatology,30,0,Friday,Morning,0-5 km,0,1,Low
+P1074,28,General Medicine,81,0,Wednesday,Morning,5-10 km,0,1,Low
+P1075,69,Respiratory,22,0,Tuesday,Morning,20+ km,0,1,Medium
+P1076,43,Neurology,15,0,Friday,Evening,0-5 km,0,1,Low
+P1077,23,Cardiology,64,0,Friday,Evening,20+ km,0,1,Medium
+P1078,44,Gastroenterology,34,0,Monday,Morning,0-5 km,1,1,Medium
+P1079,79,Gastroenterology,41,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P1080,67,Cardiology,58,0,Wednesday,Evening,10-20 km,1,1,Medium
+P1081,45,Gastroenterology,89,0,Tuesday,Evening,5-10 km,0,1,Low
+P1082,45,General Medicine,46,0,Thursday,Afternoon,5-10 km,0,1,Low
+P1083,46,General Medicine,88,0,Tuesday,Evening,0-5 km,2,1,Medium
+P1084,89,Respiratory,32,0,Monday,Morning,20+ km,0,1,Medium
+P1085,58,Respiratory,55,0,Tuesday,Evening,10-20 km,1,1,Medium
+P1086,59,Gastroenterology,4,0,Wednesday,Morning,0-5 km,0,1,Low
+P1087,70,Neurology,41,1,Thursday,Evening,5-10 km,2,1,High
+P1088,56,Gastroenterology,53,1,Friday,Afternoon,20+ km,1,1,High
+P1089,47,General Medicine,62,3,Tuesday,Morning,5-10 km,0,1,High
+P1090,48,Respiratory,78,1,Tuesday,Afternoon,10-20 km,0,1,Medium
+P1091,50,General Medicine,68,0,Monday,Evening,5-10 km,0,1,Low
+P1092,51,Dermatology,3,0,Monday,Morning,0-5 km,0,0,Low
+P1093,65,Respiratory,68,0,Thursday,Morning,5-10 km,0,1,Low
+P1094,52,Gastroenterology,36,0,Tuesday,Afternoon,0-5 km,1,1,Low
+P1095,65,Respiratory,20,1,Friday,Morning,10-20 km,0,1,Medium
+P1096,50,Dermatology,16,0,Friday,Evening,5-10 km,0,1,Low
+P1097,53,Neurology,61,3,Tuesday,Morning,5-10 km,0,1,High
+P1098,16,Dermatology,1,0,Friday,Morning,10-20 km,0,1,Low
+P1099,68,Neurology,24,0,Thursday,Evening,0-5 km,0,1,Low
+P1100,58,Dermatology,89,0,Tuesday,Morning,10-20 km,0,1,Medium
+P1101,69,General Medicine,21,0,Monday,Evening,5-10 km,0,0,Low
+P1102,1,Respiratory,30,0,Wednesday,Morning,0-5 km,0,1,Low
+P1103,89,Dermatology,12,0,Monday,Afternoon,0-5 km,1,1,Low
+P1104,49,Gastroenterology,10,2,Wednesday,Morning,20+ km,0,1,High
+P1105,71,Gastroenterology,50,0,Wednesday,Afternoon,10-20 km,1,1,Medium
+P1106,33,Neurology,50,1,Friday,Evening,20+ km,1,1,High
+P1107,63,Cardiology,42,1,Thursday,Morning,5-10 km,0,0,High
+P1108,33,Neurology,33,0,Thursday,Evening,20+ km,0,1,Low
+P1109,40,General Medicine,68,0,Friday,Morning,20+ km,0,1,Medium
+P1110,86,Neurology,4,1,Thursday,Morning,5-10 km,0,1,Medium
+P1111,48,Dermatology,60,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P1112,55,Neurology,24,0,Tuesday,Evening,5-10 km,0,0,Low
+P1113,67,General Medicine,37,0,Friday,Evening,20+ km,0,1,Low
+P1114,60,General Medicine,35,0,Wednesday,Afternoon,20+ km,1,0,High
+P1115,54,Cardiology,6,2,Monday,Afternoon,0-5 km,0,0,High
+P1116,58,General Medicine,31,2,Friday,Morning,0-5 km,2,0,High
+P1117,95,Neurology,78,0,Tuesday,Afternoon,20+ km,0,1,Medium
+P1118,50,General Medicine,54,0,Tuesday,Afternoon,10-20 km,1,1,Medium
+P1119,55,Respiratory,1,0,Wednesday,Afternoon,20+ km,1,0,Medium
+P1120,70,Dermatology,36,0,Friday,Morning,0-5 km,0,0,Medium
+P1121,71,Respiratory,8,0,Wednesday,Afternoon,5-10 km,0,1,Low
+P1122,73,Respiratory,51,2,Tuesday,Morning,20+ km,1,0,High
+P1123,63,Neurology,43,1,Wednesday,Evening,20+ km,0,0,High
+P1124,31,Cardiology,77,1,Monday,Evening,10-20 km,0,1,Medium
+P1125,81,General Medicine,36,0,Friday,Evening,5-10 km,1,1,Low
+P1126,31,General Medicine,69,2,Tuesday,Afternoon,10-20 km,0,0,High
+P1127,57,Cardiology,7,0,Thursday,Evening,20+ km,0,0,Medium
+P1128,38,Dermatology,70,1,Monday,Afternoon,5-10 km,1,1,High
+P1129,50,Gastroenterology,80,2,Wednesday,Afternoon,5-10 km,0,1,High
+P1130,57,Respiratory,23,0,Thursday,Afternoon,10-20 km,0,1,Low
+P1131,57,Respiratory,46,1,Tuesday,Afternoon,20+ km,0,1,High
+P1132,59,Dermatology,74,0,Monday,Evening,0-5 km,0,1,Low
+P1133,81,General Medicine,24,0,Monday,Morning,10-20 km,0,1,Low
+P1134,60,Neurology,76,0,Monday,Afternoon,0-5 km,2,1,Medium
+P1135,47,Gastroenterology,51,0,Monday,Morning,10-20 km,0,0,Medium
+P1136,69,Cardiology,83,2,Wednesday,Evening,10-20 km,0,1,High
+P1137,73,General Medicine,50,0,Thursday,Morning,20+ km,0,1,Medium
+P1138,29,Dermatology,3,3,Friday,Evening,20+ km,0,0,High
+P1139,62,Cardiology,26,0,Friday,Afternoon,20+ km,0,1,Low
+P1140,64,Cardiology,56,1,Monday,Evening,10-20 km,0,1,Medium
+P1141,46,Respiratory,5,0,Thursday,Evening,5-10 km,0,1,Low
+P1142,76,Respiratory,11,0,Wednesday,Afternoon,20+ km,0,1,Low
+P1143,49,Cardiology,67,1,Monday,Morning,0-5 km,0,1,Medium
+P1144,54,Dermatology,47,0,Monday,Afternoon,20+ km,1,0,High
+P1145,48,Gastroenterology,18,0,Thursday,Afternoon,5-10 km,1,1,Low
+P1146,52,Dermatology,6,0,Friday,Afternoon,5-10 km,0,1,Low
+P1147,32,Neurology,18,1,Monday,Afternoon,20+ km,0,1,Medium
+P1148,26,Neurology,87,2,Thursday,Morning,0-5 km,1,1,High
+P1149,80,Neurology,27,1,Thursday,Morning,5-10 km,0,1,Medium
+P1150,36,Gastroenterology,31,2,Friday,Evening,10-20 km,0,1,High
+P1151,34,Dermatology,68,0,Tuesday,Evening,10-20 km,1,1,Medium
+P1152,13,Dermatology,65,1,Thursday,Evening,0-5 km,0,1,Medium
+P1153,40,Respiratory,85,0,Wednesday,Morning,0-5 km,0,1,Low
+P1154,28,Cardiology,5,0,Thursday,Morning,0-5 km,0,1,Low
+P1155,81,General Medicine,75,2,Thursday,Evening,5-10 km,0,0,High
+P1156,70,Cardiology,16,0,Thursday,Morning,5-10 km,0,1,Low
+P1157,39,Respiratory,2,1,Tuesday,Afternoon,10-20 km,0,1,Medium
+P1158,92,Gastroenterology,52,1,Tuesday,Evening,0-5 km,0,1,Medium
+P1159,69,Cardiology,11,1,Wednesday,Afternoon,20+ km,0,1,Medium
+P1160,46,General Medicine,52,0,Tuesday,Morning,5-10 km,0,1,Low
+P1161,7,Dermatology,33,0,Tuesday,Morning,20+ km,2,1,High
+P1162,93,Cardiology,77,1,Friday,Evening,5-10 km,0,1,Medium
+P1163,26,Respiratory,56,0,Tuesday,Afternoon,0-5 km,0,0,Medium
+P1164,22,General Medicine,1,2,Wednesday,Morning,10-20 km,0,1,High
+P1165,70,General Medicine,73,0,Monday,Morning,10-20 km,0,1,Medium
+P1166,95,Respiratory,86,2,Wednesday,Morning,5-10 km,0,1,High
+P1167,76,Cardiology,72,2,Tuesday,Evening,20+ km,1,1,High
+P1168,62,General Medicine,53,0,Friday,Afternoon,20+ km,2,0,High
+P1169,62,General Medicine,85,0,Thursday,Morning,10-20 km,0,1,Medium
+P1170,67,Cardiology,43,1,Friday,Morning,0-5 km,0,0,High
+P1171,65,Cardiology,64,0,Friday,Afternoon,20+ km,1,1,Medium
+P1172,57,General Medicine,89,0,Friday,Evening,5-10 km,0,1,Low
+P1173,53,Cardiology,58,0,Wednesday,Morning,20+ km,0,0,High
+P1174,50,Cardiology,16,0,Tuesday,Evening,0-5 km,1,1,Low
+P1175,38,Cardiology,70,0,Monday,Evening,10-20 km,0,1,Low
+P1176,46,Gastroenterology,54,0,Tuesday,Evening,0-5 km,2,1,Medium
+P1177,21,Gastroenterology,87,1,Friday,Evening,0-5 km,1,1,High
+P1178,50,General Medicine,72,0,Thursday,Morning,5-10 km,0,0,Medium
+P1179,34,Dermatology,35,0,Wednesday,Afternoon,10-20 km,0,1,Low
+P1180,32,General Medicine,74,0,Thursday,Afternoon,20+ km,0,1,Medium
+P1181,55,Respiratory,63,1,Monday,Morning,20+ km,1,1,High
+P1182,77,Respiratory,55,0,Friday,Evening,0-5 km,0,0,Medium
+P1183,68,Dermatology,26,1,Wednesday,Evening,20+ km,0,1,Medium
+P1184,23,General Medicine,64,2,Wednesday,Afternoon,10-20 km,2,1,High
+P1185,34,Cardiology,72,0,Wednesday,Evening,20+ km,0,0,Medium
+P1186,68,Neurology,53,0,Thursday,Morning,5-10 km,1,1,Medium
+P1187,34,Dermatology,9,0,Monday,Morning,10-20 km,0,0,Medium
+P1188,47,Cardiology,23,0,Tuesday,Morning,0-5 km,0,1,Low
+P1189,61,Respiratory,59,0,Friday,Evening,0-5 km,0,1,Low
+P1190,34,General Medicine,86,0,Friday,Morning,20+ km,0,1,Medium
+P1191,53,General Medicine,47,0,Tuesday,Morning,5-10 km,1,0,High
+P1192,27,Dermatology,21,1,Thursday,Evening,20+ km,1,1,High
+P1193,41,Cardiology,33,1,Monday,Afternoon,0-5 km,0,0,Medium
+P1194,57,Gastroenterology,62,0,Monday,Afternoon,10-20 km,1,1,Medium
+P1195,23,General Medicine,51,1,Tuesday,Evening,5-10 km,0,1,Medium
+P1196,59,General Medicine,52,2,Monday,Afternoon,20+ km,0,1,High
+P1197,51,Respiratory,39,1,Thursday,Afternoon,5-10 km,0,1,Medium
+P1198,61,Gastroenterology,6,0,Tuesday,Evening,20+ km,0,1,Low
+P1199,56,General Medicine,76,1,Friday,Evening,20+ km,0,1,High
+P1200,76,Neurology,85,0,Thursday,Afternoon,20+ km,0,0,Medium

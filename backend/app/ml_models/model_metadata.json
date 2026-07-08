@@ -1,0 +1,60 @@
+{
+    "model_name": "Logistic Regression",
+    "target": "urgency_label",
+    "labels": [
+        "Emergency",
+        "Urgent",
+        "Soon",
+        "Routine",
+        "Self-care"
+    ],
+    "numeric_features": [
+        "age",
+        "duration_days",
+        "pain_score",
+        "diabetes",
+        "heart_disease",
+        "asthma",
+        "bp_high",
+        "pregnancy",
+        "previous_admissions",
+        "waiting_days",
+        "previous_missed_appointments",
+        "red_flag"
+    ],
+    "categorical_features": [
+        "gender",
+        "department"
+    ],
+    "symptom_features": [
+        "symptom_chest_pain",
+        "symptom_shortness_of_breath",
+        "symptom_palpitations",
+        "symptom_dizziness",
+        "symptom_fatigue",
+        "symptom_cough",
+        "symptom_fever",
+        "symptom_chest_tightness",
+        "symptom_abdominal_pain",
+        "symptom_blood_in_stool",
+        "symptom_weight_loss",
+        "symptom_vomiting",
+        "symptom_skin_rash",
+        "symptom_itching",
+        "symptom_swelling",
+        "symptom_redness",
+        "symptom_painful_skin_lesion",
+        "symptom_severe_headache",
+        "symptom_weakness",
+        "symptom_speech_difficulty",
+        "symptom_confusion"
+    ],
+    "accuracy": 0.7542,
+    "macro_f1": 0.7416,
+    "emergency_recall": 0.9048,
+    "urgent_recall": 0.7164,
+    "priority_score": 0.7855,
+    "training_rows": 960,
+    "test_rows": 240,
+    "dataset_path": "D:\\CareFlow-MCP\\ml\\data\\synthetic_referrals.csv"
+}
